@@ -14,7 +14,7 @@ First Extract Nouns from the notes of students using NLP and then compare them t
 
 2>Then stored them into a text file (Result file in Experiment1 Folder).
 
-3>Then I repeated the same process for Index file which is basically index file of sumitra arora
+3>Then I repeated the same process for Index file which is basically index of the book sumitra arora
 
 4>Now after that we stored all the Nouns of Index File into a Hash Map
 
