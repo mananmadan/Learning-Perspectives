@@ -28,10 +28,15 @@ which means that it is covered by both of them
 8>Using this Example we found that The Book Sumitra Arora Has 30 More topics covered as compared to NCERT.
 
 We get the result in the form
+
 Total String for Index file found 91
+
 Total String for Notes File found 2059
+
 Matches Found 324
+
 Distinct Matches Found 61
+
 Here the Matched found indicate that this many values matched , but out of them 61 topics were same in both Index and Notes.
 
 
