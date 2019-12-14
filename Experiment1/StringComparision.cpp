@@ -75,6 +75,16 @@ cout<<"Total String for Index file found"<<" "<<count<<endl;
 cout<<"Total String for Notes File found"<<" "<<count2<<endl;
 cout<<"Matches Found"<<" "<<match<<endl;
 cout<<"Distinct Matches Found"<<" "<<s.size()<<" "<<endl;
-
+cout<<endl;
+std::set<std::string>::iterator it= s.begin();
+ 
+// Iterate till the end of set
+while (it != s.end())
+{
+	// Print the element
+	std::cout << (*it) << " , ";
+	//Increment the iterator
+	it++;
+}
 
 }
