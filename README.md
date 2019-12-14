@@ -39,4 +39,10 @@ Distinct Matches Found 61
 
 Here the Matched found indicate that this many values matched , but out of them 61 topics were same in both Index and Notes.
 
+asp  , bandwidth  , bus  , coaxial cable  , concept  , cyber  , cyber crimes  , data  , data communication terminologies  , domain names  , ethernet card  , file transfer protocol  , ftp  , gprs  , gsm  , html  , http  , hyper text markup language  , hz  , india it  , internet  , ipr  , java script  , jsp  , lan  , man  , markup language  , mbps  , modem  , network  , network devices  , network protocol  , network topologies  , packet  , pair cable  , pan  , php  , ppp  , remote login  , repeater  , router  , server  , smtp  , switch  , tcp/ip  , telnet  , threats  , transmission media  , tree  , trojan  , types  , url  , vb script  , viruses  , wan  , web  , web servers  , website  , wi-fi  , worms  , www  , 
+
+## Above topics got matched in the given test files. 
+
+
+
 
