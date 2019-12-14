@@ -1,0 +1,443 @@
+COMPUTER NETWORKING
+
+CHAPTER 1
+
+A computer network is a collection of interconnected computers and other
+
+devices which are able to communicate with each other and share hardware
+
+and software resources.
+
+Advantages :
+
+
+a.	Resource Sharing
+b.	Cost saving
+c.	Collaborative user interaction
+d.	Time saving
+e.	Increased storage
+Networking Hardware
+Transmission Media- A transmission medium is a medium of data transfer over a network. It can be wired or wireless.
+Wired Media- A number of various types of cables are used to transfer data over computer networks.
+Twisted Pair Cable –
+Advantages:
+(i) It is easy to install and maintain.
+(ii) It is very inexpensive
+Disadvantages:
+(i) It is incapable to carry a signal over long distances without the use of repeaters.
+(ii) Due to low bandwidth, these are unsuitable for broadband applications.
+Co-axial cable (or coax)-
+Advantages-
+
+
+•	It can carry data for a larger distance (185m - 500m) at a stretch.
+•	Less susceptible to electromagnetic fields
+
+Disadvantages-
+
+
+•	Bulkier and less flexible than twisted pair.
+•	Due to its thickness (1cm diameter) and less flexibility, it is difficult to install as
+compared to twisted pair cable.
+
+Optical Fiber cable -
+
+Advantages-
+
+
+•	It can carry data for a very large distance at a stretch.
+•	Not susceptible to electromagnetic fields
+
+Disadvantages-
+
+
+•	Specially skilled people are required to install optical fiber cables.
+•	Till date it is the most expensive and at the same time the most efficient cable
+available for computer networks.
+
+Comparison of wired media
+
+
+Wireless Media
+
+Radio Waves - they are widely used for communication, both indoors and outdoors. Cordless phones, AM and FM radio broadcast, Garage door openers etc. are
+
+examples of radio wave transmission.
+
+ADVANTAGES
+
+
+•	Relatively inexpensive than wired media.
+•	It offers ease of communication over difficult terrain.
+•	These waves are omni-directional, so the transmitting and receiving antennas
+need not be aligned.
+
+
+DISADVANTAGES
+
+
+•	The transmission can be interfered by motors or other electrical equipment
+•	Permission from concerned authorities is required for use of radio wave
+Transmission.
+•	Less secure mode of transmission
+
+Micro Waves Microwaves travel in straight lines and cannot penetrate any solid object. Therefore for long distance microwave communication, high towers are built and microwave antennas are put on their top.
+
+In the big cities where land is very costly and a lot of formalities have to be completed to
+
+get permission to dig land for cabling, microwave antennas can be put on top of high rise buildings and communication can be started in a short time.
+
+
+ADVANTAGES
+
+
+•	Free from land acquisition rights
+•	Relatively inexpensive than wired media
+•	Offers ease of communication over difficult terrain
+
+DISADVANTAGES
+
+The transmission is in straight lines so the transmitting and receiving antennas
+
+need to be properly aligned ( line of sight transmission)
+
+
+Infrared Waves
+
+
+These waves are used for short range communication (approx. 5m) in a variety of wireless communications, monitoring, and control applications. Home-entertainment remote-control devices, Cordless mouse, and Intrusion detectors are some of the devices that utilize infrared communication.
+
+
+ADVANTAGES
+
+
+•	It is a line of sight transmission; therefore information passed to one device is
+not leaked to another device.
+•	No government license is required for their use
+
+
+DISADVANTAGES
+
+
+•	It is a line of sight transmission, therefore at a time only two devices can
+communicate.
+•	The waves do not cross any solid object in between
+•	Performance drops with longer distances
+
+
+
+Bluetooth- Bluetooth technology uses radio waves in the frequency range of 2.402 GHzto 2.480 GHz. This technology is used for short range communication (approx. 10m) in a variety of devices for wireless communication. Baby monitors, door openers, and cell phones are some of the devices that utilize Bluetooth communication.
+
+
+ADVANTAGES
+
+
+•	Line of sight between communicating devices is not required.
+•	Bluetooth can connect up to eight devices simultaneously.
+
+DISADVANTAGES
+
+
+•	Slow data transfer rate (upto 1Mbps).
+
+
+Satellite Link Satellite links are used for very long distance wireless communication
+
+which may range from intercity to intercontinental. The satellite system is very expensive but its area coverage and fringe benefits compensate for the expenses.
+
+
+ADVANTAGES
+
+
+•	Satellites cover large area of earth
+•	Since communication over very long distances is possible, this becomes a commercially attractive option.
+
+
+DISADVANTAGES
+
+
+•	This system is expensive
+•	Requires legal permissions
+
+
+
+Network Devices
+
+Other than the transmission media many other devices are required to form computer
+
+networks. Some of these devices are:
+
+
+1.NIC(Network Interface Card):An NIC (Network Interface Card) is a device that enables a computer to connect to a network and communicate. Any computer which has to be a part of a computer network must have an NIC installed in it.
+
+2.HUB: A Hub is an electronic device that connects several nodes to form a network and redirects the received information to all the connected nodes in broadcast mode. The computer(s) for which the information is intended receive(s) this information and accept(s) it. Other computers on the network simply reject this information.
+
+3. SWITCH: A Switch is an intelligent device that connects several nodes to form a network and redirects the received information only to the intended node(s).
+
+
+The difference between the two is that Hub broadcasts the received information to all the nodes.
+
+Switch does not broadcast instead sends the information selectively only to those computers for which it is intended. This makes a switch more efficient than a hub.
+
+
+Repeater: A Repeater is a device that is used to regenerate a signal which is on its way through a communication channel. A repeater regenerates the received signal
+
+and re-transmits it to its destination.
+
+
+Gateway: A Gateway is a device, which is used to connect different types of networks.
+
+
+Network Topologies
+
+
+A Topology is an arrangement of physical connections among nodes in a network.
+
+There exist different network topologies:
+
+
+Bus Topology In bus topology all the nodes are connected to a main cable called
+
+Backbone.
+
+
+ADVANTAGES
+
+It is easy to install.
+
+It requires less cable length and hence it is cost effective.
+
+Failure of a node does not affect the network.
+
+
+DISADVANTAGES
+
+In case of cable (backbone) or terminator fault, the entire network breaks down.
+
+Fault diagnosis is difficult.
+
+At a time only one node can transmit data.
+
+
+Star Topology: In star topology each node is directly connected to a hub/switch.
+
+
+ADVANTAGES
+
+
+It is more efficient topology as compared to bus topology.
+
+It is easy to install.
+
+It is easy to diagnose the fault in Star topology.
+
+It is easy to expand depending on the specifications of central hub/switch.
+
+
+DISADVANTAGES
+
+
+Failure of hub/switch leads to failure of entire network.
+
+It requires more cable length as compared to bus topology.
+
+
+Tree Topology: Tree topology is a combination of bus and star topologies. It is used to
+
+combine multiple star topology networks.
+
+
+It offers easy way of network expansion.
+
+Even if one network (star) fails, the other networks remain connected and
+
+working.
+
+
+Network Protocols: A network protocol is a set of rules for communication among networked devices.
+
+Three Protocols are HTTP, TCP/IP, PPP.
+
+
+HTTP (Hyper Text Transfer Protocol): HTTP is used to transfer all files and other data
+
+(collectively called resources) from one computer to another on the world wide web.
+
+
+TCP/IP (Transmission Control Protocol / Internet Protocol): Communication between two computers on internet is done using TCP/IP
+
+protocol.
+
+
+PPP (Point to Point Protocol): It is a protocol for direct communication between two
+
+computers, typically a personal computer connected by phone line to a server. PPP
+
+is used over many types of physical networks including cellular telephone, serial cable,
+
+phone line, trunk line, specialized radio links, and fiber optic links.
+
+
+Types of Networks: On the basis of area covered computer networks are classified as:
+
+
+PAN - Personal Area Network- A PAN is a network of Communicating devices (Computer, Phone, MP3/MP4 Player, Camera etc.) in the proximity of an individual. A PAN can be set up using guided media (USB cable) or unguided media (Bluetooth, Infrared).
+
+
+LAN - Local Area Network- A LAN is a network of computing/Communicating devices in a room, building, or campus. It can cover an area of a few meters to a few kilometers radius.
+
+
+A LAN can be set up using wired media (UTP cables, Co-axial cables etc.) or wireless
+
+media (Infrared, radio waves). If a LAN is setup using unguided media, it is known as
+
+WLAN (wireless LAN).
+
+
+MAN - Metropolitan Area Network- A MAN is a network of computing/communicating
+
+devices within a city. It can cover an area of a few kilometers to a few hundred kilometers radius. A network of schools, or banks, or Government offices etc., within a city, are examples of MANs. A good example of a MAN is the interconnected
+
+offices of a state government.
+
+
+WAN -Wide Area Network- A WAN is a network of computing/communicating devices
+
+crossing the limits of a city, country, or continent. It can cover an area of over hundreds of kilometer radius. A network of ATMs, BANKs, National Government Offices, International Organizations' Offices etc., spread over a country, continent, or covering many continents are examples of WANs. The best known example of a WAN
+
+is the internet.
+
+
+Identification of computers and users over a network-
+
+
+MAC (Media Access Control) address- a machine with an NIC can be identified uniquely through its NIC’s (Network Interface Card) MAC address. MAC address of an NIC is permanent and does never change. For example, in the following MAC address,
+
+
+00:A0:C9 : 14:C8:35
+
+
+The prefix 00:A0:C9 indicates that the manufacturer is Intel Corporation. And the last
+
+three numbers 14:C8:35 are given by the manufacturer (Intel in this example) to this NIC.
+
+
+IP Address- Every machine in a network has another unique identifying number, called its IP Address. An IP address is a group of four bytes (or 32 bits) each of which can be a number from 0 to 255. A typical IP address looks like this:
+
+
+59.177.134.72
+
+
+On a network, IP address of a machine is used to identify it. MAC address is used only when a specific machine is to be targeted. For example, suppose we want to block a specific PC to access some network resource. If we use the PCs IP address, then the PC is not blocked permanently as its IP address may change when it connects to the network next time. Instead, we use the PCs MAC address for this purpose.
+
+
+IP Address Vs MAC Address
+
+
+•	The IP address is assigned by the network administrator or the internet
+
+service provider while the MAC address is assigned by the manufacturer.
+
+
+•	if a computer is transferred from one network to another, its IP address gets changed where as the MAC address remains the same.
+
+
+Domain Name: Whenever we have to communicate with a computer on internet, we
+
+can do so by using its IP address. But it is practically impossible for a person to remember the IP addresses of all the computers one may have to communicate with. Therefore, a system has been developed which assigns names to some computers (web servers) and maintains a database of these names and corresponding IP addresses. These names are called Domain Names. Examples of some domain names are cbse.nic.in, sikkimipr.org, indianrailway.gov.in etc
+
+
+Generic Domain Names:
+
+·com - commercial business
+
+·edu - Educational institutions
+
+·gov - Government agencies
+
+·mil - Military
+
+·net - Network organizations
+
+·org - Organizations (nonprofit)
+
+
+Country Specific Domain Names:
+
+.in - India
+
+·au - Australia
+
+·ca - Canada
+
+.ch - China
+
+.nz - New Zealand
+
+.pk - Pakistan
+
+.jp - Japan
+
+.us - United States of America
+
+
+Domain Name Resolution is the process of getting corresponding IP address from
+
+a domain name.
+
+
+Network Security
+
+
+Some kinds of attacks on network security are as :
+
+
+
+1.A Denial of Service (DoS) attack is an attempt to make one or more network resources unavailable to their legitimate users. Examples of such attacks are:
+
+
+
+a.	Denial of Access to Information: Corrupting, Encrypting, or changing the
+status of information so that it is not accessible to its legitimate user.
+b.	Denial of Access to Application: Forced shutting of an application as soon as
+the user opens it.
+c.	Denial of Access to Resources: Blocking a resource, may be a printer or scanner or USB port, of a computer from proper working.
+d.	Denial of Access to a Website: Continuously sending bulk requests to a website so that it is not available to any other user.
+2.An Intrusion problem is an attempt to mischievously steal some information from someone's computer. Examples of Intrusion are:
+a)Snooping refers to gaining unauthorized access to another person's or organization's data. This may be done in a number of ways:
+
+
+•	By getting someone's login information by casually watching what he/she is
+
+typing.
+
+
+•	Reading the files on someone's computer in an unauthorised manner.
+•	Using some softwares which keeps track of the activities and data being sent or
+
+received on someone's computer.
+
+
+b)Eavesdropping refers to unauthorised access to another person's or organization's data while the data is on its way on the network. This may be done in a number of ways:
+
+
+•	By setting up parallel telephone lines.
+•	By installing some software (spyware) in the target computer.
+•	By installing some receiver which captures the data while on its way.
+
+
+The term Network Security refers to all activities undertaken to protect a computer
+
+network from attacks to its security.
+
+
+
+Protecting a network from security attacks
+
+
+a.	Login-Password: By assigning login names and strong passwords to the users of a system, it can be ensured that only authorized people access a computer.
+b.	Firewall: A firewall is a hardware device or a software that is installed to monitor the data entering the computer/Network or leaving it.
+c.	Anti Virus Software: Anti-virus softwares work against not only the virus but
+also against almost all kinds of malware. Therefore by installing a full version legal (not the pirated one or freeware) anti-virus software network security can be increased.
+d.	File Permissions: Different rights (privileges) can be given to different users of a computer to perform one or more of these tasks. For eg.  'Read', 'Write', and
+'Modify' rights can be given. By giving appropriate rights to respective users, computer security as well as network security can be increased.
