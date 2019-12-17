@@ -42,7 +42,7 @@ fin.close();
 cout<<"Closed index file"<<endl;
 cout<<"Opening the Notes file"<<endl;
 ifstream fin2;
-fin2.open("Results(Networking_NCERT).txt");
+fin2.open("Results(Networking_Student2).txt");
 string line2;
 getline(fin2,line2);
 cout<<line2<<endl;
