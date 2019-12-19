@@ -1,0 +1,1 @@
+classifier learns  , decision makers  , different bootstrap samples  , ensemble  , high confidence  , informative training data  , multiple learning machines  , overall accuracy  , possible decision ,
