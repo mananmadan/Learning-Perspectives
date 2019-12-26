@@ -3,7 +3,7 @@
 # Learning-Perspectives
 
 
-Project to analyse the Notes of different students in Class and figure out different Perspectives of Learning of Students and then recommend links to them according to their Perspective.
+Project to analyse the notes of different students in Class and figure out different Perspectives of Learning of Students and then recommend links to them according to their Perspective.
 # Main Idea:
 First Extract Nouns from the notes of students using NLP and then compare them to the index formed using teachers note or book 
 # Implementation Progress
