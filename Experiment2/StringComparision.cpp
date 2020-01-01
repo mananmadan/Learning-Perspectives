@@ -13,18 +13,20 @@ int main()
 {
 //Read the strings from the index file and put into hashmap
 ifstream fin;
-fin.open("Results(Mam).txt");
+fin.open("Result(Mam).txt");
 string line;
 cout<<"Outside the while loop"<<endl;
-getline(fin,line);
+int count =0;
+
+while(getline(fin,line))
+{
 cout<<line<<endl;
 cout<<"Breaking the line into different string and then puttiing them into hash maps"<<endl;
 int i =0;
-int count =0;
 while(i<line.length())
 {
  string temp;
-while(line[i]!=',')
+while(line[i]!=' ')
 {
 temp = temp + line[i];
 i++;
@@ -36,9 +38,13 @@ cout<<"Putting into hashmap"<<endl;
 cout<<temp<<endl;
 m[temp]=1;
 teacher_notes.insert(temp);
+string another_temp;
+another_temp = temp;
+int add = 26 + temp[0];
+another_temp = (string)add+ another_temp;
 i++;
 }
-
+}
 cout<<"------------------------------------Hash Map Created-----------------------------"<<endl;
 fin.close();
 cout<<"Closed index file"<<endl;
