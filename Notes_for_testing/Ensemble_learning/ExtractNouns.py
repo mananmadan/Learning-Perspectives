@@ -2,7 +2,7 @@
 import nltk
 import textblob
 
-opentext = open("Mam_Notes.txt")
+opentext = open("Gaurav_Notes.txt")
 readtext = opentext.read()
 lines = readtext
 is_noun = lambda pos: pos[:2] == 'NN'
@@ -11,6 +11,12 @@ tokenized = nltk.word_tokenize(lines)
 nouns = [word for (word, pos) in nltk.pos_tag(tokenized) if is_noun(pos)]
 
 print nouns
+
+openfile = open("Results(Gaurav)(Noun).txt","w")
+for i in nouns:
+    openfile.write(i)
+    openfile.write(",")
+print("Done")
 blob = textblob.TextBlob(readtext)
 #open file for writing
 openfile = open("Results.txt","w")
