@@ -122,7 +122,7 @@ fin.close();
 cout<<"Closed index file"<<endl;
 cout<<"Opening the Notes file"<<endl;
 ifstream fin2;
-fin2.open("Results(Gaurav)(Noun).txt");
+fin2.open("Results(Manan)(Noun).txt");
 string line2;
 getline(fin2,line2);
 cout<<line2<<endl;
@@ -159,12 +159,12 @@ j++;
 }
 
 cout<<"Total String for Index file found"<<" "<<count<<endl;
-cout<<count_stemmed<<" "<<count_lematized<<"\n";
+//cout<<count_stemmed<<" "<<count_lematized<<"\n";
 cout<<"Total topic from teacher"<<" "<<teacher_notes_set.size()<<"\n";
 cout<<"Total String for Notes File found"<<" "<<count2<<endl;
 cout<<"Total topics from student"<<" "<<student_notes.size()<<"\n";
 cout<<"Matches Found"<<" "<<matches_found.size()<<endl;
-cout<<"different topics Found"<<" "<<result.size()<<" "<<endl;
+//cout<<"different topics Found"<<" "<<result.size()<<" "<<endl;
 std::set<std::string>::iterator it= teacher_notes_set.begin();
 int temp_f=0;
 
@@ -184,11 +184,12 @@ std::set<std::string>::iterator it2= matches_found.begin();
   {
     if(*it2 == *it)
     temp_f=1;
+
     it2++;
   }
-   if(temp_f==1)
+   if(temp_f!=1)
   { finalresult.insert(*it);
-   cout<<*it<<":::";
+   //cout<<*it<<":::";
   }
   it++;
 }
@@ -196,9 +197,25 @@ std::set<std::string>::iterator it2= matches_found.begin();
 cout<<"Different topics found"<<finalresult.size()<<" "<<count_temp<<"\n";
 std::set<std::string>::iterator it3= finalresult.begin();
 while(it3!=finalresult.end())
-{cout<<(*it3)<<":::";
+{cout<<(*it3)<<" ";
 it3++;
 }
 cout<<"\n";
+//write the words to the file teacher set
+std::set<std::string>::iterator it_t= teacher_notes_set.begin();
+ofstream outfile;
+outfile.open("teacher_notes_set.txt");
+while(it_t != teacher_notes_set.end())
+{
+  outfile<<*it_t<<" ";it_t++;
+}
+// write to word to the file gaurav set
+ofstream outfile2;
+outfile2.open("manan_notes_set.txt");
+std::set<std::string>::iterator it_f= student_notes.begin();
+while(it_f != student_notes.end())
+{
+  outfile2<<*it_f<<" ";it_f++;
+}
 
 }
