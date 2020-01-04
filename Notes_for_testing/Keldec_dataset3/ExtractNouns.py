@@ -21,7 +21,7 @@ blob = textblob.TextBlob(readtext)
 #open file for writing
 openfile = open("Results(Keldec-3)(noun_phrases).txt","w")
 for i in blob.noun_phrases:
- openfile.write(i)
+ openfile.write(i.decode('utf-8'))
  openfile.write(" ")
  openfile.write(",")
 
