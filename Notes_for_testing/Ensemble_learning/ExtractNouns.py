@@ -2,7 +2,7 @@
 import nltk
 import textblob
 
-opentext = open("Gaurav_Notes.txt")
+opentext = open("Notes.txt")
 readtext = opentext.read()
 lines = readtext
 is_noun = lambda pos: pos[:2] == 'NN'
@@ -12,7 +12,7 @@ nouns = [word for (word, pos) in nltk.pos_tag(tokenized) if is_noun(pos)]
 
 print nouns
 
-openfile = open("Results(Gaurav)(Noun).txt","w")
+openfile = open("Results(Keldec)(Noun).txt","w")
 for i in nouns:
     openfile.write(i)
     openfile.write(",")
