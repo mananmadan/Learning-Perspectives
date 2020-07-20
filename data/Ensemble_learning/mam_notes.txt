@@ -1,0 +1,115 @@
+Ensemble  learning 
+refers to the process employed to train multiple learning machines and combine their outputs treating them as committee of decision makers 
+
+The principles that the decision of the committee with individual predictions combined appropriately should have better overall accuracy   on average than any individual committee menter
+
+The members of ensemble mightbe predicting
+real valued numbers 
+class labels 
+posterior probabilities 
+rankings
+clusterings  etc
+
+an esemble consists of a set of models and a method to combine them 
+
+the underlying principle of esemble learning is a recognition that in real world situations every machine learning model has limitations and will make errors
+
+The aim of essemble learning is to manage their strengths and weakness leading to the  best possible decision being taken overall 
+
+
+
+
+
+
+model selectionwhich type of classifier lobe used 
+ always we cross valiation
+ for ensemble learning one should choose direuse models
+ the outcomes of each modeln are usually averaged ouy
+model selection should be done while keeping in mind the final goat reduce risk 
+study the staility of your data sample data quantity
+
+if we have lenty of data  we may split the data into two parts train validity  test
+train each classifier on a separate subsets 
+
+if the dataset is not big in size use different bootstrap samples of data to train different classifiers 
+
+here each bootstrap sample is the random sample of the data drawn with replacements and treated as if it was independently drawn from the underlying distributions 
+
+
+
+divide and conquer
+ 
+the decision boundary that separates the data may be too complex for certain problems
+
+here using  esemble learning the classification
+system follows a divide and conquer approach
+
+divide the dataspace into smaller and easier to learn partitions  where each classifier learns only one of the simpler partitions
+
+data fusions 
+suitable combinations of data from different source is called data fusion 
+datainformations fusion can lead toimproved accuracy wth the help of sources that may provide complementary informations 
+
+confidence estimations
+if the majority of classifiers agree with their decison esemble having high confidence in its decision 
+half make one decision and half make different decisio esemble having low confidence 
+
+
+
+it may be noted that esemble having high cnfidence does not mean that decision is correct 
+
+however properly trained esemble decision is usually correct if confidence is high
+
+esemble learning algorithms 
+ baggingbootstrap aggregating
+oldest and simplest 
+diversity is obtained by using bootstarp replicas
+
+ boostng 
+similar to bagging  boosting creates replicas by resampling the data 
+however in boosting   resampling is strategically geared to provide the most informative 
+training data for each consecutive classifier 
+
+each iteration weak classifiers 
+ classifiers c trained with random subset 
+ c trained on the most informative subset  half of training data correctly classified by c and the other half misclassified 
+ c trained with inslances on which c and c disagree
+
+
+
+boosting is designed for binary class problems 
+
+ada boost adaptive boosting
+instances are drawn into the subset database from an iteratively updated sample distributions 
+of the training data 
+
+the classifiers are combined through weighted majority voting where voting weights are based on classifiers 
+training errors 
+
+
+random forests 
+another version of bagging  
+ensemble of decision trees trained with a bagging mechanism 
+each tree depends on a collection of random variables
+
+they naturally handle both reguession and multicates classification 
+
+are relatively fast to train predict 
+depends only on one or two tuning parameters 
+
+
+
+
+
+
+DECORATE diverse ensemble creation of oppositional relabelling of artificial training examples 
+
+based on specially constructed artificial examples 
+
+used to create diverse ensembles 
+
+Combining ensemble members 
+ majority voting 
+ weighted majorty voting 
+ borda count    
+

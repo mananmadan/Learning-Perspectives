@@ -1,0 +1,58 @@
+ensemble learning
+procedures employed to train multiple learning machine and combine their outputs treat as committee of decision makes
+principle  decision of the committee with individuals predictions combined approximately should have better accuracy on average than any individual committee member
+members
+real valued no
+class labels
+posterior probabilities
+rankings
+clusterings
+underlying principle recognition that in real world situations 
+aims manage strengths and weaknesses 
+model selection
+use cross validation
+choose direuse models
+outcomes are usually averaged out
+keep in mind the final goal reduce risk
+study stability of your data sample
+data quantity
+if plenty data spilt the data into several parts  train each classifier on separate subset 
+if the dataset is not big  use different sample of data to train the classifiers
+divide and conquer
+boundary separates the data may be complex for certain problem
+divide the dataspace into small pieces and easier to learn partitions where each classifier learns only one of the simpler partitions
+data fusion
+combination of data from different sources 
+can lead to improved accuracy 
+confidence estimation
+if majority of classifiers agree ensemble having high confidence in its decision
+half make one decision and half make different ensemble having low confidence
+ensemble having high confidence does no mean that decision is good
+properly trained ensemble decision is usually correct if confidence is high 
+ensemble learning algorithms
+baggingbootstrap aggregating
+oldest and simplest diversity is obtained by using bootstrapped replicas
+boosting
+creates replicas by resampling the data resampling is strategically geared to provide the most informative training data for each consecutive classifier 
+each iteration
+ weak classifiers
+trained with random subset
+trained on the most informative subset half of training data correctly classified the other half misclassified 
+ trained with instances in which other two disagree
+boosting is designed for binary class problems
+adaboost adaptive boosting
+instances drawn into the subset dataset from an iteratively updated sample distribution of the training data
+classifiers are combined through weighted majority voting where voting weights are based on classifiers training errors
+random forests
+another version of bagging
+decision trees trained with a bagging mechanism 
+they handle both regression and multiclass classification
+relatively fast to train  predict
+depends only on one or two parameters
+decoratediverse ensemble creating of oppositional relabelling of artificial training examples
+specially constructed artificial examples used to create diverse ensemble
+combining ensemble members
+majority voting 
+weighted majority voting
+borda count
+
