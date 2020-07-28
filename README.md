@@ -13,11 +13,11 @@
 ### To do
 
 - High Quality data needed!
-- One Hot Encoding
 - Clustering
 
 ### Done:
 
+- One Hot Encoding
 - Filter and Extraction
 - Finding Difference
 - Link Recommendation
@@ -32,4 +32,4 @@
 ### Clustering
 
 - One Hot Encode the data
-- CLuster according to the common things learnt in class
+- cluster according to the score in one-hot encoding

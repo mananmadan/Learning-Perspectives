@@ -1,0 +1,104 @@
+ensemble learning
+it refers to the procedures to combine output of multiple machines and treating them as a committee makers
+
+the principle is that the resultant decision should have better overall accuracy on average than any individual committee member
+
+the members of ensemble might be predicting
+
+ real valued numbers
+
+ class labels
+
+ rankings and clusterings etc
+
+ posterior probabilities
+
+an ensemble consists of a set of model and a method to combine them
+
+the underlying principle of ensemble learning is a recognition thea in real world situations every machine learning model has limitations and will make errors
+
+model selection
+
+ always use cross validation
+
+ the outcomes of each model are usually average out
+
+ final goal should be kept in mind
+
+ study the stability of your data sample
+
+data quantity
+
+  we can split the bulky data into many partstrain each and every part separately
+
+  if the dataset is not big in size use different bootstrap of data to train different classifiers
+here each bootstrap sample is the random sample of the data drain with replacement and treated as if the was independently drawn from the underlying distribution
+
+ divide and conquer
+
+the decision boundary that separates the data may be too complex for certain problems
+
+here the classification system follows a divide and conquer approach
+
+divide the dataspace in such a way the each classifier learns only of the simpler partitions
+
+data fusion
+
+suitable combination of data from different sources is called data fusion
+
+this can lead to improved accuracy
+
+confidence estimation
+
+the decision if highly confident when majority of classifiers agree with their decisions
+
+it may be noted that ensemble having high confidence decision does mean that decision is correct however its viceversa is correct
+
+ensemble learning algorithms
+
+ baggingbootstrap aggregating
+        
+        oldest and simplest
+        
+         diversity is obtained by using bootstrapped replicas
+
+ boosting
+       
+         it also creates replicas by resampling the data
+           
+ however in boosting resembling is strategically geared to provide the most info train data for   each consecutive classifiers
+ 
+each iteration  weak classifiers 
+ classifier c trained with random subset
+
+ c trained on the most info subset half of training data correctly classifies by c and the other half misclassified
+
+ c trained with instances on which c and c disagree
+
+boosting is designed for binary class problems
+
+ada boost adaplive boosting
+
+ instances are drawn into the subset dataset from on iteratively updated sample distribution for the training data
+
+ the classifiers training errors decides the voting weights to combined classifiers through weights majority voting
+
+random forests
+
+ensemble of decision tress trained with a bagging mechanism
+they naturally handle both regression and multi class classification
+
+ relatively fast and depends only on one or two tuning parameter
+ 
+decoratediverse ensemble creation of oppositional relabelling of artificial training examples
+
+based on the specially constructed artificial eg
+
+ used to create diverse ensembles
+
+combining ensemble members
+
+ majority voting
+ weighted majority voting
+borda count
+
