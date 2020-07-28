@@ -2,29 +2,23 @@
 import nltk
 import textblob
 
-opentext = open("notes.txt")
-readtext = opentext.read()
-lines = readtext
-is_noun = lambda pos: pos[:2] == 'NNPS'
-# do the nlp stuff
-tokenized = nltk.word_tokenize(lines)
-nouns = [word for (word, pos) in nltk.pos_tag(tokenized) if is_noun(pos)]
+def extract_keywords(readfile,writefile):
+ opentext = open(readfile)
+ readtext = opentext.read()
+ lines = readtext
+ is_noun = lambda pos: pos[:2] == 'NNPS'
+ tokenized = nltk.word_tokenize(lines)
+ nouns = [word for (word, pos) in nltk.pos_tag(tokenized) if is_noun(pos)]
+ openfile = open(writefile,"w")
+ blob = textblob.TextBlob(readtext)
+ count = 0
+ for i in blob.noun_phrases:
+  count = count + 1
+  openfile.write(i)
+  openfile.write(" ")
+  openfile.write(",")
 
-print nouns
+ openfile.close()
+ print("total keywords found",count)
 
-openfile = open("Results(Keldec)(Noun).txt","w")
-for i in nouns:
-    openfile.write(i)
-    openfile.write(",")
-print("Done")
-blob = textblob.TextBlob(readtext)
-#open file for writing
-openfile = open("Results.txt","w")
-for i in blob.noun_phrases:
- openfile.write(i)
- openfile.write(" ")
- openfile.write(",")
 
-openfile.close()
-
-print(blob.noun_phrases)
