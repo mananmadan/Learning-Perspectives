@@ -19,6 +19,7 @@ def extract_keywords(readfile,writefile):
   openfile.write(",")
 
  openfile.close()
+ return count
  print("total keywords found",count)
 
 

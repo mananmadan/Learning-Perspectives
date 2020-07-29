@@ -29,7 +29,22 @@ def load_list(evalfile):
     #for i in eval_list:
     #    print(i)
 
-def encode(mainfile,evalfile):
+def calc_score(bstring,normalizing_val):
+    # calculate the score from the binary string and give out the normalized score
+    count =0;
+    ans = 0;
+    for i in bstring:
+     if i == '0':
+         count = count+1
+     elif i == '1':
+         ans = ans + pow(2,count)
+         count = count +1
+    ans = ans + 0.01
+    val = ans/pow(2,normalizing_val)
+    print(val)
+    return val
+
+def encode(mainfile,evalfile,normalizing_val):
     # encoding in binary strings
     bstring = "" 
     load_list(evalfile)
@@ -40,4 +55,5 @@ def encode(mainfile,evalfile):
         else:
             bstring = bstring + '0'
     print(bstring)
-
+    val = calc_score(bstring,normalizing_val)
+    return val

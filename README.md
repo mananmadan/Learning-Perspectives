@@ -13,10 +13,10 @@
 ### To do
 
 - High Quality data needed!
-- Clustering
 
 ### Done:
 
+- Clustering
 - One Hot Encoding
 - Filter and Extraction
 - Finding Difference
