@@ -1,0 +1,109 @@
+vikas 
+uco
+epp
+
+write short notes on following
+   oo    scrum
+   oo    lean development 
+   oo    extreme programming xp
+   oo    adaptive software development asd 
+   oo    feature driven development
+
+scrum lean development extreme programming asd and feature driven development all of them are agile software development frameworksthey all follow agile principles ie they are iterative and incremental in nature
+
+scrum
+
+scrum defines three different roles to the entire project team which are 
+developer team  group of programmers who work in sprints to produce the product
+scrum master person who ensures that the team works in accordance to the predefined principles of scrum framework
+product owner customer is the product owner who acts same as project manager in context of other methodologies and ensures quality of user stories and organizes the features list in backlog refinement sessions
+
+scrum ceremonies  these are the essential scrum meetings and comprises sprint planning daily standup daily scrum sprint review and retrospective 
+ sprint planning is held at the beginning of a new sprint where the product owner explains the requirements and all of the use cases the team asks questions to clear their doubtseffort estimation is done  using the planning poker method to assign tasks to individuals
+ daily scrum or standup  this meeting takes place each day with the goal to keep everyone on the same page
+ sprintiteration review   it usually takes  hours where the developer team gives demos of work done and receives feedback from the participants of the meeting
+ sprint retrospective  goal of this meeting is to find out any issue that is affecting the progress of the last iteration 
+
+in addition to all these meetings scrum also specifies a few artifacts such as the product backlog the sprint backlogburndown chart and the product increment 
+the product backlog  list of features that are needed as part of the end product
+the sprint backlog is the items selected from the product backlog for the  sprint in consideration
+product increment  it contains items completed during a this sprint with the increments of previous sprints
+sprint burndown chart is used to keep track of the time taken by the scrum team 
+for a task in a sprint
+ 
+lean development 
+
+this software development methodology evolved to decrease programming effort and budget with less wastein this methodology user stories are directly gathered by the programmers so that they directly address the features required by the customer that is why to complete the project a team with a mixed skill set is required otherwise you are just aiming for a huge blow in the development process
+
+it is faster because now programmers do not have to write a bunch of unnecessary lines of codes just for the sake of completing a packagethe removal of waste or unnecessary requirements  directly increases the efficiency of the development  short iterations are adopted so that customers can tell new requirements after getting a gist of what is in progressshort iterations means delivering the product earlier which is a good thing
+the principles were founded by  mary and tom poppendieckthis methodology was initially used in companies like toyota
+
+the key benefits of lean development include
+ learning quickly
+ measuring real customer behavior rather than focus groups
+ becoming closer to your customer
+ focusing on actionable metrics
+ becoming comfortable with pivoting
+
+extreme programming xp
+
+it improves software quality and is agile to dynamic customer requirementsthe focus of xp is code rather than the design and follows continuous integration and deploymentit comes with a lot of pressure working with tight deadlines it also includes pair programming where the team gathers in pairs where they share ideas and work on the same task
+
+it is different than other traditional models because
+it puts individuals and interactions over processes and tools
+working software over documentation ideology is considered
+customer collaboration over contract negotiation gets precedence and 
+responding to change over following a plan is implemented
+
+extreme programming follows the following principles
+   oo    the planning game
+   oo    small releases
+   oo    metaphor
+   oo    simple design
+   oo    testing
+   oo    refactoring
+   oo    pair programming
+   oo    collective ownership
+   oo    continuous integration
+   oo    hour week
+   oo    onsite customer
+   oo    coding standard
+
+roles
+customer  what features to be included and what is the budget all driven aspects of a project are prioritized by the customer
+developer everyone on the team except the customer is labeled a developerthey are responsible for making the product
+coach for a new team with no experience in extreme programming  a coach might be helpful who is familiar to this methodology
+tracker tracker as the name suggests tracks the relevant metrics and identifies areas for improvement
+in extreme programming there are daily meetings called standups that last up to  minutes 
+
+
+adaptive software development asd
+
+adaptive software development is an evolved form of rapid application development rad jim highsmith published adaptive software development in 
+
+its main goal is to make a product as quickly as possible with already available templates and architectures that is why it is the perfect choice for ontime and even early delivery products because most of the work in this is computer aided  it is easier to change and hence we can call it adaptive software developmentit requires a lot of user involvement which might always  not  be favourable because of computer aided softwares it is costly
+
+phases of asd life cycle
+speculate  this is the part where all the planning goes and various complex problems the team might face is brainstormed that is why short iterations are encouraged so that the team can learn from small rather than large mistakes
+collaborate it is required that a large volume of information be gathered and processed to help in solving the problem and it can be accomplished only in a collaborative environment
+learn team should keep learning through technical reviews and project retrospectives so that they can apply the new information to solve the problems
+
+speculate collaborate and learn is a cycle where one property depends on another two
+
+
+feature driven development fdd
+
+this software development is centred on features features are the same as user stories in scrum
+software development life cycle in fdd includes the following steps 
+   oo    develop an overall model
+   oo    build a features list
+   oo    plan by feature
+   oo    design by feature
+   oo    build by feature
+this simple fivestep process helps in achieving the end product rapidly hence for projects which need to be immediately completed you should go for it standards defined for fdd are somewhat easier to follow along as well which acts as a strength for this model
+
+it is similar to scrum in a lot of manners such as how they gather the user requirements and has meetings where the team is briefed about the tasks that both somewhat matches the scrum methodologyfor large projects with top down decision making structure can implement fdd however it doesnt work for smaller projects you cant take much out of documentation because it is small and not enough for newbies that is why senior developers with experience are required to work around this methodology
+
+
+
+

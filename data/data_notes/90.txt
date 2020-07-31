@@ -1,0 +1,171 @@
+write short notes on following
+ scrum
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+ 
+
+
+
+
+
+
+
+scrumscrum is an agile framework for developing delivering and sustaining complex software products it is designed for small teams consisting of ten or less members
+the work is broken down into goals and is completed within iterations these iterations are called sprints 
+
+scrum roles
+
+product owner the product owner facilitates communication and cooperation between the development team and its customers the product owner is responsible for ensuring that the customers expectations for the completed product have been communicated to the development team
+
+scrum master the scrum master is responsible for ensuring that the best practices are carried out and there is a decent amount of progress
+
+scrum development team the scrum development team is the product development team it is responsible for creating and testing incremental releases of the final product
+
+scrum process
+
+daily scrum a short meeting where the team reviews progress in the past  hours and plans for the next  hours
+
+sprint planning meetings planning for the next sprint is done in this meeting
+
+sprint review this meeting is held at the end of a sprint work that was completed and planned work that was not completed are reviewed
+
+sprint retrospective this meeting is held at the end of a sprint it reflects upon the past sprint and the goal is continuous process improvement
+
+scrum artefacts
+
+product backlog the todo list for the entire product
+
+sprint backlog the todo list for the current spring
+
+product increment this refers to all that has been accomplished during the sprint
+
+burndown the burndown is a visual representation of the amount of work that still needs to be completed
+
+the three pillars of scrum are transparency inspection and adaptation these are supported by five values commitment courage focus openness and respect
+
+
+
+
+
+
+lean development
+lean software development lsd is an agile framework it emphasises on optimising development time and resources eliminating waste and delivering only what the product needs ie mvp minimum viable product
+
+a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback
+
+lean principles
+
+       eliminate waste
+       amplify learning
+       decide as late as possible
+       deliver as fast as possible
+       empower the team
+       build integrity in
+       optimize the whole
+
+lean development provides a streamlined approach that allows more functionality to be delivered in less time it eliminates unnecessary activity and empowers the development team to make decisions
+
+
+
+
+
+
+
+extreme programming
+
+extreme programming xp is an agile software development framework it aims to improve software quality and responsiveness to changing customer requirements 
+activities
+
+       coding
+         a          the customer is always available
+         b          code the unit test first
+         c          all production code is pair programmed
+         d          integrate often
+         e          set up a dedicated integration computer
+         f          collective ownership
+       testing
+         a          unit tests
+         b          acceptance tests
+       listening
+         a          customer feedback
+       designing
+         a          simplicity
+         b          no functionality is added early
+         c          refactor whenever and wherever possible
+
+values
+
+       communication
+       simplicity
+       feedback
+       courage
+       respect
+
+practices
+
+       the planning game
+       small releases
+       metaphor
+       simple design
+       testing
+       refactoring
+       pair programming
+       collective ownership
+       continuous integration
+       hour week
+       onsite customer
+       coding standard
+
+
+
+
+
+adaptive software development asd
+adaptive software development asd is a software development process it replaces the traditional waterfall cycle with a repeating series of speculate collaborate and learn cycles
+
+ speculate
+in this phase the planning is done and the project is initiated 
+
+ collaborate
+the second phase is about team collaboration people working together must trust each others to
+   oo    criticize without animosity
+   oo    assist without resentment
+   oo    work as hard as possible
+   oo    communicate problems to find an effective solution
+
+ learning
+this phase is about the team increasing its understanding of the product and related technologies learning process is of  ways
+   oo    focus groups
+   oo    technical reviews
+   oo    project post mortem
+
+
+
+
+
+
+
+feature driven development
+
+feature driven development fdd is an agile framework that organizes software development around making progress on features
+
+
+                             fdd project lifecycle
+                                       
+develop overall model
+this phase is a highlevel walkthrough of the scope of the system and its context small teams create and peer review detailed domain models each modelling area and these models are progressively merged into an overall model
+
+build feature list
+the team creates a list of features to be added by functionally decomposing the domain into subject areas
+
+plan by feature
+a development plan is produced and features classes are assigned to programmers
+
+design by feature
+a chief programmer selects a small group of features that are to be developed within two weeks these features are implemented and a design inspection is held
+
+build by feature
+unit testing and code inspection is done after this the feature is added to the main product
+

@@ -1,51 +1,8 @@
-                                  assignment
-                           made by  karanpal singh
-                             roll no  uco
-q write short notes on following
-   oo    scrum
-   oo    lean development
-   oo    extreme programming xp
-   oo    adaptive software development asd
-   oo    feature driven develop
-ans 
-   oo    scrum scrum is a lightweight agile framework that focuses on delivering products in a short amount of time or in short cyclesscrums consist of a product backlog sprint backlog development team scrum master product owner and increment 
-      scrum works on the concept of sprints a sprint can be thought of as a duration or  or maybe  weeks in which some new set of features are added into the existing application and delivered to the customers scrums are headed by a scrum master whose job is to establish an environment where the team can be effective address the different obstacles that the team might encounter maintain a healthy relationship with the clients motivate the developers and protect them from outside distractions this helps in increasing productivity and as a result the entire process becomes smoother and flexible the risks are minimized and the waste is reduced 
-      the product owner describes the vision of the product that needs to be developed and organizes the backlog sprint planning is done in which the teams decide the duration of each sprint the number of features that need to be implemented etc  each feature is prioritized and given a priority and the scrum master decides in which sprint that feature will be implemented complex features are broken down into simpler modules and then conquered individually and finally merged together to form the overall feature scrum teams are cross functional and self organising that is they have the capability to implement complex features without outside interference the members of the development team constantly train each other so that none of them becomes a bottleneck in the long run scrum meetings are conducted by the scrum master wherein the code is reviewed feedback is taken from the product owner discussion on what all new requirements are to be added are discussed what were the obstacles faced in the last sprint what all work had been done yesterday and what all needs to be completed today are also discussed 
-   oo    lean development as the name suggests lean development is an agile framework that stresses on eliminating waste reducing costs budgets and providing only those functionalities that a user asks for lean development focuses on shorter iteration cycles the team develops a bare minimum of the product and releases the product to the customers after using the product for a certain period of time the customersusers of the product can provide valuable feedback to the developers regarding what all features can be added to the product what all can be taken down etc these new set of requirements can be taken care of in the next iteration it also takes relatively lesser time to deliver the product and also to add new features
-      the lean development strategy comprises  principles they are
-                   eliminating waste  any factor that can lead to inefficient product or delayed delivery should be avoided and eliminated examples useless code slow communication etc regular scrums need to be conducted to eliminate such waste
-                   build quality in  quality software should be the main objective of the project and thus constant feedback regular testing and various other strategies like pair programming should be considered to produce good quality software
-                   creating and amplifying knowledge  regular meetings code reviews documentation and training sessions should be conducted to ensure that knowledge is not accumulated by just a single person who is writing the code
-                   defer commitment  till the time the members dont have a clear understanding of the project decisions that can impact the product drastically should be deferred and considered later actively collect more data to analyze the system under construction so that better decision making can be made
-                   delivering fast  start with a simple model include only a bare minimum of functionality and deliver the product to the customer through continuous iterations and feedback evolve and improve the product over time
-                   respect the team  constantly motivate and encourage other team members to do their best consider their viewpoint and decisions and integrate them if the team finds it appropriate appealing and useful
-                   optimize the whole  tighter deadlines may force the team to write sloppy and messy code full of defects that might put more pressure on the testers and therefore quality of the code gets destroyed instead of optimizing individual sections of a project the team should focus on optimizing the overall value streams make sure there is efficient communication between the team members so that delays are minimized
-
-   oo    extreme programming extreme programming is an agile development process that focuses on better software development and shorter iteration cycles this allows the developers to accommodate the changing requirements and evolve the product over time extreme programming is useful when the requirements frequently change the customers are not sure what the final product will look like the number of programmers required are small etc 
-      extreme programming consists of a number of phases that enhance the overall software development life cycle
-                   simplicity the developers try to create a model that is simple to implement easy to visualize and can be accomplished with the specified timeframe instead of creating a complex model so that the entire team can evaluate whether we can perform some tasks more efficiently and easily
-                   testing unit tests are written before programming and they are run at all times in order to follow tddtest driven development this helps in eliminating bugs and defects early
-                   feedback the customers are involved at every stage of the development cycle and as a result continuous feedback from both the developers and customers help in simplifying the design process improving the overall quality of the software and adapting to changing requirements
-                   refactoring refactoring is performed daily in order to simplify the tasks code reviews are conducted daily and this makes the code clean and concise code that is not required anymore is flushed out
-                   pair programming two people work together and share the same system this helps them in discussing new ideas better decision making happens and they in turn take the command of the system one after another
-                   early releases as other iterative methodologies this framework focuses on interacting with the customers early on so that they can get a sense of what the final product will look like and what all changes need to be made in the current build of the product 
-
-   oo    adaptive software development adaptive software developmentasd is a direct outgrowth of  rapid application developmentrad the development of the product starts with little planning but with continuous learning this methodology allows us to adapt to the changing needs by accommodating the newer ones and as a result the product evolves over time john highsmith and sam bayer invented the asd approach in the early s asd helps in developing better products since it is more user focussed and theres more liquidity 
-      asd is a  phase and a cyclic process the  phases are
-                   speculate  the team figures out the project requirements the aim of the project the customer needs and initiates the project asd prefers iterations with shorter cycles 
-                   collaborate  the team must be able to collaborate with each other in order to produce products with high quality and performance the team members must be able to discuss their ideas criticize each others viewpoints provide valuable feedback assist other team members share knowledge
-                   learn  the members must continuously learn and enhance their knowledge domain expertise in order to develop a sustainable and successful product feedback must be provided after each iteration both from the customers viewpoint as well as the developers viewpoint so that appropriate decisions and changes can be made in the next iteration
-            
-   oo    feature driven development  feature driven developmentfdd is an agile framework it is an incremental and iterative process that tries to integrate a whole lot of practices into a more sophisticated and cohesive unit fdd focuses on making progress on features features are of a similar character to user stories in a scrum features can be visualised as subparts of a bigger complete unit examples of features include 
-         oo          polishing the ui of the application
-         oo          completing the validation process etc
-      fdd was first introduced in  via the book java modeling in color with uml and later refined by jeff de luca 
-      fdd is a five step process
-                   developing an overall model  an overall model is created by the chief architect or the leader of the project that depicts the overall architecture and in some sense defines the context of the application this helps in letting the other members know what the project is all about and thus provides a better understanding of the model
-                   design a list of features  though brainstorming the developers decide which all features need to be included in the application each feature has a timeline of around  weeks so the feature must be such that it can be implemented within this timeframe 
-                   plan out each feature  each feature is given a priority to see how important it is from the applications and the clients context developers are broken down into teams and a feature is then assigned to them on which they can work
-                   design each feature  each feature is further analyzed class and flow diagrams are drawn and a methodical approach is discussed to follow the design process which is then inspected and finalized
-                   build each feature  after the inspection process is over the features are implemented by the respective teams tested in isolation and added to the final product if approved by the project leader
-
-
+write short notes on following
+ scrum
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+ 
 

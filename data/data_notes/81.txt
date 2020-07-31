@@ -1,0 +1,83 @@
+write short notes on following
+          scrum  scrum is a framework used for longterm and complex projects  scrum team    usually consists of  to  people 
+      usage
+      scrum may be the best choice when the exact amount of work cant be estimated and the release date is not fixed   scrum is used for projects that require stakeholder feedback which may greatly affect project requirements  
+      benefits
+         oo          higher productivity
+         oo          betterquality products
+         oo          reduced time to market
+         oo          improved stakeholder satisfaction
+         oo          better team dynamics
+         oo          happier employees
+ cons
+         oo          scrum often leads to scope creep  due to the lack of a definite enddate  
+         oo          chances of project failure are high if individuals arent very committed or cooperative 
+         oo          adapting scrum in large teams is challenging  
+            components
+                   the scrum team
+         oo          scrum master  making sure team is as productive as possible 
+         oo          product owner  key stakeholder or key user 
+         oo          development team  anyone who participates in the creation of deliverables 
+                 the scrum events
+         oo          sprint planning meeting  scrum team selects the work they can complete during the coming sprint 
+         oo          daily scrum  each day a brief meeting is conducted to set the context for each days work 
+         oo          sprint retrospective  at the end of each sprint  a meeting is scheduled in which the team reflects on how well scrum is working for them and what changes they may wish to make 
+         oo          sprint review meeting  team shows what they accomplished during the sprint  
+       scrum artifacts  sprint backlog  items taken from product backlog for sprint  
+       
+  lean development  lean software development is an agile framework  based on optimizing development time and resources  eliminating waste and ultimately delivering only what the product needs  team releases a bareminimum version of its product to the market learns from users what they like  dont like and want to be added and then iterates based on this feedback  
+  usage
+ organisation must have an outstanding development team and trust that team implicitlyfor  this approach to be successful as it forces the team to ruthlessly cut away any activity that doesnt directly affect the final product  
+ benefits
+   oo    streamlined approach allows more functionality to be delivered in less time 
+   oo    eliminates unnecessary activity and as a result can reduce costs 
+   oo    empowers the development team to make decisions 
+cons
+   oo    heavily dependent on team members  can lead to failure if proper documentation is not maintained  
+
+      extreme programming xp  an agile software development framework that aims to produce high quality software  and higher quality of life for the development team xp is set up for small groups of programmers 
+usage
+in many software environments dynamically changing requirements is the only constant  xp is used when customers dont have a firm idea of what the system should do and hence there are dynamic changes in requirements  the xp practices are set up to mitigate the risk and increase the likelihood of success 
+benefits
+   oo    whole process in xp is visible and accountable  developers commit what they will accomplish and show progress 
+   oo    it allows companies to save costs and time required for project realization 
+cons
+   oo    this methodology does not measure code quality code assurance  it may cause defects in the initial code 
+
+values
+   oo    communication  xp stresses the importance of the appropriate kind of communication face to face communication with aim of a white board 
+   oo    simplicity  keep the design of the system as simple as possible so that it is easier to maintain support and revise  
+   oo    feedback  through constant feedback teams can identify areas for improvement and revise their practices  
+   oo    courage  you need courage to accept and act on feedback even when its difficult to accept  
+   oo    respect  team members should respect each other in order to communicate with each otherprovide and accept feedback
+
+      
+     adaptive software development asd  it is a method to build complex software and systems  asd focuses on human collaborations and selforganisation  
+phases
+   oo    speculation  project is initiated and planning is conducted  
+   oo    collaboration  it needs the workers to be motivated  people working together must trust each others to criticize  assist  work as hard as possible  possession of skill set and communicate problems to find effective solutions  
+   oo     learning  learning helps the workers to increase their level of understanding over the project   team has to increase their knowledge constantlyusing practices such as  technical reviews  project retrospective and customer focus groups  
+      
+      feature driven development fdd  organizes software development around making progress on features  
+usage 
+fdd is used while working on a largescale software project   but this methodology relies heavily on chief developers and has a topdown decision making approach 
+project lifecycle 
+   oo    develop an overall model
+   oo    build a feature list
+   oo    plan by feature
+   oo    design by feature
+   oo    build by feature
+
+
+benefits
+   oo    allows more rapid development 
+   oo    allows larger teams to move products forward with continuous success 
+   oo    leverages predefined development standards so teams are able to move quickly 
+cons
+   oo    does not work efficiently for smaller projects
+   oo    less written documentation which can lead to confusion 
+   oo    highly dependent on lead developers or programmers 
+      
+
+
+

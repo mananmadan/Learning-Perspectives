@@ -1,8 +1,70 @@
+                           uco
+                                  ankit arya
+                                      epp
 write short notes on following
- scrum
-      lean development
-      extreme programming xp
-      adaptive software development asd
-      feature driven development
- 
+   oo    scrum
+   oo    lean development
+   oo    extreme programming xp
+   oo    adaptive software development asd
+   oo    feature driven development
+scrum
+scrum is an agile framework which is used or developing and delivering complex projects it is a iterative and incremental framework for managing complex work scrum follow a key principle and it says that there will be some degree of unpredictability as the customers will change their minds about what they want or need  therefore a predictive and planned approach is not suitable so when the problem cannot be understood or defined upfront  scrum may be the best choice
+a scrum team has  to  members the team members break their work into goals such these goals can be completed within timeboxed iterations the term sprints is used for these timeboxed iterations usually sprints are limited to one calendar month during each sprint a potentially releasable product is created
+product backlog it is a prioritized features list containing every desired feature or change to the product
+sprint planning meeting a sprint planning meeting is held at the start of each sprint in which the product owner presents the highest priority items on the product backlog to the team the team then selects the work they can complete during the coming sprint that work is then moved from the product backlog to a sprint backlog
+daily sprint a brief meeting is conducted during each day of the sprint to set the context for each days work
+sprint review meeting a sprint review meeting is held at the end of each sprint during this meeting the team shows what they accomplished during the sprint
+sprint retrospective this meeting is also held at the end of each sprint during this meeting the team including the scrum master and product owner reflects on how well the scrum is working for them and what changes they may wish to make for it to work even better
+lean development
+while agile principles teach us to work in short cycles and deliver more value faster and short cycles means more no of cycleson the other hand lean development principles focuses on limiting the no of those cycles to prevent work from piling up and which in turn helps us to pull more work into the process
+in lean development the team releases a bareminimum version of the product to the market learn from users and their feedback and iterate based on the feedback
+the lean development follows  lean principles
+eliminate waste
+first we need to understand what is a waste according to the lean philosophy anything that does not add any value to the customer is considered a waste
+so one of the key elements of practicing lean development is eliminate the waste
+build quality in
+every team wants to build quality in to their work lean development ensures that this a part of disciplined practice so that the development team follows it striclty lean development provides lean development tools to build quality into their work because many teams create waste while ensuring quality into their work
+create knowledge
+lean development tools like pair programming code reviews documentation knowledge sharing sessions etc to enure that the team members can learn continously during the entire process
+decide as late as possible
+some degree of uncertaininty is always present in the field of software development so its always better to delay decision as much as possible until they can be made based on facts and not on uncertain assumptions and predictions
+deliver as fast as possible
+delivering an end product as fast as possible opens up the opportunity for fast feedback so that based on the feedback the changes can be integrated in the next iteration as fast as possible
+empower the team
+optimize the whole
+the suboptimization of code may sometimes result in a product which does not meet the quality requirements as the pressure on the developers increases they may release code that is not optimized so lean develoment ensure that the product as whole is optimized so the above issue can be avoided
+extreme programming
+in this approach instead of including all the features in the product we try to deliver the product with the most important feature so that the customer has something which is working and in the next iterations we keep on adding more many of the times when we try to include all the feature in the product at once we might miss the deadline or product could be a failure  may be while adding new features in the product we might have to get rid off all the previous code to add new features the process of changing your code to add the new functionalities is called refactoring
+the five values of xp are
+communication the use of appropraite mode of communication is important for the transfer of knowledge from one team member to others
+simplicity keeping the design of the system as simple as possible makes it easier to maintain support and revise the purpose of this is to avoid waste and only do the things that are necessary
+feedback constant feedback is very important as it helps in identifying the areas of improvement so that they can work upon it if the team receives good feedback then it also encourages them
+courage you need courage to raise organizational issues that reduce yourteams effectiveness you need courage to stop doing something that doesnt work and try something else you need courage to accept and act on feedback even when its difficult to accept
+respect every team member having respect for other members helps in better communication which results in more quality and effective work and the knowledge can be shared even better
+adaptive software development
+adaptive software development practices are adaptable in an enviroment in which changes are unexpected and unpredictable it provides the ability to accomodate change in the system
+there are three phases in adaptive development life cycle
+speculate
+the term plan indicates determinism and has a high degree of certainity about the desired result following a plan restricts the managers ability to steer towards innovative ideas
+in adaptive software development this term plan is replace by the term sepculate while speculating the team does not abandon planning but it acknowledges the reality of uncertainty in complex problems speculate encourages exploration and experimentation iterations with short cycles are encouraged
+collaborate
+complex applications requires diverse knowledge as it requires that a large volume of information be collected analyzed and applied to the problem and team collaboration is an important aspect for having diverse knowledge
+collaborate would require the ability to work jointly to produce results share knowledge or make decisions
+learn
+the learn part of the lifecycle is vital for the success of the project team has to enhance their knowledge constantly using practices such as 
+   oo    technical reviews  
+   oo    project retrospectives  
+   oo    customer focus groups
+reviews should be done after each iteration both the developers and customers examine their assumptions and use the results of each development cycle to learn the direction of the next the team learns 
+   oo    about product changes 
+   oo    more fundamental changes in underlying assumptions about how the products are being developed
+feature driven development
+feature driven development fdd is an agile framework that as its name suggests organizes software development around making progress on features
+a feature is a small clientvalued function expressed in the form  for example calculate the total of a sale validate the password of a user and authorize the sales transaction of a customer
+fdd was designed to follow a fivestep development process built largely around discrete feature projects that project lifecycle looks like this
+       develop an overall model  outcome  an object model
+       build a features list outcome  a list of features grouped into sets and subject areas
+       plan by feature outcome  a development plan
+       design by featureoutcome    a design package 
+       build by feature outcome    completed clientvalued function
 

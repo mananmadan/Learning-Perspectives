@@ -1,0 +1,69 @@
+                                                               shivam shandilya
+                                                                    uco
+      
+   oo    write short notes on following
+
+       scrum
+
+      the scrum framework is a heuristic software development framework that is  based on continuous learning and  making adjustments according to fluctuating factors it acknowledges that the development team doesnt know everything at the start of a project and will evolve through experience scrum is structured to help teams naturally adapt to changing conditions and user requirements with reprioritization built into the process and short release cycles so your team can constantly learn and improve
+      artifacts are something that we make like a tool to solve a problem in scrum these three artifacts are a product backlog a sprint backlog and an increment with your definition of done they are the three constants in a scrum team that we continue to revisit and invest in overtime
+      
+
+
+       lean development
+      
+      the lean software development process aims at removing all things unnecessary all the extra stuff from software engineering its principles are largely similar to those of agile development some even consider the two methodologies to be almost equivalent to each other the only difference that exists between these two software development processes is that lean is more convergeable in terms of development strategy
+      
+
+      overall there are  principles of lean software development each aiming to quicken delivery and bring higher value to enduser
+   oo 
+         eliminating waste
+   oo 
+         building quality in
+   oo 
+         amplifying knowledge
+   oo 
+         delaying commitment
+   oo 
+         delivering fast
+   oo 
+         respecting people
+   oo 
+         optimizing the whole thing
+
+    extreme programming xp
+
+      extreme programming  is one of the many agile frameworks applied by companies for their software development process but its key feature is its emphasis on technical aspects of software development which  distinguishes extreme programming from the other approaches
+            
+extreme programming has simple rules that are based on  values
+                    communication everyone on a team works jointly at every stage of the project
+                   simplicity developers strive to write simple code bringing more value to a product as it saves time and efforts
+                   feedback team members deliver software frequently get feedback about it and improve a product according to the new requirements
+                   respect every person assigned to a project contributes to a common goal
+                   courage programmers objectively evaluate their own results without making excuses and are always ready to respond to changes
+      
+
+ adaptive software development asd
+
+      adaptive software development is a software development process which embodies the principle that continuous adaptation of the process to the work at hand is the normal state of affairs
+      adaptive software development is used to make teams more adaptable to changing customer demand requirements and market needs specifically it does this by promoting lightweight planning and ongoing learning through a threephase process speculate collaborate and learn 
+
+
+
+  feature driven development
+
+      an agile methodology for developing software featuredriven development fdd is customercentric iterative and incremental with the goal of delivering tangible software results often and efficiently fdd in agile encourages status reporting at all levels which helps to track progress and results
+      fdd allows teams to update the project regularly and identify errors quickly plus clients can be provided with information and substantial results at any time fdd is a favorite method among development teams because it helps reduce two known moralekillers in the development world confusion and rework
+
+      typically used in largescale development projects five basic activities exist during fdd
+          
+         develop overall model
+          
+         build feature list
+          
+         plan by feature
+          
+         design by feature
+          
+         build by feature
+

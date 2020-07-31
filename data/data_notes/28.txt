@@ -1,8 +1,105 @@
-write short notes on following
+                      shubham     coe     uco
+                                  assignment
+
+q  write short notes on following
  scrum
       lean development
       extreme programming xp
       adaptive software development asd
       feature driven development
- 
+ans  
+       scrum
+      definition
+      scrum is a framework used to manage product development and other knowledge work scrum works best for longterm and complex projects that may require constant stakeholders feedback which may affect project requirements
+      so when the exact amount of work and time limit of the project is not fixed scrum is one of the best choice
+      components
+         a          team size scrum development has a team of size between  to  all of which work together to complete the set of work they have collectively committed to complete within a sprint
+         b          product owner product owner is often from
+               i                someone from product management
+               ii                a key stakeholder
+               iii                a key user
+         c          scrum master scrum master is responsible for making the team as productive as possible
+         d          product backlog it is a list containing prioritised feature addition or changes to the product
+         e          sprint planning meeting a sprint meeting is held at the start of each sprint during which the product owner presents the top item in the product backlog and team selects work that is to be completed in this sprint
+         f          daily scrum a daily meeting during each day of sprint in which daily task or context to be completed is decided
+         g          sprint review meeting a meeting held at the end of each sprint where the team shows the completed functionalities or work done during the sprint  
+         h          sprint retrospective a meeting also held at the end of each sprint where the team reflects on how well scrum is working and also changes that may make it work even better
+         i          sprint sprint is a timebox of one month or less duration during which a done useable or potentially releasable product increment is created
+            
+      scrum is structured in a way that allows teams to incorporate practices from other frameworks where they make sense for the teams context like extreme programming lean development etc
+
+       lean development
+      definition
+      lean development is the application of lean principles to software development it is based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs
+      the lean approach is also often called the minimum viable product mvp strategy in which a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback
+      two of major goals of lean principle are
+                   minimize waste
+                   maximize value
+
+advantages
+         oo          streamlined approach allows more functionality to be delivered in less time
+         oo          eliminates unnecessary activity and as a result can reduce costs
+         oo          empowers the development team to make decisions which can also boost morale
+            
+      disadvantages
+         oo          heavily depends on the team involved making it not as scalable as other frameworks
+         oo          depends on strong documentation and failure to do so can result in development mistakes
+            
+            
+       extreme programming xp
+      definition
+      extreme programming xp is a software development framework that aims to produce higher quality software and higher quality of life for the development team it is the most specific agile framework regarding appropriate practices for software development
+      values
+         oo          communication 
+         oo          simplicity 
+         oo          feedback
+         oo          courage
+         oo          respect
+
+      characteristics
+         oo          dynamically changing software requirements
+         oo          risks caused by fixed time projects using new technology
+         oo          small colocated extended development team
+         oo          the technology you are using allows for an automated unit and functional test
+            
+       adaptive software development asd
+      definition
+      adaptive software development asd is a cyclical like evolutionary model with phase names that reflect the unpredictability of the complex systems it is a method to build complex systems and softwares it majorly focuses on human collaboration and selforganisation
+      three of the phases of asd are
+
+                   speculation
+            during this phase the project is initiated and planning is conducted the project plan uses project initiation information like project requirements user needs customer mission statement etc to define a set of release cycles that the project wants
+            
+                   collaboration
+            it is the difficult part of asd as it needs the workers to be motivated it collaborates communication and teamwork but emphasizes individualism as individual creativity plays a major role in creative thinking people working together must trust each other to
+               oo                criticize without animosity
+               oo                assist without resentment
+               oo                work as hard as possible
+               oo                possession of skill set
+               oo                communicate problems to find effective solutions
+
+                   learning
+            the workers may have an overestimate of their own understanding of the technology which may not lead to the desired result learning helps the workers to increase their level of understanding over the project
+      learning process is of  ways
+                               focus groups
+                               technical reviews
+                               project postmortem
+      
+       feature driven development
+      definition
+      feature driven development fdd is a feature centric iterative and incremental approach with the goal of delivering tangible software results regularly and efficiently fdd encourages status reporting at all levels which helps in tracking progress and results
+      fdd allows teams to update regularly and identify errors quickly which make fdd prone from  problems namely
+         oo          confusion 
+         oo          rework
+      because of these advantages it became an ideal approach for longterm complex projects looking for a simple but comprehensive method
+      some basic activities involved in fdd are
+                   develop overall model
+                   build feature list
+                   plan by feature
+                   design by feature
+                   build by feature
+
+      an overall model shape is formed during the first two steps while the final three are repeated for each feature the majority roughly  of effort during fdd will be spent on the fourth and fifth steps
+      
+      however the major difference here is that once a goal has been achieved teams organise their activities by features rather than the project milestones
 

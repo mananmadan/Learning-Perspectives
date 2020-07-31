@@ -1,0 +1,186 @@
+rajesh kumar
+uco
+
+q write short notes on following
+
+
+
+
+
+
+scrum
+lean development
+extreme programming xp
+adaptive software development asd
+feature driven development
+
+scrum
+a very popular method that borrows its title from the rugby scrum and
+
+uses it as a metaphor for the daily progress update meeting scrum has
+short iterations sprints that each focus on delivering working software
+a tightly prioritized backlog for both the sprint and the product and
+specifies a product owner role who sets the priorities
+
+scrum master is the team role responsible for ensuring the team lives
+agile values and principles and follows the processes and practices that
+the team agreed they would use
+product owner is a role on a product development team responsible for
+managing the product backlog in order to achieve the desired outcome that
+a product development team seeks to accomplish
+product backlog is a list of the new features changes to existing features
+bug fixes infrastructure changes or other activities that a team may deliver
+in order to achieve a specific outcome
+sprint planning meeting is held at the start of every sprint to decide on
+the product backlogs etc
+daily scrum is a brief meeting to help the team stay on track
+sprint review meeting is held at the end of every sprint to show the
+accomplishments of the team during the sprint
+
+sprint retrospective is held at the end of the sprint in which the team
+reflect on how well the scrum is working for them and what changes they
+might wish to see in the scrum to make it work better
+
+extreme programming
+extreme programming xp is an agile software development framework
+that aims to produce higher quality software and higher quality of life for
+the development team xp is the most specific of the agile frameworks
+regarding appropriate engineering practices for software development
+values
+the five values of xp are communication simplicity feedback courage
+and respect and are described in more detail below
+
+communication
+software development is inherently a team sport that relies on
+communication to transfer knowledge from one team member to everyone
+else on the team xp stresses the importance of the appropriate kind of
+communication  face to face discussion with the aid of a white board or
+other drawing mechanism
+simplicity
+
+simplicity means what is the simplest thing that will work the purpose of
+this is to avoid waste and do only absolutely necessary things such as
+keep the design of the system as simple as possible so that it is easier to
+maintain support and revise simplicity also means address only the
+requirements that you know about dont try to predict the future
+
+feedback
+through constant feedback about their previous efforts teams can identify
+areas for improvement and revise their practices feedback also supports
+simple design your team builds something gathers feedback on your
+design and implementation and then adjust your product going forward
+courage
+kent beck defined courage as effective action in the face of fear extreme
+programming explained p  this definition shows a preference for
+action based on other principles so that the results arent harmful to the
+team you need courage to raise organizational issues that reduce your
+teams effectiveness you need courage to stop doing something that
+doesnt work and try something else you need courage to accept and act
+on feedback even when its difficult to accept
+respect
+
+the members of your team need to respect each other in order to
+communicate with each other provide and accept feedback that honors
+your relationship and to work together to identify simple designs and
+solutions
+
+lean software development is a set of principles that can be applied to
+software development to decrease programming effort budgeting and
+defect rates by one third the principles were adapted from lean
+manufacturing by mary and tom poppendieck this approach is
+beneficial to an organization because agile iterations eliminate extensive
+preplanned specifications user stories rather than large upfront specs
+are easily understood by each team member and simpler to
+communicate
+
+lean development
+lean development makes it possible to gain information straight from the
+source therefore eliminating the common problem of producing software
+that does not address the customers needs short iterations provide an
+opportunity to communicate small sets of plans up front and allow the
+team to make decisions in order to adapt to unforeseen circumstances
+organizations that have the ability to complete fast simple
+improvements in the shortest time frame gain powerful decisionmaking
+benefits
+lean development methodology principles can be applied in any it
+environment for improved programming practices the practice is based
+on seven principles
+
+
+
+
+
+
+
+
+waste elimination
+amplifying learning
+late decision making
+fast delivery
+team empowerment
+builtin integrity
+view applications as a whole
+
+feature driven development
+featuredriven development fdd is one of the agile processes not
+talked or written about very much often mentioned in passing in agile
+software development books and forums few actually know much about
+it however if you need to apply agile to larger projects and teams it is
+worthwhile taking the time to understand fdd a little more
+the natural habitat of scrum and xpinspired approaches is a small
+team of skilled and disciplined developers it remains a significant
+challenge to scale these approaches to larger projects and larger teams
+some have been successful but many have struggled
+featuredriven development fdd invented by jeff de luca is
+different while just as applicable for small teams jeff designed fdd
+from the ground up to work for a larger team larger teams present
+different challenges for example a small team of disciplined and highly
+skilled developers by definition is likely to succeed regardless of which
+agile method they use in contrast it is unrealistic to expect that
+everyone in a larger team is equally skilled and disciplined for this and
+
+other reasons fdd makes different choices to scrum and xp in a
+umber of areas
+
+adaptive software development
+asd
+adaptive software development asd is a direct outgrowth of an
+earlier agile framework rapid application development rad it aims
+to enable teams to quickly and effectively adapt to changing
+requirements or market needs by evolving their products with lightweight
+planning and continuous learning the asd approach encourages teams
+to develop according to a threephase process speculate collaborate
+
+learn
+
+strengths and weakness of asd
+asds strengths include
+
+
+focused on the end users which can lead to better and more
+intuitive products
+
+
+
+allows for ontime and even early delivery
+
+
+
+encourages more transparency between developers and clients
+
+asds weaknesses include
+
+
+demands extensive user involvement which can be difficult to
+facilitate
+
+
+
+integrates testing into every stage which can add to a projects
+costs
+
+
+
+emphasis on rapid iterating and continuous feedback can lead to
+scope creep
+

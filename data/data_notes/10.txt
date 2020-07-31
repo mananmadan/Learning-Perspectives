@@ -1,18 +1,130 @@
-                                                      tapan sinha uco
-                                                                 epp assignment
-                                                                               
 write short notes on following
  scrum
-      scrum is a project management approach used in agile development it favours moving projects forward via shortterm blocks of work called sprints which are usually confined to twoweek intervals teams working with this framework are selforganizing and not topdown or hierarchical in nature scrumspecific roles include the scrum master essentially a team guide and the product owner who represents the business and customers it is easy to understand and allows rapid feedback and issues to be brought up through daily meetings often this framework can place a high degree of pressure on the team due to the frequent and short deadlines scrum framework is used by organizations looking for a lightweight teambased approach to agile project management 
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+
+                      please scroll down for the answers
+                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    scrum 
+   oo    it is a framework to develop a complex product by keeping in view of majorly delivering and sustaining by emphasizing on teamwork accountability  iterative progress
+   oo    it helps to make the products in some chinks and in iterations to follow according to the not stable market needs as well as the stringent goals of the organization
+   oo    scrum team consists of mainly  roles a product owner a scrum master and the development team
+         oo          product owner 
+               oo                share the organizational view
+               oo                handle the finance section of the businessproduct
+         oo          development team 
+               oo                self managed and mutual decision making
+               oo                independent of other departments
+               oo                usually small size teams
+         oo          scrum master 
+               oo                leader coaches the whole team
+               oo                help in eliminating the obstacles
+               oo                identifies ways to collaborate and keep security
+   oo    artifacts of a scrum  backlog of the product  sprint product increment and to consider what is done
+   oo    activities in scrum basics  product backlog refinement sprint planning daily scrum sprint review and sprint retrospective
+
+
+                               lean development
+                                       
+   oo    a methodology to get better results by spending least time on development
+   oo    works on gathering important in the development model by doing multiple iterations
+   oo    there are majorly  principles of lean development and it can be implemented in any idea and environment and can drastically improve the existing programming workflows
+   oo    the  principles are 
       
- lean development
-      it is an agile framework based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs this approach is also referred to as the minimum viable product strategy in which a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback its streamlined approach allows more functionality to be delivered in less time it eliminates unnecessary activity and as a result can reduce costs the development team gets empowered to make decisions which can also boost morale and confidence because of its streamlining of the process and forcing the team to cut away any activity that doesnt directly affect the final product this framework is used by many organizations an organization with an outstanding development team can be useful for this approach to be successful
+      removing what isnt of value to the customer
+       
+
+      allow the frontline workers ie development to make the major decisions
       
- extreme programming xp
-      this agile framework focusses on emphasizing the production of higherquality software to please customers as well making life better for the engineers who are developing it the main characteristics of xp include dynamically changing software requirements using a small development team and leveraging technology that facilitates automated unit and functional tests it can help cut costs for software development organizations the team members are accountable to the team for their work the emphasis on qualityoflife issues helps boost employee morale and retention although it does not place emphasis on code quality which can lead to defects in early iterations it is also not ideal if developers are not in the same location it is designed to help companies meet the needs of customers who might not know or be able to articulate precisely what they need or whose needs may change frequently this agile framework is designed to help companies reduce the risks of managing projects like this with dynamic requirements
       
- adaptive software development asd
-      this framework is a direct outgrowth of an earlier agile framework rapid application development it aims to enable teams to quickly and effectively adapt to changing requirements or market needs by evolving their products with lightweight planning and continuous learning the asd approach encourages teams to develop according to a threephase process speculate collaborate learn it focused on the end users which can lead to better and more intuitive products it allows for ontime and even early delivery also it encourages more transparency between developers and clients further it demands extensive user involvement which can be difficult to facilitate it requires testing into every stage which can add to a projects costs the emphasis on rapid iterating and continuous feedback can lead to scope creep adaptive software development can be a useful methodology if an organization prioritizes rapid delivery of products and sees value in continuously evolving your offerings
+      quicker delivery of results with quicker feedback
+
       
- feature driven development
-      it is a type of agile framework that organizes software development around making progress on features features in the fdd context though are not necessarily product features in the commonly understood sense they are similar to the scrum framework int terms of user stories for example the login process might be considered a feature in the feature driven development methodology it involves a simple fivestep process allowing for more rapid development it also allows larger teams to move products forward with continuous success it involves less written documentation which can lead to confusion and does not work efficiently for smaller projects and is also highly dependent on lead developers or programmers further it uses predefined development standards so that teams are able to move quickly it is useful for big corporations and largescale software projects because of its topdown decisionmaking approach
+      view the software as a whole and not as a sum of its parts system thinking
+      
+      build for perceived customer view conceptual system view integrity flexibility and efficiency
+      
+      
+      delay and defer decisions until assumptions become fact
+
+
+      improve software development by improving the process through learning
+      
+      
+                              extreme programming xp
+                                          
+         oo          an agile development methodology usually for small to medium sized teams developing software in the face of vague or rapidly changing requirements
+         oo          it was created by kent beck in the mid s
+         oo          in this basically a set of  key practices are to be taken to their extremes
+         oo          it basically works by uniting the whole team in the simple practices so that there would be enough feedback for the improvement in their specific domain with their unique situation
+         oo          the four core values of xp are communication simplicity feedback and courage
+         oo          it is called a light weight process because of the following reasons 
+               oo                since customers want up the front not the lot of information nailing down so xp works on plenty of feedback
+               oo                it keeps the customer involved by embracing change ie iterate often design and redesign code and test frequently
+               oo                in only a short period of time say  weeks by doing short iterations the product is delivered to the customer for feedback
+               oo                one of the major features is the reduced cost since it eliminates the defects early
+
+
+
+                         adaptive software development
+
+   oo    it was originally proposed by jim highsmith and sam bayer
+   oo    it is a collaborative approach to managing complex systems
+   oo    it embodies the principles that continuous adaptation of the process to the work at hand is the normal state of affairs
+   oo    its distinguishing and important features are 
+         oo          missiondriven planning
+         oo          component based focus
+         oo          uses timeboxing
+         oo          explicit consideration of risks
+   oo    it is like the evolutionary model  because of its cyclical structure with the phases names reflecting the unpredictability in the complex systems which are 
+         oo          spectuate
+         oo          collaborate
+         oo          learn
+            
+
+
+                          feature driven development
+   oo    it blends a number of industryrecognized best practices into a cohesive whole including domain object modeling feature teams and version control
+   oo    the best practices that make up fdd are 
+         oo          domain object modeling
+         oo          developing by feature
+         oo          individual class code ownership
+         oo          feature teams
+         oo          inspections
+         oo          regular builds
+         oo          configuration management
+         oo          reportingvisibility of results
+   oo    in short it is a framework following agile methods organizing software development around making progress on features
+
+
+more shape than    a list of features  a development             a design    completed 
+  content grouped into sets   plan class owners        package    client
+            and subject areas      feature set owners     valued
+    function

@@ -1,0 +1,194 @@
+emerging programming paradigms
+assignmentshort notes
+by rakesh kumar
+uco
+coe
+
+sno
+
+
+
+
+
+
+content
+scrum
+lean development
+extreme programming xp
+adaptive software development asd
+feature driven development
+
+ scrum
+scrum is an iterative and incremental approach for projects or application
+development it is structured in cycles of work called sprints which generally lasts
+less than a month requirements are prioritized by scrum team and commits to
+complete the selected items in the sprint during the sprint the chosen items do not
+change whole scrum team gathers every day for analysis of progress on sprint end
+the team reviews the sprint with stakeholders and give their feedback feedback
+items are completed in the next sprint
+
+roles in scrum
+roles in scrum team are
+ the product owner tells the team on which items to work on product owner is
+responsible for the return of investment for the product
+ the team it is crossfunctional it is a selforganizing team which has the people
+who have the potential to develop the product they have a high degree of
+autonomy and accountability
+ the scrummaster the scrummaster helps the product group learn and apply
+scrum to achieve business value
+
+scrum ceremonies
+ sprint planning it is done at the start of a sprint in which requirements and
+
+timeline is decided it also has a doubt session
+ daily scrum it is a short meeting to keep everyone updated about the workitems
+ product backlog  of each scrum is dedicated to the refinement of the
+product backlog in this remaining work item are done which can be feedback
+items also
+ sprint review this meeting is done to retrospect sprint and check scope for
+improvement
+
+ lean development
+lean software development is an iterative agile methodology which was developed
+by mary and tom poppendieckaken it is derived from lean manufacturing whose
+goal is to have a simplified and streamlined approach lean software development
+methodology is used to reduce the cost of the project by reducing waste items it is
+widely used in it industry to reduce programming time lean development is based
+on following principles
+
+
+
+
+
+
+
+
+eliminating waste
+building quality in
+amplifying knowledge
+delaying commitment
+delivering fast
+respecting people
+optimizing the whole thing
+
+benefits of lean development methodology
+ it is a faster way to develop a product with less budget and other resources
+efficiency is improved by a considerable margin it allows to teams to have a
+more stream lined approach
+ scope of learning learning is increased with code reviewing lean development
+uses pair programming with which skillset of developers is enhanced
+ fast delivery lean development focuses on small but fast releases which allows
+developers to study the marketcustomer behavior this allows a product to be
+developed incrementally along with continuous feedback
+ lean also tells to develop unit test cases alongside the code development which
+means testing can be done alongside the development thus reducing the time
+spent on testing the products
+
+pitfalls of using lean development methodology
+ implementation is not as it easy as it seems leader has to decide the goals which
+team can understand and do within timeframe it requires complete knowledge
+of the organization
+
+ extreme programming xp
+extreme programming is developed by kent beck extreme programming is a
+structured approach toward developing software quickly as well as maintaining
+quality it has high customer involvement multiple feedback loops and continuous
+planning in xp a working incremental software update is given every  weeks it
+also includes pair programming which allows the skills to flow across the
+developers
+
+principles of extreme programming are
+
+
+
+
+
+
+
+
+
+
+
+
+small releases
+simple design
+testing
+refactoring
+metaphor
+pair programming
+collective code ownership
+continuous integration
+weeks with  hours
+onsite customer
+maintained standard for code
+
+benefits of extreme programming
+ focus on continuous customer involvement increase transparency reduces time
+for development and allows to fix issues immediately
+ reduces time to incur changes with active customer involvement and running
+predetermined unit tests alongside development
+ reduced misunderstanding between customer and development team
+ changes can be accommodated anytime during the development
+
+roles in extreme programming
+ customer owner of the product has set of requirements and budget
+ developers team which develops the product everyone but customer is
+developer
+ coach leads the team about the increment in the product
+ tracker tracks the standards timeline and scope for improvement
+
+ adaptive software development asd
+adaptive software development is a cyclic software development model it is an
+upgraded version on rapid application development rad asd means to develop
+a new software by adapting to the available projects which are used as a template
+which leads to a faster development cycle
+phases of adaptive software development
+ speculation this is the planning phase of the development complete project
+path from requirements user needs timeline to release cycles are decided in this
+phase short iterations are encouraged in planning to avoid scaled mistakes
+ collaboration evolved applications require analyzing large volumes of
+information which can be applied to solve a problem this requires wide
+knowledge requirements that can be achieved only with team collaboration
+collaborate enables teams to wok jointly
+ learn reviews are done after each iteration which helps teams to enhance
+knowledge it also helps in deciding next work items among the teams
+
+benefits of adaptive software development
+ focuses on end users which helps in better products
+ timely delivery scope for early delivery also
+ transparency between customer and developers
+
+pitfalls of adaptive software development
+ unit test integration at every stage which increases the cost for development
+ continuous feedback from customer faster development and scope for rapid
+iterative may lead to slope creep
+ requires user involvement which is not always available
+
+ feature driven development
+feature driven developments is a stakeholder focused development strategy a
+feature is a client valued functions it is similar to user stories in scrum it is five
+step development process and follows standards which are easier to keep unlike
+scrum it uses backlog items or user features to develop one by one deciding
+features helps in faster development times
+
+processes in feature driven development
+
+
+
+
+
+
+develop overall model
+create a list of features to include
+plan features one by one
+design features one by one
+build features one by one
+
+benefits of feature driven development
+ feature hierarchy helps in prioritizing which features need to be developed first
+ feature list decomposes the user requirements which helps in avoiding slope
+creep and deciding time frame for development correctly
+ feature driven development uses unified modeling language uml which
+helps in expressing feature requirements and reduces miscommunication
+among large teams
+

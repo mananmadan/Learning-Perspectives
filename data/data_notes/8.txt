@@ -1,190 +1,140 @@
-emerging programming paradigms
-assignment for assessment
-date 
-by uco deepesh chugh
-
-write short notes on
+write short notes on following
  scrum
-scrum is an agile process framework created by jeff sutherland and ken schwaber meant to be
-used for effective team collaboration on complex product development it is useful for any team
-project with aggressive deadlines and complex requirements and is used in various disciplines
-especially in software development
-a scrum team is typically of  to  members  however scrum can be used by teams of any size
-ranging from  person teams to teams of over  members in a scrum team for software
-development the usual roles of programmer designer tester etc are discarded in the place of
-these roles the participants are divided into
- product owner
-the product owner is a single person that represents the projects key stakeholders users
-customers or others that the product will affect and is responsible for maximizing the
-value of the product resulting from the work of the development team
- development team
-the development team are the professionals solely responsible for delivering a
-potentially releasable increment of the product at the end of a sprint they are self
-organizing and cross functional
- scrum master
-the scrum master is responsible for maximizing productivity of the development team by
-integrating scrum principles into the process removing obstacles to the progress of the
-team preventing outside influence etc
-as a part of the scrum process  some key artifacts are defined to maximize transparency of key
-information and provide opportunities for inspection and adaptation these artifacts are
- product backlog
-the product backlog is a prioritized list of desired features for the product the product
-owner is the sole individual held accountable for the product backlog even if they
-themselves have not created it
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+ 
+
+
+answers starting from next page
+submitted by
+abhyarchi harsh
+uco
 
 
 
- sprint backlog
-the sprint backlog is the set of product backlog items selected for the sprint in the sprint
-planning meeting and a plan for delivering the expected product increment as part of the
-sprint goal
- increment
-an increment is a body of inspectabledone work that represents the sum of all product
-backlog items completed during a sprint and the value of the increments of all previous
-sprints
-during the scrum process multiple predefined timeboxed events are used to maintain regularity
-while minimizing the need for unnecessary meetings these scrum events are
- sprint
-in scrum the project is released as done usable and potentially releasable product
-increments created in a timebox of one month or less such a time box is called a sprint
- sprint planning
-a sprint planning meeting is held at the start of each sprint in this meeting the scrum
-team pulls work from the product backlog into the sprint backlog
- daily scrum
-a brief meeting is held everyday in the sprint to set the context for each days work and
-for keeping the team on track this is called the daily scrum
- sprint review
-a sprint review meeting is held at the end of a sprint for the development team to
-informally demonstrate the completed functionality
- sprint retrospective
-a sprint retrospective is held at the end of each sprint where the entire scrum team
-analyzes the efficiency of the scrum process so far and how they could increase this
-efficiency
-
- lean development
-lean development is an iterative agile methodology translated from the manufacturing industry
-to optimize production and focuses specifically on the removal of waste ie nonvalue adding
-activities from a process it was first introduced in software development by dr robert
-charette in  and was popularized by mary and tom poppendieck in their book of the same
-name
-there are  core lean principles for building more efficient software products  these principles
-are
 
 
 
- eliminate waste
-anything that does not add value to the product for the customer is considered waste this
-can include extra or wrong processes and features
- build quality
-ensure that quality is built at the coding level and maintained by often refactoring this is
-done to ensure that defects are prevented from the start rather than searched for near the
-end
- amplify learning and create knowledge
-expect the application to evolve over time and learn through an iterative process of
-releasing functioning versions and collecting feedback from users
- defer critical decisionscommitments
-irreversible decisions should be delayed to the last responsible moment so that they can
-be made with the most relevant uptodate information in mind
- deliver fast
-short development cycles are used to develop functioning versions to gather user
-feedback and respond faster to customers needs
- respect people
-respect is given to team members in the context of their opinions being valued without
-them being micromanaged this not only leads to reduced frustration but also encourages
-healthy and productive discussions related to key business decisions
- optimize the whole
-the project should be viewed as a combination of teams or components working together
-while considering where to optimize rather than looking at the components or teams
-individually
-
- extreme programming xp
-extreme programming is an agile software development framework used to improve software
-quality and responsiveness to customer requirements while also improving the quality of life for
-the development team it recommends taking best practices that have been proven to work in the
-past to an extreme level
-extreme programming consists of five core values namely
- communication
-xp stresses on the appropriate kind of communication being a face to face discussion
-with the aid of a drawing mechanism such as a white board and describes software
-development to inherently be a team sport requiring knowledge transfer among team
-members
 
 
 
- simplicity
-simplicity implies the removal of waste and to focus on only known requirements during
-design and development to make it easier to maintain support and revise as required in
-the future
- feedback
-paired with simplicity feedback allows the team to dynamically improve their practices
-while also adjusting the product according to the customers needs going forward
- courage
-courage entails team members having a bias for action in the face of fear whether it be
-while raising organizational issues stopping the use of ageold practices if they reduce
-the teams effectiveness or to scrap a hard built feature if there is a better alternative
-available
- respect
-respect should be maintained between team members to be able to effectively
-communicate  provide and accept feedback and work together going forward
+scrum
+scrum is a process of developing software that helps developers achieve their goal methodically it is a subset of agile development
+scrum is basically a strategy by which all the developers plan and then cooperate to work towards a common problem systematically 
+it is best suited when a team with different functional areas is working on the same product and the work can be split in  weeks duration 
+it starts with the team meeting to understand the product backlog  take notes of what needs to be completed and how much time itll take
+scrum also uses the agile methodology sprints  a period of time when development actually takes place it lasts anywhere from a week to a month and the goal is to produce a saleable product there are sprint reviews after every completed sprint where the entire team reviews the result of the sprint along with the stakeholders so that any feedback and comments can be integrated in future sprints sprint retrospective needs to be performed after the review so that the next sprint backlog can be defined
+there are daily standups  or daily scrums  where the team meets to discuss whats been done and whats on the table to be done for the day
+scrum works on values like commitment focus openness and respect each member is expected to have or learn these values during the process for a successful scrum
+principles such as transparency inspection and adaptation are very crucial to any scrum team and work as its backbone 
+scrum lifecycle
+       scrum planning product backlogs
+       sprint planning  how to complete product backlogs
+       sprint development  developing of the features decided in sprint planning
+       daily scrum meets  to be aware of things done and to be done
+       sprint review  to review requirements supposed to be met vs what did and take feedback
+       sprint retrospective  use feedback to address features of next sprint plan
+       repeat steps  until all product requirements are met
+lean development
+lean software development lsd is an agile framework which focuses on what is the most important thing that needs to be covered and based on optimizing development time and resources and eliminating waste it delivers what the product needs it is oftentimes also called the minimal viable productmvp strategy in which a team releases a very basic version of its product gets user feedback on what could be added improved and then works upon this feedback
+the main motives here remain optimisation of resources and reduce waste  but also covering all needs
+the advantages include a very streamlined approach with a clear idea of what needs to be worked upon it gets rid of unnecessary activity which can ultimately reduce expense it also empowers the development team to make its decisions not relying on the managers to instruct them  thus boosting morale
+some disadvantages could be the lack of scalability  since it depends a lot on the team working on it that it might not be possible to reproduce the process if another team starts working on it it also depends on very clearly defined requirements and if those arent correctly identified could be a major loss
+the one major benefit of lean development would be that since it works on continuous feedback the requirements are originated straight from the source thus does not include any unwanted developments
+it is based on  major principles
+       elimination of waste and unwanted features
+       amplifying learning
+       dealing with late decision making
+       ensuring fast delivery
+       encouraging team empowerment
+       building trust and integrity
+       viewing the application as a whole  not in parts
+      
+      
+extreme programming
+it is a very specific agile methodology which focuses on creating higher quality products that can adapt with changing requirements while maintaining high quality life of the development team it is very specific regarding the appropriate engineering practices for developing software
+it is built on  fundamental values
+       simplicity do what and how much needs to be done
+       communication every smallest requirement and code to be communicated  do it together
+       feedback keep in mind every small iteration work on it demo early take feedback work on it
+       respect respect each and every input and every person giving it
+       courage no false excuses owning failures and working on them
+works on some extreme rules and extreme practices that ensure high quality software to be produced extreme programming assumes that the cost of changing a program can be held constant over time
 
- adaptive software development asd
-adaptive software development is a software development practice evolved from rapid
-application development rad practices by jim highsmith in  it focuses on providing
-the ability to accommodate change and adapt to turbulent environments with little planning and
-learning
-the asd life cycle consists of three phases namely
- speculate
-the speculation phase is a non deterministic replacement for the planning phase of a
-general software development life cycle during this phase the project is initiated and
-planning is conducted while keeping uncertainty of the complex problem at hand in mind
-this phase uses initiation information like requirements user needs etc to define a set of
-short release cycles
- collaboration
-due to the high rate of information flow that needs to be collected analyzed and applied
-to the problem there is a requirement for the individual members of the team to
-collaborate ie work jointly to produce results share knowledge and make decisions
-while utilizing their individual skill sets
- learning
-the learning phase is essential for the success of the project and requires the team to
-increase their knowledge of the project technology using techniques such as
-a focus groups
+it involves
+   oo 
+   unit tests written before programming and keeping all of the tests running at all times these are automated and recognize defects early in development
+   oo 
+   simple design meeting requirements first but redesign should be feasible as and when required
+   oo 
+   pair programming  two programmers at one screen taking turns one of them is at the keyboard the other constantly reviews and provides inputs
+   oo 
+   testing happens throughout the day
+   oo 
+   shipping out minimal working product early then upgrading it very frequently keeping in mind needs and feedback
 
+      
 
-b technical reviews
-c project retrospectives
-to effectively use the learn phase the iterations need to be short so that the mistakes the
-team is learning from are small rather than large
-
- feature driven development fdd
-feature driven development fdd is an agile process that organizes software development
-around the progress made on features  where a feature is a small clientvalued functiontask
-similar to user stories in scrum
-the fdd life cycle consists of five stages
- develop an overall model
-the domain and development teams alongside a chief architect focus more on the
-overall scope of the product rather than going into featureheavy detail ie the team
-focuses on capturing the target audience the context the software should be used in and
-the necessary structure
- build a features list
-a team of chief programmers decompose the overall model developed in the previous
-phase into a number of areas and then further into a number of activities feature sets
-where each step within an activity is defined as a feature
- plan by feature
-in this stage important decisions related to feature implementation are taken  feature
-sets are assigned to chief programmers and key classes are assigned to developers
- design by feature
-in this stage the chief programmer forms a feature team by identifying class owners
-likely to be involved in the development of selected features  refines the object model
-based on sequence diagrams and assigns the developers to write class and method
-prologues at the end of the phase a design inspection is held
- build by feature
-in this stage the class owners work with the design package produced in the previous
-phase to implement the items necessary for their class to support the design for the
-features in the work package this code is unit tested and inspected according to the chief
-programmer and finally permitted to build
-the fdd framework leads to clearer project management minimizes complexity and leads to
-the building of better products rapidly it is developed while keeping larger teams in mind and
-will not work as efficiently for smaller projects
+benefits include rapid development working quickly on feedback low defect rates high scalability reduced costs high customer satisfaction and also high work satisfaction
 
 
 
+
+
+
+
+
+
+adaptive software development
+
+
+
+it is a method that focuses on building very complex softwares and systems works on human collaboration and self organisation
+
+
+
+asd life cycle
+    
+   speculation
+    
+   collaboration
+    
+   learning
+
+
+
+speculation aims at collecting project needs and planning on how to meet those needs with every release  what features to work on
+
+collaboration is the most crucial part where individuals as a team collaborate and work on the product requirements trusting fellow teammates and being open to criticism are very important qualities that every team member should possess
+
+learning is a way to make sure that the developers working on the product should have the appropriate and up to date knowledge of the skillset they would be using learning can happen in ways like focus groups technical reviews and project postmortem
+
+
+
+these practices accommodate change and are adaptable in frequently changing environments with products being developed with minimal planning and learning
+
+
+
+feature driven development
+
+it is an agile framework focusing on planning software development by making progress on given features to work on they may not necessarily be product features but can be compared to user stories in scrum
+
+project lifecycle in a fdd framework is
+    
+   develop an overall model
+    
+   make a list of features
+    
+   plan according to a feature
+    
+   design around the feature
+    
+   build the feature
+
+advantages of this include faster development with a defined step lifecycle can move forward with a product with continuous successful integrations
+
+disadvantages include high dependence on software developers not effective for small projects and no very clear documentation  can lead to confusion
+
+should be used with large scale products which are being developed by highly skilled developers who can handle all the usecases of the product themselves and deliver products with high expertise

@@ -1,8 +1,52 @@
-write short notes on following
- scrum
-      lean development
-      extreme programming xp
-      adaptive software development asd
-      feature driven development
+lean software development lsd is an agile framework based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs the lean approach is also often referred to as the minimum viable product strategy in which a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback
+
+lsds strengths include
+ streamlined approach allows more functionality to be delivered in less time
+ eliminates unnecessary activity and as a result can reduce costs
+ empowers the development team to make decisions which can also boost morale
+lsds weaknesses include
+ heavily depends on the team involved making it not as scalable as other frameworks
+ depends on strong documentation and failure to do so can result in development mistakes
+      
+ extreme programming xp is an agile software development framework that aims to produce higher quality software and higher quality of life for the development team xp is the most specific of the agile frameworks regarding appropriate engineering practices for software development
+ dynamically changing software requirements
+ risks caused by fixed time projects using new technology
+ small colocated extended development team
+ the technology you are using allows for automated unit and functional tests
+
+ adaptive software development is a method to build complex software and system asd focuses on human collaboration and selforganisation
+ speculation
+during this phase project is initiated and planning is conducted the project plan uses project initiation information like project requirements user needs customer mission statement etc to define set of release cycles that the project wants
+ collaboration
+it is the difficult part of asd as it needs the workers to be motivated it collaborates communication and teamwork but emphasizes individualism as individual creativity plays a major role in creative thinking people working together must trust each others to
+      criticize without animosity
+      assist without resentment
+      work as hard as possible
+      possession of skill set
+      communicate problems to find effective solution
+ learning
+the workers may have a overestimate of their own understanding of the technology which may not lead to the desired result learning helps the workers to increase their level of understanding over the project
+
+
+
+
+
+
+top of form
+featuredriven development fdd is a clientcentric architecturecentric and pragmatic software process the term client in fdd is used to represent what agile modeling am refers to as project stakeholders or extreme programming xp calls customers fdd was first introduced to the world in  via the book java modeling in color with uml a combination of the software process followed by jeff delucas company and peter coads concept of features fdd was first applied on a  month person project for a large singapore bank in  which was immediately followed by a second month long person project a more substantial description is published in the book a practical guide to featuredriven development as well as the feature driven development web site
+as the name implies features are an important aspect of fdd a feature is a small clientvalued function expressed in the form 
+bottom of form
+fdd also defines a collection of supporting roles including
+ domain manager
+ release manager
+ language guru
+ build engineer
+ toolsmith
+ system administrator
+ tester
+ deployer
+ technical writer
+
  
+
 

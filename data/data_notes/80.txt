@@ -1,0 +1,59 @@
+write short notes on following
+     scrum
+scrum is a project management framework within which people can address complex adaptive problems while productively and creatively delivering products of the highest possible value it is lightweight and simple to understand it emphasizes teamwork accountability and iterative progress toward a welldefined goal 
+it was developed by ken schwaber and jeff sutherland in the early s to help organizations struggling with complex development projects
+scrum makes clear the relative efficacy of your product management and work techniques so that you can continuously improve the product the team and the working environment it works on the following values courage focus commitment respect and openness
+the framework begins with a simple premise start with what can be seen or known after that track the progress and tweak as necessary the three pillars of scrum are 
+   oo    transparency
+   oo    inspection
+   oo    adaptation
+the scrum framework consists of 
+scrum teams and their associated roles the scrum team consists of a product owner the development team and a scrum master scrum teams are selforganizing    choose how best to accomplish their work    and crossfunctional    teams have all competencies needed to accomplish the work without depending on others not part of the team the team model in scrum is designed to optimize flexibility creativity and productivity
+events events in scrum are timeboxed of a fixed duration and they create regularity and minimize the need for meetings not defined in scrum once a sprint begins its duration is fixed and cannot be altered the remaining events may end whenever the purpose of the event is achieved ensuring an appropriate amount of time is spent without allowing waste in the process  the scrum events are 
+   oo    sprint
+   oo    sprint planning
+   oo    daily scrum
+   oo    sprint review
+   oo    sprint retrospective
+artifacts scrums artifacts represent work or value to provide transparency and opportunities for inspection and adaptation artifacts defined by scrum are specifically designed to maximize transparency of key information so that everybody has the same understanding of the artifact the scrum artifacts are
+   oo    product backlog
+   oo    sprint backlog
+   oo    increment
+rules the rules of scrum bind together the roles events and artifacts governing the relationships and interaction between them events in scrum include
+
+      lean development 
+it is a translation of lean manufacturing principles and practices in the form of a software development process it is emerging within the agile community lean offers a solid conceptual framework values and principles as well as good practices that support agile organizations
+the term lean software development originated in the book by the same name written by mary poppendieck and tom poppendieck in 
+it can be summarized by  principles
+       eliminate waste anything and everything that doesnt add value to the customer is considered as waste and should be eliminated
+       amplify learning the learning process is based on iterations when writing code and is sped up by usage of short iteration cycles this leads to more communication with the customer hence amplifying learning
+       decide as late as possible decisions are delayed as much as possible until they can be made based on facts and not on uncertain assumptions and predictions
+       deliver as fast as possible the sooner the end product is delivered without major defects the sooner feedback can be received and incorporated into the next iteration
+       empower the team lean approach follows the agile principle iebuild projects around motivated individuals  and trust them to get the job done encouraging progress catching errors and removing impediments but not micromanaging the workers helps empower the team
+       build integrity in integrity is how the software is being advertised delivered deployed accessed how intuitive its use is its price and how well it solves problems lean incorporates this into the software building process
+       optimize the whole software isnt just about its individual parts its about the product of their combined product lean emphasizes on having clear relationships between teams working on different parts of the product this helps produce a system with smoothly interacting components
+
+      extreme programming xp
+the first xp project was started on march   xp is one of several popular agile processes and has been very successful at many companies of all different sizes and industries world wide 
+xp stresses on customer satisfaction it delivers the software that the customer needs and as when the customer needs it xp empowers your developers to confidently respond to changing customer requirements even late in the life cycle
+xp emphasizes teamwork managers customers and developers are all equal partners in a collaborative team xp implements a simple yet effective environment in which the team selforganizes around the problem to solve it as efficiently as possible thus being highly productive
+the five essential ways xp improves a software project 
+   oo    communication extreme programmers constantly communicate with their customers and fellow programmers
+   oo    simplicity design is kept clean  simple
+   oo    feedback testing the software starts from day  creating feedback loops delivery to the customers is as early as possible and changes are implemented as suggested
+   oo    respect each small success deepens the respect for the unique contributions of every team member
+   oo    courage
+extreme programming has simple rules the rules that may seem awkward and perhaps even naive at first are based on sound values and principles rules set expectations between team members but are not the end goal themselves they define an environment that promotes team collaboration and empowerment
+
+      adaptive software development asd
+jim highsmiths and sam bayers work on rapid application development rad led to the creation of the adaptive software development process it revolves around the principle that continuous adaptation of the process to the work at hand is the normal state of affairs
+asd replaces the traditional waterfall cycle model with a repeating series of speculate collaborate and learn cycles this dynamic cycle provides for continuous learning and adaptation to the emergent state of the project the characteristics of an asd life cycle are that it is mission focused feature based iterative timeboxed risk driven and change tolerant just as rad is asd is also a precedent to agile software development
+speculate the paradox of planning    it is more likely to assume that all stakeholders are comparably wrong for certain aspects of the projects mission    is the reason why the term speculate replaces planning during speculation the project is initiated and adaptive cycle planning is conducted adaptive cycle planning uses project initiation information the customers mission statement project constraints eg delivery dates or user descriptions and basic requirements to define the set of release cycles or software increments that will be required for the project
+collaborate it refers to the efforts for balancing the work based on predictable parts of the environment planning and guiding them and adapting to the uncertain surrounding mix of changes caused by various factors such as technology requirements stakeholders software vendors 
+learn the learning cycles challenging all stakeholders are based on the short iterations with design build and testing during the iterations the knowledge is gathered by making small mistakes based on false assumptions and correcting those mistakes thereby leading to greater experience and eventually mastery in the problem domain
+                                       
+      feature driven development fdd
+fdd is an iterative and incremental agile or lightweight software development process it is a blend of a number of industryrecognized best practices that are driven from a clientvalued functionality feature perspective its main purpose is to deliver tangible working software repeatedly in a timely manner in accordance with the principles behind the agile manifesto
+history fdd was initially devised by jeff de luca in  it was initially a set of five processes with the first two processes being heavily influenced by peter coads ideas  approaches and the other processes being a result of jeff de lucas experience 
+overview fdd is a modeldriven shortiteration process that consists of five basic activities for accurate state reporting and keeping track of the software development project milestones that mark the progress made on each feature are defined during the first two sequential activities ie developing the overall model  building the feature list an overall model shape is established the final three activities ie plan design  build by feature are iterated for each feature
+

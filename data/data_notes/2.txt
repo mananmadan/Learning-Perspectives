@@ -1,48 +1,69 @@
-                        emerging programming paradigms
-
-scrum
-scrum is an agile framework which is used when the project is big and complex the amount of work cannot be estimated and the requirements change heavily due to stakeholders feedback
-scrum team contains about  people which includes product owner scrum master and the development team
-product owner   he acts as a bridge between the stakeholders and the rest of the scrum team he explains all the requirements and the clarify the queries related to them based upon the stakeholders need
-scrum master  he manages the development team and removes all the outside challenges and dependencies to make sure team can work efficiently
-development team  they are the actual people who creates the product they are not separated by some specific role like tester designer programmer etc all of them work together to complete the tasks at hand
-
-first the whole project is divided into user stories which are then listed out based on priority upon discussion with product owner at the start of each sprint  the development team decides what all tasks they can complete in one sprint sprint is short fixed duration of about a month in which a some workable product is created each day there is daily scrum which is a short meeting to set the goals for each day and remove any hurdle if any at the end of sprint there is a sprint review meeting to show what they have achievedcompleted during this sprint
-
-
-
-
+write short notes on following
+ scrum
+scrum is a framework that provides a template which teams can follow for any project some important parts in the scrum framework are as follows 
+   oo    scrum master  its hisher responsibility to make sure that the scrum framework is being diligently and effectively being followed by all the members of the team and also protects the team from external situations
+   oo    sprint planning meeting  at the beginning of each sprint to plan out the tasks that will be completed by each team member in the upcoming sprint the scrum master leads this meeting
+   oo    sprint  a sprint is a time period of around a month or less during which a certain number of tasks will have to be completed by each team member
+   oo    sprint review meeting  in this meet the performance of the team is evaluated and all the team members put forth the tasks they were able to complete and the ones which were left incomplete
+   oo    daily scrum  this is a  minute meet held everyday in which everyone states the work they did in the previous day and the work theyll do today this helps keep everyone up to date on each others tasks
+having done a summer internship in amazon india ive personally witnessed how scrum works and can testify that this framework indeed helps a lot to keep team members as efficient as possible
 lean development
-lean development is an agile framework which is actually adapted from the manufacturing industry which used the lean development process as a way to optimize production and assembly lines to minimize waste and maximize customer value
-lean development empowers the development team to make decisions the team first delivers the bare minimum version of its product to the market from the customers users stakeholders feedback they understand what is needed in the product and what is not based upon this feedback they reiterate this makes the production more efficient and the production time is reduced hence reducing the cost
-this is an excellent approach as it removes all the features and related activities which will not be needed in final product but it makes the project heavily rely on the development team so the organisation must trust the team for this approach to work
-
+lean development is the application of the lean principles to software development lean principles were initiated in manufacturing to optimize production lines and maximise the value to the customer the seven lean development principles are 
+       eliminate wastethe main idea is here is to eliminate all that does not add any value to the customer some things that can be removed are 
+         a          unnecessary code or functionality
+         b          unclear or constantly changing requirements
+         c          bureaucracy
+         d          task switching
+         e          partial work done
+       build quality inbuilding quality is something that appears obvious but is seldom implemented effectively if not taken as a disciplined practice some things that can be done in this regard are 
+         a          pair programming  using the skills of two developers to ensure quality
+         b          testdriven development  can be done by writing the criteria the code should meet to meet the business requirements
+         c          incremental development and constant feedback
+         d          minimize wait states
+         e          automation
+       create knowledgecreating knowledge should go hand in hand with development this can be done by pair programming code reviews documentation well commented code training etc
+       defer commitmentthis does not mean to keep postponing things and be lazy rather it means not to plan months in advance as requirements may change not to commit to ideas or projects without understanding the full breadth and to constantly collect data and information regarding any important decision
+       deliver fast
+       respect for peoplethis can be done by 
+         a          communication proactively and effectively
+         b          encouraging healthy conflicts
+         c          empowering each other to do effective work
+       optimize the whole
 extreme programming xp
-extreme programming is an agile framework that aims to produce a higher quality software and a higher quality of life for the development team it is used when the project has ever changing requirements risks involved due to limited time or new technology
-the five values of xp are  
-communication face to face is considered to be the best way of communication the team can use aid of white board or other drawing mechanism 
-simplicity  the design of the system must be kept as simple as possible addressing all the requirements and not covering for future extensions 
-feedback  the experienced developers should use their previous feedbacks while solving problems and creating the design 
-courage  every team member should have courage to raise any organizational issues etc which is hindering their individual or team performance 
-respect  each team member should respect each other in order to communicate to create a better working environment and work more efficiently 
-the core of xp is various practices which helps to maintain the above five values some of these practices are  sit together energized work peer programming test first programming continuous integration etc
+extreme programming is a framework that is best used when there are dynamic software requirements small teams co existing closeby and automated unit and functional tests are possible there are  main tenets of extreme programming 
+       communicationextreme programming very specifically highlights the importance of communication especially in a situation like software development where team members sharing information with each other is crucial for the success of the team it also stresses the importance the appropriate communication to take place  through a board sometimes face to face etc
+       simplicitythere is no need to reinvent the wheel again and again this value highlights the importance of keeping things simple so that the structures are easy to understand and revise and support it also requires that you only address the problems that you are currently facing
+       feedbackconstant feedback on the previous performance of the team can help identify patterns and weak points much earlier and then improve then right now rather than discovering the deficiencies in the product later on which could be much more difficult to correct
+       couragecourage is one of the most important values that can massively improve the outcomes it takes courage to try something new to listen to feedback and work on the shortcomings and it takes courage to raise concerns against the teams shortcomings
+       respectit is important that all the team members respect each other and their decisions in order to provide constructive criticism and to communicate effectively with each other
+ adaptive software development asd
+adaptive software development was published in  by jim highsmith it is used for a wide range of applications often large projects where the specific outcome cannot be determined in the beginning there are  phases of development in adaptive software development this framework is cyclical and all the three phases are interrelated reflecting the complexity of a large projectthe three phases are 
+       speculate  the term speculate is deliberately used instead of planning to reflect that often the planning cannot be done right at the beginning planning is definitely a part of this phase but the word speculate is used to describe the reality and uncertainty in a complex problem in the asd cycle small iterations are preferred
+       collaborate  in a complex problem it is imperative that all the information available to all the members is shared openly and work is divided according to the expertise of the various members and that they help each otherthis requires the ability to share information working together effectively to produce results and and to make decisions the diverse knowledge requirements in a complex problem can only be solved by the collaboration of all the knowledge holders
+       learn  small iterations in asd give ample scope for members to learn the team can constantly enhance its knowledge by  
+         a          technical reviews
+         b          project retrospectives
+         c          customer focus groups
+regular reviews allow the customer and the developers to learn about 
+         a          product changes
+         b          fundamental changes in the understanding of how the product is to be developed
+from looking at this speculatelearncollaborate cycle it is clear that all of them are interrelated
 
-adaptive software development asd
-adaptive software development is evolved from rad  rapid application development  practices it was published by john highsmith in  adaptive software development practices provide ability to accommodate changes and are adaptable in turbulent environments with products evolving with little planning and learning it is a cyclical and involves three phases  speculate collaborate learn
-speculate   in this phase project is initiated and planning is conducted the team while speculating plans the project goals while acknowledging the uncertainty in complex problems
-collaborate  to create complex applications they is need for large amount of information to be collected analyzed and then applied to the problem in order to do that there is a need for proper communication between team members the team should work jointly to make decisions share knowledge and experience
-learn  this part is also very important in the lifecycle of software development the team need to enhance their knowledge to keep up with the team and provide solutions to complex and new problems team can use practices such as  technical reviews focus groups project postmortem
-all the three phases are important and necessary for the success of the project
 
 
-
-feature driven development 
-feature driven development is an agile framework where the progress of the project is measured based upon the features that are completed the features here are not really the product features but user stories as in scrum 
-fdd is used when working for a large corporation on a big scale project it heavily relies on chief or lead developers as opposed to collective decision making in other agile frameworks like srum xp etc 
-fdd has a five step development process  
-    develop an overall model
-    build a feature list
-    plan by feature
-    design by feature
-    build by feature
-the first realworld application of the feature driven development methodology was on a person softwaredevelopment project for a singaporebased financial institution the simple  step process allows for rapid development but it is not efficient for smaller projects pre  defined development standards helps in completing tasks quickly
+feature driven development
+in a feature driven development model as the name suggests progress is marked by the number of features developed features do not imply what they are commonly understood to be rather they are more like stories in scrum fdd is designed to follow a  step development process  
+       develop an overall model
+       build a features list
+       plan by feature
+       design by feature
+       build by feature
+fdds strengths are 
+       simple model allows for rapid development
+       allows larger teams to make progress with regular success
+       leverages upon the predefined development standards so developers can move quickly
+some weaknesses are 
+       not suitable for smaller projects
+       documentation is not practiced as heavily which can lead to confusion
+       very dependent on the head developer
+this model can be used in a large company on a large project however everything happens in a top down fashion and individual ownership isnt promoted the ownership lies upon the head developer alone

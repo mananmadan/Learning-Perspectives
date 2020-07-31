@@ -1,8 +1,59 @@
 write short notes on following
- scrum
-      lean development
-      extreme programming xp
-      adaptive software development asd
-      feature driven development
- 
+       scrum
+      scrum is an agile framework for developing managing and building products it helps teams work together it helps the teams to learn from experiences and organize well while working on a problem it helps the team to collaborate effectively on a project to deliver products of great value scrum is a collection of rules tools roles that work together to help the team to manage their work effectively scrum helps to deal with the changing priorities and gives a better visibility of the project
+      the scrum team consists of a product owner development team and scrum master the team is a self organizing team they choose the best possible way to accomplish the task instead of being directed by some other team it increases productivity flexibility and creativity 
+      events in a scrum are sprint sprint planning daily scrum sprint review sprint retrospective
+      a sprint is a time frame of one month or less during which a usable and a releasable product increment is created 
+      sprint planning is deciding the work that needs to be done in the sprint it takes place before the start of each sprintscrum master organizes the sprint planning work is selected from the product backlog and is included in the sprint backlog
+      daily scrum is a daily meeting for max  mins to help the development team synchronize and decide the work for the next  hours 
+      after the end of the sprint a sprint review is done to inspect the work done during the sprint sprint retrospective is where the scrum team inspects itself and looks for the improvements that can be done in the next sprint
+      scrum values include courage focus commitment respect and openness 
+       lean development
+      lean approach is a minimum viable product mvp strategy application of lean approach to software development is called lean development it is an agile framework for optimizing development time and minimizing waste and delivering only what product needs here a team releases a bare minimum version of the product and then iterates based on the feedback 
+      lean development helps to deliver more functionality in less time it helps to avoid unnecessary activity and also reduces cost it empowers the development team to make decisions development should be excellent for the success of lean development 
+      main idea of lean development is to work only on what is most important and eliminate any wastage and also ensure good quality product this is achieved through lean development principles which are
+         a          eliminate waste eliminate anything that does not add value to the customer
+         b          build quality in quality is everyones job and not just of the quality analyst aim is to build quality products without generating excessive waste
+         c          build knowledge properly document and retain valuable learning
+         d          defer commitment team should keep their options open and continuously collect information rather than making decisions without necessary data
+         e          deliver fast it does not mean working for long hours idea is to build a simple solution and increment upon it
+         f          respect for people communication within the team should be proactive and effective healthy conflicts are encouraged each one should be empowered to their best
+         g          optimize the whole instead of focusing on suboptimizing focus should be on optimizing the whole
+            
+       extreme programming xp
+      extreme programming is an agile software development framework which aims to produce high quality software it is designed to improve the quality of the software and properly adapt to the changing needs of the customer it aims to provide iterative and frequent small releases allowing both the team members and customers to review and examine the product throughout the lifecycle 
+      extreme programming focuses on customer satisfaction and emphasis team work customers managers developers are all equal partners in a collaborative team it implements an effective environment making teams highly productive teams self organizes around the problem to solve it as effectively as possible 
+      extreme programming is built on the top of five fundamental values which are
+         a          simplicity do what is needed and asked for nothing more 
+         b          communication everyone is the part of the team and knowledge should be shared among the team members with face to face discussions
+         c          feedback through constant feedback on their previous works teams can identify areas of improvement and revise their practises
+         d          respect members of the team respect each other and work together for the accomplishment of the project
+         e          courage raise organizational issues that reduce your teams effectiveness accept and act on feedback and keep moving forward 
+rules of extreme programming are
+         a          planning user stories are written project is divided into iterations
+         b          managing give the team a dedicated open work space set a sustainable pace 
+         c          designing make a simple design no functionality is added early refactor whenever possible
+         d          coding code must be written in agreed standards all the production code is pair programmed only one pair integrates at a time integrate often
+         e          testing all codes must have unit tests a code must pass all unit tests before it can be released 
+            
+       adaptive software development asd
+      adaptive software development is a technique to build large and complex softwares it focuses on human collaboration and selforganization it enables the team to quickly adapt to the changing requirements and market needs by evolving their products with continuous planning and learning it is a shorter version of rapid action development agile framework 
+      it focuses on end users which helps to make better and intuitive products it allows on time delivery of the products 
+      teams develop according to a three phase process 
+         a          speculation during this phase the project is initiated and planning is conducted project requirements user needs customer needs are used to initialize the project and define a set of release cycles that the project wants speculation encourages experimentation and exploration
+         b          collaboration large amounts of information is needed to be collected analyzed and applied to a problem this can be handled only with team collaboration team members work jointly to produce results share knowledge and make decisions people working together must trust each other to criticize without animosity assis without resentment work hard and communicate problems to find effective solutions
+         c          learning team should enhance its knowledge constantly members may have an overestimate of their own understanding of technology that may lead to undesired results learning helps the members to increase their level of understanding over the project learning can be done using technical reviews focus groups and project retrospective 
+      results after each iteration are analyzed to learn the direction of the next asd emphasis on dynamics of selforganizing team interpersonal collaboration individual and team learning yield software project teams that have a much higher likelihood of success
+      
+      
+      
+       feature driven development
+      feature driven development is an agile framework that organizes software development on making progress on features features are not necessarily product features they are more like user stories in scrum it is an iterative and incremental software development process its main purpose is to deliver a tangible working software repeatedly in a timely manner 
+      feature driven development follows a  step process which includes
+                   develop an overall model more shape than content an object model
+                   build a features list a list of features grouped into sets and subject areas 
+                   plan by feature produce a development plan and assign ownership of features as classes to the programmers
+                   design by feature add more content to the design model design package is produced for each feature
+                   build by feature class owners develop codes for their classes after unit testing and successful code inspection the completed feature is promoted to the main build 
+      this  step process allows for more rapid development it allows large teams to move projects forward with continuous success it leverages a predefined development standards it does not work efficiently for small projects  
 
