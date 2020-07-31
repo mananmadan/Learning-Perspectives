@@ -3,7 +3,7 @@ from extract_kw import extract_keywords
 from one_hot_encoding import encode
 from write import write_score
 from count import count_keywords
-main_file = '/home/manan/Desktop/Research/Learning-Perspectives/data/data_notes/47'
+main_file = '/home/manan/Desktop/Research/Learning-Perspectives/data/data_notes/79'
 eval_file = '/home/manan/Desktop/Research/Learning-Perspectives/data/data_notes/'
 
 
@@ -36,11 +36,10 @@ for i in range(0,93):
 #count_eval = extract_keywords(eval_file+'.txt',noun_eval_file)
 
 # one hot encoding
- x,main_score = encode(main_file+'n'+'.txt' ,eval_file+str(i)+'.txt',0)
-
- print(x,main_score)
+ encode(main_file+'n'+'.txt' ,eval_file+str(i)+'.txt',0)
+ #print(x,main_score)
 # store the results in a file to be used by clustering
 # value to be store is main_score and count_eval
- results_file = '/home/manan/Desktop/Research/Learning-Perspectives/results/scores.txt'
- found = count_keywords(eval_file + str(i)+'n'+'.txt')
- write_score(x,main_score,found,results_file)
+ #results_file = '/home/manan/Desktop/Research/Learning-Perspectives/results/scores.txt'
+ #found = count_keywords(eval_file + str(i)+'n'+'.txt')
+ #write_score(x,main_score,found,results_file)

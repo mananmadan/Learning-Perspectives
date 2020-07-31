@@ -31,22 +31,31 @@ def calc_score(bstring,normalizing_val):
     print(val)
     return val
 
+def write_string(filename,bstring):
+    openfile = open(filename,'a')
+    for i in bstring:
+     openfile.write(i)
+     openfile.write(' ')
+    openfile.write('\n')
+
 def encode(mainfile,evalfile,normalizing_val):
     # encoding in binary strings
     bstring = "" 
     count = 0
-    load_dict(mainfile)
-    for i in nouns:
-          print(i)
-          if i in open(evalfile).read():
+    #load_dict(mainfile)
+    temp_list = open(mainfile).read().split(' ')
+    #print(nouns)
+    for i in temp_list:
+         if i in open(evalfile).read():
              bstring = bstring + '1'
              count = count + 1
              print(i)
-          else:
+         else:
              bstring = bstring + '0'
     
     print(bstring)
+    write_string("/home/manan/Desktop/Research/Learning-Perspectives/code/bstr.txt",bstring)
     print(count)
     nouns.clear()
-    val = calc_score(bstring,normalizing_val)
-    return count,val
+    #val = calc_score(bstring,normalizing_val)
+    
