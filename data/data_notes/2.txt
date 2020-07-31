@@ -1,0 +1,48 @@
+                        emerging programming paradigms
+
+scrum
+scrum is an agile framework which is used when the project is big and complex the amount of work cannot be estimated and the requirements change heavily due to stakeholders feedback
+scrum team contains about  people which includes product owner scrum master and the development team
+product owner   he acts as a bridge between the stakeholders and the rest of the scrum team he explains all the requirements and the clarify the queries related to them based upon the stakeholders need
+scrum master  he manages the development team and removes all the outside challenges and dependencies to make sure team can work efficiently
+development team  they are the actual people who creates the product they are not separated by some specific role like tester designer programmer etc all of them work together to complete the tasks at hand
+
+first the whole project is divided into user stories which are then listed out based on priority upon discussion with product owner at the start of each sprint  the development team decides what all tasks they can complete in one sprint sprint is short fixed duration of about a month in which a some workable product is created each day there is daily scrum which is a short meeting to set the goals for each day and remove any hurdle if any at the end of sprint there is a sprint review meeting to show what they have achievedcompleted during this sprint
+
+
+
+
+lean development
+lean development is an agile framework which is actually adapted from the manufacturing industry which used the lean development process as a way to optimize production and assembly lines to minimize waste and maximize customer value
+lean development empowers the development team to make decisions the team first delivers the bare minimum version of its product to the market from the customers users stakeholders feedback they understand what is needed in the product and what is not based upon this feedback they reiterate this makes the production more efficient and the production time is reduced hence reducing the cost
+this is an excellent approach as it removes all the features and related activities which will not be needed in final product but it makes the project heavily rely on the development team so the organisation must trust the team for this approach to work
+
+extreme programming xp
+extreme programming is an agile framework that aims to produce a higher quality software and a higher quality of life for the development team it is used when the project has ever changing requirements risks involved due to limited time or new technology
+the five values of xp are  
+communication face to face is considered to be the best way of communication the team can use aid of white board or other drawing mechanism 
+simplicity  the design of the system must be kept as simple as possible addressing all the requirements and not covering for future extensions 
+feedback  the experienced developers should use their previous feedbacks while solving problems and creating the design 
+courage  every team member should have courage to raise any organizational issues etc which is hindering their individual or team performance 
+respect  each team member should respect each other in order to communicate to create a better working environment and work more efficiently 
+the core of xp is various practices which helps to maintain the above five values some of these practices are  sit together energized work peer programming test first programming continuous integration etc
+
+adaptive software development asd
+adaptive software development is evolved from rad  rapid application development  practices it was published by john highsmith in  adaptive software development practices provide ability to accommodate changes and are adaptable in turbulent environments with products evolving with little planning and learning it is a cyclical and involves three phases  speculate collaborate learn
+speculate   in this phase project is initiated and planning is conducted the team while speculating plans the project goals while acknowledging the uncertainty in complex problems
+collaborate  to create complex applications they is need for large amount of information to be collected analyzed and then applied to the problem in order to do that there is a need for proper communication between team members the team should work jointly to make decisions share knowledge and experience
+learn  this part is also very important in the lifecycle of software development the team need to enhance their knowledge to keep up with the team and provide solutions to complex and new problems team can use practices such as  technical reviews focus groups project postmortem
+all the three phases are important and necessary for the success of the project
+
+
+
+feature driven development 
+feature driven development is an agile framework where the progress of the project is measured based upon the features that are completed the features here are not really the product features but user stories as in scrum 
+fdd is used when working for a large corporation on a big scale project it heavily relies on chief or lead developers as opposed to collective decision making in other agile frameworks like srum xp etc 
+fdd has a five step development process  
+    develop an overall model
+    build a feature list
+    plan by feature
+    design by feature
+    build by feature
+the first realworld application of the feature driven development methodology was on a person softwaredevelopment project for a singaporebased financial institution the simple  step process allows for rapid development but it is not efficient for smaller projects pre  defined development standards helps in completing tasks quickly

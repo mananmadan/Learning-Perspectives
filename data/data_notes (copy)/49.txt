@@ -1,0 +1,79 @@
+                                EPP Assignment
+
+
+
+Write short notes on following :
+   oo Scrum
+   oo Lean Development
+   oo Extreme programming (XP)
+   oo Adaptive Software Development (ASD)
+   oo Feature Driven Development
+ 
+
+
+
+
+
+                                                                 Arun Kumar
+                                                                    2017UCO1603
+
+   (1)    Scrum 
+
+
+
+A framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value."
+
+Scrum: A Lightweight Agile Project Management Framework that can be used to manage iterative and incremental projects of all types. The idea here is to just break the large complex projects into smaller stages, reviewing and adapting along the way. With scrum one can:
+   oo    Write fewer plans and do more in short iterations or cycles that we call sprints
+   oo    Work as one dedicated and committed team, instead of working on separate groups
+   oo    Constantly deliver functioning products at the end of each sprint
+   oo    Receive continuous feedback from your customers and improvise your product
+So, scrum is a flexible way of working on any kind of project in this rapidly changing world.
+
+
+
+   (2)    Lean Development
+
+Lean product development is a process for building products faster with less waste. It improves upon traditional product development processes by eliminating the communication silos that typically separate departments. All teams in lean organizations work on the product from beginning to end, which allows the product to evolve and improve. Lean development follows five principles.
+
+Five common Principles of Lean Project Development are as follows:
+
+1. Deliver value to the customer
+
+2. Identify the value stream and reduce waste
+
+3. Streamline the value-creating steps
+
+4. Empower the team
+
+5. Learn and improve
+
+
+
+
+   (3)    Extreme programming (XP)
+
+Extreme Programming (XP) Development Methodology is intended to improve software quality and responsiveness to changing customer requirements. Extreme Programming (XP) Development Methodology has frequent "releases" in short development cycles which is intended to improve productivity and introduce checkpoints so new customer requirements can be adopted. XP uses user stories but associates acceptance tests with them that need to be passed for the story to be considered done. The acceptance tests are usually automated but can also be a series of repeatable steps. The programmer is generally expected to write tests for individual tasks contributing to a story. XP purposes write tests first and code second. Each piece of code should have an associated test or should not be integrated.
+
+"XP is  a lightweight methodology for small to medium-sized teams developing software in the face of vague or rapidly changing requirements"
+
+
+
+
+   (4)    Adaptive Software Development (ASD)
+
+--------------------------------------------------------------------------------
+Adaptive Software Development is used by a wide range of companies from New Zealand to Canada for a different range of project and product types.
+--------------------------------------------------------------------------------
+The ability to accommodate the change and the ability to be adaptable in turbulent environments is provided by the Adaptive Software Development practices and the products evolve from planning and learning.
+
+   (5)    Feature Driven Development
+      
+      
+FDD has five basic processes steps:
+   oo    Developing an overall model. Cross-functional, iterative, and highly collaborative. FDD pushes team members to work together to build an object model of the domain area as guided by the Chief Architect. When detailed domain models are created, these models have progressively merged into an overall model after.
+   oo    Building the list of features. By using the model on the previous step, the team or the chief programmer builds a list of features that would be useful to users and could be completed along a set timeline for release.
+   oo    Planning by feature. It's all about organizing. Here, plans are laid in which order the features will be implemented. Teams are then selected and assigned feature sets.
+   oo    Designing by feature. At this stage, the chief programmer chooses the features for development and assigns them to feature teams consisting of the project manager; the chief architect; the development manager; the domain expert; the class owner; and the chief programmer.
+   oo    Building by feature. Feature teams have complete coding, testing, and documentation of each feature, then advance the feature to the main build.
+      

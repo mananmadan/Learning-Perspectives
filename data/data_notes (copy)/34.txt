@@ -1,0 +1,178 @@
+--------------------------------------------------------------------------------
+   Q. Write short notes on following 
+   oo --------------------------------------------------------------------------------
+                    Scrum 
+   oo --------------------------------------------------------------------------------
+                     Lean Development 
+   oo --------------------------------------------------------------------------------
+                    Extreme programming (XP) 
+   oo --------------------------------------------------------------------------------
+                    Adaptive Software Development (ASD) 
+   oo --------------------------------------------------------------------------------
+                    Feature Driven Development 
+--------------------------------------------------------------------------------
+     
+   oo --------------------------------------------------------------------------------
+      SCRUM 
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+   Scrum works well for long-term, complex projects that require stakeholder feedback, which may greatly affect project requirements. So, when the exact amount of work can't be estimated, and the release date is not fixed, Scrum may be the best choice.
+--------------------------------------------------------------------------------
+   Scrum team: 5 to 9 people
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   This team does not include any of the traditional software engineering roles such as programmer, designer, tester or architect. Everyone on the project works together to complete the set of work they have collectively committed to complete within a sprint.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Product owner: The product owner is often someone from product management or marketing, a key stakeholder or a key user.
+--------------------------------------------------------------------------------
+   Scrum master: The Scrum Master is responsible for making sure the team is as productive as possible. The Scrum Master does this by helping the team use the Scrum process, by removing impediments to progress, by protecting the team from outside, and so on.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Product backlog: The product backlog is a prioritized features list containing every desired feature or change to the product. 
+--------------------------------------------------------------------------------
+   Sprint planning meeting: At the start of each sprint, a sprint planning meeting is held, during which the product owner presents the top items on the product backlog to the team. The Scrum team selects the work they can complete during the coming sprint. That work is then moved from the product backlog to a sprint backlog, 
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Daily Scrum: Each day during the sprint, a brief meeting called the daily scrum is conducted. This meeting helps set the context for each day's work and helps the team stay on track.
+--------------------------------------------------------------------------------
+   Sprint review meeting: At the end of each sprint, the team demonstrates the completed functionality at a sprint review meeting, during which, the team shows what they accomplished during the sprint. 
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Sprint retrospective: Also at the end of each sprint, the team conducts a sprint retrospective, which is a meeting during which the team (including its ScrumMaster and product owner) reflect on how well Scrum is working for them and what changes they may wish to make for it to work even better.
+--------------------------------------------------------------------------------
+   Sprint: a Sprint, a time-box of one month or less during which a "Done", useable, and potentially releasable product increment is created. Usually, Sprints are limited to one calendar month.
+--------------------------------------------------------------------------------
+   . 
+--------------------------------------------------------------------------------
+Page Break
+--------------------------------------------------------------------------------
+ 
+   oo --------------------------------------------------------------------------------
+      EXTREME PROGRAMMING 
+--------------------------------------------------------------------------------
+   EXTREME PROGRAMMING
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   VALUES OF XP
+--------------------------------------------------------------------------------
+   The five values of XP are communication, simplicity, feedback, courage, and respect and are described in more detail below.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Communication
+--------------------------------------------------------------------------------
+   Software development is inherently a team sport that relies on communication to transfer knowledge from one team member to everyone else on the team. XP stresses the importance of the appropriate kind of communication  -  face to face discussion with the aid of a white board or other drawing mechanism.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Simplicity
+--------------------------------------------------------------------------------
+   Simplicity means "what is the simplest thing that will work?" The purpose of this is to avoid waste and do only absolutely necessary things such as keep the design of the system as simple as possible so that it is easier to maintain, support, and revise. Simplicity also means address only the requirements that you know about; don't try to predict the future.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Feedback
+--------------------------------------------------------------------------------
+   Through constant feedback about their previous efforts, teams can identify areas for improvement and revise their practices. Feedback also supports simple design. Your team builds something, gathers feedback on your design and implementation, and then adjust your product going forward.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Courage
+--------------------------------------------------------------------------------
+   Kent Beck defined courage as "effective action in the face of fear" (Extreme Programming Explained P. 20). This definition shows a preference for action based on other principles so that the results aren't harmful to the team. You need courage to raise organizational issues that reduce your team's effectiveness. You need courage to stop doing something that doesn't work and try something else. You need courage to accept and act on feedback, even when it's difficult to accept.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+   Respect
+--------------------------------------------------------------------------------
+   The members of your team need to respect each other in order to communicate with each other, provide and accept feedback that honors your relationship, and to work together to identify simple designs and solutions.
+--------------------------------------------------------------------------------
+   
+--------------------------------------------------------------------------------
+     
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+Page Break
+--------------------------------------------------------------------------------
+ 
+   oo --------------------------------------------------------------------------------
+      LEAN DEVELOPMENT 
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+   Lean Development is an agile framework supported optimizing development resources and time, reducing the delivery time and therefore the waste. Lean approach is additionally often mentioned because the minimum viable product during which the minimum possible version of its product being released to the market to earn from the users about their likes and dislikes. Further features are added or removed supported the feedback thus received.  
+--------------------------------------------------------------------------------
+     
+--------------------------------------------------------------------------------
+   This approach allows more functionality to be delivered in less time. Unnecessary activity is eliminated, reducing the value and empowers the event team, boosting their morale and helping with the choice making. 
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+Page Break
+--------------------------------------------------------------------------------
+ 
+   oo --------------------------------------------------------------------------------
+      FEATURE DRIVEN DEVELOPMENT 
+--------------------------------------------------------------------------------
+ 
+--------------------------------------------------------------------------------
+Feature driven development organizes the event of the software around making progress on features. they're almost like user stories in Scrum for instance a process to push notifications for updates or a login feature are considered to be features during this methodology.  
+--------------------------------------------------------------------------------
+  
+--------------------------------------------------------------------------------
+It is an easy process which allows the rapid development of the product.  
+--------------------------------------------------------------------------------
+It allows larger team to move products forward with continuous success and leverages pre-defined development standards, so teams are ready to move at a quicker pace.  
+--------------------------------------------------------------------------------
+Feature Driven Development might not be feasible for smaller projects.  
+--------------------------------------------------------------------------------
+It is highly hooked in to lead developers and has less written documentation which could cause confusion in some cases.
+--------------------------------------------------------------------------------
+Page Break
+--------------------------------------------------------------------------------
+ 
+   oo --------------------------------------------------------------------------------
+      ADAPTIVE SOFTWARE DEVELOPMENT  
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+   Adaptive Software Development aims to enable teams to effectively and quickly adapt to the changing requirements or the market needs through evolving their products through continuous learning or lightweight planning. It encourages teams to develop consistent with a three-phase process which incorporates speculate, collaborate and learn.  
+--------------------------------------------------------------------------------
+     
+   oo --------------------------------------------------------------------------------
+      It is focused on the top users, resulting in a more intuitive product.  
+   oo --------------------------------------------------------------------------------
+      It encourages transparency between the developers and therefore the clients.  
+   oo --------------------------------------------------------------------------------
+      ASD allows for on time or maybe early deliveries.  
+   oo --------------------------------------------------------------------------------
+      It requires extensive user involvement, increasing the problem of development a touch .  
+   oo --------------------------------------------------------------------------------
+      It emphasizes on rapid iterating and continuous feedback and integrates testing into every stage, adding to the prices of the merchandise even further. 
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+    
+--------------------------------------------------------------------------------
+   Submitted By:  
+--------------------------------------------------------------------------------
+                           Md Mehran  
+--------------------------------------------------------------------------------
+                        	2017UCO1651 
+--------------------------------------------------------------------------------
+                        	COE 3 
+
+

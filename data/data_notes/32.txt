@@ -1,0 +1,84 @@
+                    ced emerging paradigms in programming
+                                       
+                                  assignment
+                                       
+                                       
+                                       
+                                       
+                                                                               
+
+
+                                                              name mohit yadav
+                                                           roll no uco
+
+q write short notes on following 
+
+ scrum
+scrum is a type of agile framework it encourages teams to learn through experiences selforganize while working on a problem and introspect about the achievements and shortcomings to continuously improve scrum like agile is an iterative process which prioritizes high productivity and swift development of application
+
+scrum keywords
+       increment  increment or sprintgoal is the working end product of each sprint it is presented to the user for thorough testing and reviews
+       product backlog  it is a dynamic list that enlists all the functional and nonfunctional requirements of the product it is generally maintained by the product owner or manager
+       sprint backlog  it is the list of items that are selected for implementation in the current sprint it is compiled before each sprint in the sprint planning meeting with the help of the whole team
+
+lifecycle of scrum
+       product backlog meeting  in this meeting the product backlog list is updated and reorganised according to priority
+       sprint planning meeting  in this meeting the team decides the sprint backlog meeting that enlists the things that need to be achieved in the following sprint
+       implementation  this is the time period within which the scrum team works together to implement the increment it usually spans from  weeks to a month
+       sprint review  at the end of the sprint the team gets together for an informal session to view a demo of or inspect the increment the development team showcases the backlog items that are now done to stakeholders and teammates for feedback the product owner can decide whether or not to release the increment
+       release  if the product is complete it is released to production
+       retrospection  in this stage quality or status of the product is checked and all the achievements and shortcomings of the increment are discussed
+ lean development
+lean software development is an agile framework based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs the lean approach is also often referred to as the minimum viable product mvp strategy in which a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback
+
+lean principles
+       eliminate waste  lean philosophy regards everything not adding value to the customer as waste and aims to remove any of that waste such waste may include
+         a          partially done work
+         b          extra features
+         c          relearning
+         d          task switching
+         e          waiting
+         f          handoffs
+         g          defects
+         h          management activities
+       build quality  lean principles aim to make sure that the quality of product in terms of both functional and nonfunctional requirements be excellent
+       create knowledge  this principle encourages lean teams to provide the infrastructure to properly document and retain valuable learning
+       defer commitment  this lean principle encourages teams to demonstrate responsibility by keeping their options open and continuously collecting information rather than making decisions without the necessary data
+       deliver fast  this principle is in the core of agile development we aim to deliver the application as fast as possible
+       optimizing the whole  modern software systems are not simply the sum of their parts but also the product of their interactions so instead of suboptimizing the parts the lean principle aims to optimize the product as whole
+
+
+ extreme programming xp
+extreme programming is another agile development framework which is intended to improve software quality and responsiveness to changing customer requirements as a type of agile software development it advocates frequent releases in short development cycles which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted
+
+activities in xp
+       coding  this is the most and sometimes the only important part of product implementation it involves writing down program that a computer can interpret and produce the desired results
+       testing  it is the process of mocking the use cases of product and analyzing how it performs we use unit and acceptance tests here
+       listening  process of getting information regarding the requirements from users by listening to them
+       designing  if the system is too complex we can use this step to organize and plan the coding step in xp
+
+values in xp
+       communication  building software systems requires communicating system requirements to the developers of the system also it is imperative that the developers are also communicating between themselves
+       simplicity  xp encourages starting with simplest solution because a simple design with very simple code could be easily understood by most programmers in the team
+       feedback  feedback is essential and can be taken from system  performance feedback though unit tests  users and also the team
+       courage  several practices embody courage one is the commandment to always design and code for today and not for tomorrow this is an effort to avoid getting bogged down in design and requiring a lot of effort to implement anything else
+       respect  the respect value includes respect for others as well as selfrespect programmers should never commit changes that break compilation that make existing unittests fail or that otherwise delay the work of their peers members respect their own work by always striving for high quality and seeking for the best design for the solution at hand through refactoring
+ adaptive software development asd
+adaptive software development is a method to build complex software and systems asd focuses on human collaboration and selforganisation
+
+phases of asd
+       speculation  during this phase the project is initiated and planning is conducted the project plan uses project initiation information like project requirements user needs etc to define the increments
+       collaboration  it is the difficult part of asd as it needs the workers to be motivated it collaborates communication and teamwork but emphasizes individualism as individual creativity plays a major role in creative thinking
+       learning  the workers may have an overestimate of their own understanding of the technology which may not lead to the desired result learning helps the workers to increase their level of understanding over the project
+
+asds overall emphasis on the dynamics of selforganizing teams interpersonal collaboration and individual and team learning yield software project teams that have a much higher likelihood of success
+
+ feature driven development
+featuredriven development fdd is an iterative and incremental software development process it is a lightweight or agile method for developing software fdd blends a number of industryrecognized best practices into a cohesive whole these practices are driven by user or client based functional and nonfunctional requirements
+
+activities in fdd
+       develop overall model  the fdd project starts with a highlevel walkthrough of the scope of the system and its context next detailed domain models are created for each modelling area by small groups and presented for peer review one or more of the proposed models are selected to become the model for each domain area domain area models are progressively merged into an overall model
+       build feature list  using user stories and experiences we build a list of use cases and features that application needs to offer we usually break these features in action result and object to better describe them
+       plan by feature  after the feature list is completed the next step is to produce the development plan and assign ownership of features as classes to programmers
+       design by feature  design documentation is laid down for each feature and some of these features are selected for implementation and their detailed sequence diagram is modeled
+       build by feature  after a successful design inspection for each activity to produce a feature is planned the class owners develop code for their classes after unit testing and successful code inspection the completed feature is promoted to the main build

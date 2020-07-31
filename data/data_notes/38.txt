@@ -1,0 +1,104 @@
+ques write short notes on following
+   oo    scrum
+   oo    lean development
+   oo    extreme programming xp
+   oo    adaptive software development asd
+   oo    feature driven development
+
+answer
+
+scrum 
+
+scrum is an agile project management framework that helps teams organise themselves and manage their work with scrum a product is built in a series of iterations called sprints that break down big complex projects into smaller pieces it is recommended when the exact amount of work cant be estimated and the release date is not fixed
+ 
+scrum master is responsible for making sure the team is as productive as possible the scrum master does this by helping the team use the scrum process by removing barriers to progress by protecting the team from outside and so on 
+a sprint is a timebox of one month or less during which a potentially releasable product increment is created
+
+a sprint planning meeting is held at the start of each sprint along with a brief meeting conducted everyday during the sprint 
+at the end of each sprint the team demonstrates the completed functionality at a sprint review meeting during which the team shows what they accomplished during the sprint
+lean development 
+
+lean software development is an agile framework used to deliver value to the customer by optimally using time and resources the lean approach is also known as the minimum viable product mvp strategy 
+
+lean development is based on  principles 
+
+   oo    waste elimination
+   oo    amplifying learning
+   oo    deciding as late as possible
+   oo    deliver as early as possible
+   oo    team empowerment
+   oo    builtin integrity
+   oo    view applications as a whole  
+waste is defined as anything that is capable of reducing code quality hindering time and effort or reducing delivered business value lean development focuses on eliminating these factors learning required technologies and gaining understanding about what the user really needs
+
+cost of change is reduced by waiting until the last minute to make decisions the streamlined approach allows more functionality to be delivered in less time
+
+
+extreme programmingxp
+
+extreme programming is a disciplined approach used to deliver high quality softwares quickly similar to other agile methods of development extreme programming aims to provide iterative and frequent small releases throughout the project allowing both team members and customers to examine and review the projects progress throughout the entire cycle
+
+the five fundamental values of xp are 
+
+   oo    communication  the whole team works together and communicates face to face on a daily basis
+   oo    simplicity  avoid waste and do only necessary things so that it is easier to maintain support and revise
+   oo    feedback  through constant feedback about their previous efforts teams can identify areas for improvement and revise their practices 
+   oo    courage  preference for action based on other principles so that the results arent harmful to the team 
+   oo    respect  the team members need to respect each other in order to communicate provide and accept feedback and to work together to identify simple designs and solutions 
+
+some of the common xp practices are planning game small releases pair programming code refactoring continuous integration testdriven development etc
+
+
+adaptive software development
+
+adaptive software development asd is a direct outgrowth of an earlier agile framework rapid application development rad it aims to enable teams to quickly and effectively adapt to changing requirements or market needs by evolving their products with lightweight planning and continuous learning
+
+asd encourages more transparency between developers and clients it is focused on end users and thus leads to better and more intuitive products 
+
+adaptive software development life cycle includes  phases 
+
+   oo    speculation  during this phase the project is initiated and planning is conducted the project plan uses project initiation information like project requirements user needs customer mission statement etc to define a set of release cycles that the project wants
+      
+   oo    collaboration   it collaborates communication and teamwork but emphasizes individualism as individual creativity plays a major role in creative thinking people working together must trust each other to criticize without animosity assist without resentment work as hard as possible communicate problems to find effective solution
+      
+   oo    learning  the workers may have an overestimate of their own understanding of the technology which may not lead to the desired result learning helps the workers to increase their level of understanding over the projectteam has to enhance their knowledge through practices such as technical reviews focus groups etc
+
+
+feature driven development
+
+feature driven development is a customercentric iterative and incremental agile methodology with the goal of delivering tangible software results often and efficiently 
+
+fdd allows teams to update the project regularly and identify errors quickly clients can be provided with information and substantial results at any time 
+
+fdd is related to scrum but it is a feature focused method and not delivery focused 
+
+typically used in largescale development projects five basic activities exist during fdd 
+
+   oo    develop overall model
+   oo    build feature list
+   oo    plan by feature
+   oo    design by feature
+   oo    build by feature
+
+
+
+navjot singh
+uco
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+

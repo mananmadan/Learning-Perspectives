@@ -1,0 +1,104 @@
+write short notes on following
+     scrum
+    scrum is an agile methodology designed for teams to guide them in the iterative and incremental delivery of a product it is often referred to as an agile project management framework and its focus is on the use of an empirical process that allows teams to respond rapidly efficiently and effectively to change
+    
+    unlike traditional sequential practices to product development which are idealistic and rely on a rigid algorithmic approach scrum adopts a heuristic approach which acknowledges human capabilities and selforganization to deal with unpredictability while finding nontrivial solutions to complex problems this selforganization is often achieved by encouraging physical colocation or close online collaboration of all team members as well as daily facetoface communication among all team members and disciplines involved traditional project management methods fix requirements in an effort to control time and cost scrum on the other hand fixes time and cost in an effort to control requirements this is done using time boxes collaborative ceremonies a prioritized product backlog and frequent feedback cycles 
+    a typical scrum project begins with a clear vision provided by the business and a set of product features in order of importance a time box commonly referred to as an iteration or sprint is the set amount of time that the team has to complete the features selected sprints are generally from one to four weeks in length and that length is maintained throughout the life of the project after this time in the sprint the team is protected from interruptions and allowed to focus on meeting the sprint goal no changes to the sprint backlog are allowed however the product backlog can be changed in preparation for the next sprint
+    
+    during the sprint the team checks in daily with each other in the form of a minute meeting known as a scrum the team stands in a circle and each member states what they did yesterday what they plan to do today and what is getting in their way at the end of the sprint the teams demonstrate the work they have completed to the stakeholders and gather feedback that will affect what they work on in the next sprint they also hold a retrospective meeting to learn how to improve
+                                         
+    some limitations of scrum are
+         oo     scrum fails to deliver the same results when the team members are geographically dispersed or parttime
+         oo     scrum relies on heavy collaboration of the team members which often requires the understanding of skills in other teams therefore it fails when the team members have very specialized skills
+         oo      in scrum dividing product development into short sprints requires careful planning external dependencies such as user acceptance testing or coordination with other teams can lead to delays and the failure of individual sprints
+         oo     in scrum product increments should be fully developed and tested in a single sprint products that need large amounts of regression testing or safety testing eg medical devices or vehicle control for each release are less suited to short sprints than to longer waterfall releases
+
+       lean development
+      lean development refers to the application of lean manufacturing principles and practices to software development it is based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs the lean approach is also called the minimum viable product mvp strategy in which a team releases a bareminimum version of its product to the market takes feedback from users and then iterates based on this feedback
+      
+      principles used in lean development
+         oo        waste elimination waste is anything in the software development lifecycle that doesnt add value to the customer and must be eliminated eg partially done work relearning handoffs etc
+         oo        amplification of learning this is achieved through the usage of short sprint cycles along with refactoring and integration testing after each cycle this helps in both the client getting to know about the progress of the project and the teams getting feedback and learning more about the requirements 
+         oo        delaying of decisions as software development is always associated with some uncertainty better results should be achieved with a setbased or optionsbased approach delaying decisions as much as possible until they can be made based on facts and not on uncertain assumptions and predictions
+         oo        fast delivery customers value rapid delivery of a quality product the sooner the end product is delivered without major defects the sooner feedback can be received and incorporated into the next iteration the shorter the sprints the better the learning and communication within the team
+         oo        empower the team the people involved with the product must be empowered in the sense that the managers treat them with respect and acknowledge their work and not treat them as resources the developers should be given access to the customer the team leader should provide support and help in difficult situations as well as ensure that skepticism does not ruin the teams spirit
+         oo        build integrity in there are two types of integrity in lean development
+               oo            perceived integrity the customer needs to have an overall experience of the system including its advertisement delivery deployment access intuitiveness price and its closeness to the use case
+               oo            conceptual integrity the different components of the system work well together with balance between flexibility maintainability efficiency and responsiveness
+         oo        optimize the whole the focus of the product teams should be on the optimal working of the final product and not on the shortterm profit optimization of their own part for a system with smoothly interacting components
+advantages of lean development
+   oo        streamlined approach allows more functionality to be delivered in less time
+   oo        eliminates unnecessary activity and as a result can reduce costs
+   oo        empowers the development team to make decisions which can also boost morale
+      disadvantages of lean development
+   oo        heavily depends on the various teams involved making it not as scalable as other frameworks
+   oo        depends on strong documentation and failure to do so can result in development mistakes
+      extreme programming xp
+     extreme programming is a software development methodology designed to improve the quality of software and its ability to properly adapt to the changing needs of the customer or client the extreme programming model recommends taking the best practices that have worked well in the past in program development projects to extreme levels xp advocates frequent product releases in short sprint cycles which improves productivity and introduces checkpoints at which new customer requirements can be adopted
+     
+     xp acknowledges that changes are an inevitable and desirable aspect of software development projects and should be planned for rather than laying out rigid requirements or rules
+     
+     extreme programming has been described as having the following practices 
+         a          pair programming involves two developers sharing a workstation this facilitates a quick code review and better solutions to problems faced while development
+         b          planning game planning game is a meeting that occurs once per sprint typically weekly its purpose is to guide the product into delivery its divided into 
+               i                release planning determines the requirements included in the release and its delivery customer reps are included in this meeting
+               ii                spring planning plans the activities and tasks of developers
+         c          testdriven development software development process that relies on the repetition of a very short sdlc where requirements are converted to specific test cases and code is improved to pass those cases
+         d          continuous integration practice of merging all developers code to a shared branch several times a day
+         e          refactoring restructuring existing code without affecting the external behaviour
+         f          small releases frequent releases of live functionality of the existing code
+         g          coding standard set of rules that the teams agree upon and adhere to during the entire sdlc
+         h          collective code ownership the teams take collective control and responsibility for the code this means that each team member has edit access to the full code
+         i          simple design code is refactored to make complex code simpler and more understandable
+         j          system metaphor naming convention for classes and methods for making its functionality obvious to the entire team
+         k          sustainable pace a practice that sets a limit to the amount of effort that a developer puts in during a short period of time  hour week
+     adaptive software development asd
+      adaptive software development is a software development process that replaces the traditional waterfall model with a recurring series of speculate collaborate and learn cycles this facilitates continuous learning and adaptation to the changes in the project due to requirements or market needs
+phases in asd 
+       speculation the project is initiated and the planning of requirements and impact analysis is conducted the project plan uses project initiation information like project requirements user needs customer mission statement etc to define a set of release cycles that the project wants
+       collaboration collaboration encourages the team members to communicate and work as a team but it emphasizes individualism as individual creative thinking plays a pivotal role in creative thinking complex applications require that a large volume of information be collected analyzed and applied to the problem this results in diverse knowledge requirements that can only be handled by team collaboration
+       learning the team members might underestimate the amount of knowledge required about the technology and the domain which may not lead to the desired result learning is achieved through practices such as technical reviews project retrospectives and customer focus groups thorough reviews are done after each sprint in which both the developers and the customers examine their assumptions and use the direction of each development cycle to learn the direction of the next
+      
+      advantages of asd
+         oo      focused on the end users which can lead to better and more intuitive products
+         oo      allows for ontime and even early delivery
+         oo      encourages more transparency between developers and clients
+
+disadvantages of asd 
+         oo      demands extensive user involvement which can be difficult to facilitate
+         oo      integrates testing into every stage which can add to a projects costs
+         oo      emphasis on rapid iterating and continuous feedback can lead to scope creep
+            
+     feature driven development
+      feature driven development is an agile framework and an iterative and incremental software development process that organizes software development around making progress on features these features dont exclusively include the features in the final product but includes the features mentioned in the user stories as well the primary objective of fdd is to deliver tangible working software repeatedly in a timely manner while adhering to the principles behind the agile manifesto
+     
+     activitiesphases in project development with fdd
+     
+     
+         a      develop overall model
+        the project starts with a high level walkthrough of the scope of the system and its context then detailed domain models are created for each modelling area by small groups and presented for peer review one or more of the proposed models are selected to become the model for each domain area domain area models are progressively merged into an overall model
+        
+         b      build feature list
+        knowledge gathered during the initial modeling is used to identify a list of features by functionally decomposing the domain into subject areas subject areas each contain business activities and the steps within each business activity form the basis for a categorized feature list features should not take more than two weeks to complete else they should be broken down into smaller pieces
+        
+         c      plan by feature
+        after the feature list is completed the next step is to produce the development plan and assign ownership of features or feature sets as classes to programmers 
+        
+         d      design by feature
+        a design package is produced for each feature a chief programmer selects a small group of features that are to be developed within two weeks together with the corresponding class owners the chief programmer works out detailed sequence diagrams for each feature and refines the overall model next the class and method prologues are written and finally a design inspection is held
+            
+         e      build by feature
+        after a successful design inspection for each activity to produce a feature is planned the class owners develop code for their classes after unit testing and successful code inspection the completed feature is promoted to the main build
+        
+    
+    advantages of fdd
+   oo    simple fivestep process allows for more rapid development
+   oo    allows larger teams to move products forward with continuous success
+   oo    leverages predefined development standards so teams are able to move quickly
+    
+    
+    disadvantages of fdd
+   oo    does not work efficiently for smaller projects
+   oo    less written documentation which can lead to confusion
+   oo    highly dependent on lead developers or programmers
+

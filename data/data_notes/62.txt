@@ -1,0 +1,175 @@
+harshdeep singh
+
+uco
+
+epp assignment
+scrum
+scrum is a framework that closely follows the principles of agile development it can be
+used in all types of work which requires teamwork but usually it is utilised in software
+development scrum enables the team to develop products eectively and precisely
+along with a retrospection at end that further reflects on their wins and losses to boast
+continuous improvement
+it all starts with a list of product backlogs which is basically a todo list for the project
+this list may include new features or improvements and even bug fixes for the product
+the product manager along with the development team sets the tasks that need to be
+done in the next few weeks by taking into account the financial and competitive edge
+completion would provide the tasks that are chosen from the backlog are called as
+sprint backlogs this whole process is termed as sprint planning after successful
+completion of planning a sprint starts sprint is the actual time period when the scrum
+team works together to finish an increment two weeks is a pretty typical length for a
+sprint however its not strict and can be changed according to needs during the sprint a
+daily scrum or standup is organised which is a short meeting that happens at the same
+time usually mornings and place to keep it simple this is the place where one can raise
+their concerns or any blockers that they may face many teams try to complete the
+meeting in  minutes but thats just a guideline this meeting is also called a daily
+standup emphasising that it needs to be a quick one the goal of the daily scrum is for
+everyone on the team to be on the same page aligned with the sprint goal and to get a
+plan out for the next  hours
+at the end of the sprint the team gets together for a review where they discuss their
+sprint results and showcases it to the product ownermanager and teammates for
+feedback the product owner can decide whether or not to release the increment
+although in most cases the increment is released this is also the stage where the
+stakeholders plan on for the next sprint based on the results of the current sprint
+
+harshdeep singh
+
+uco
+
+lastly a sprint retrospective is held where the team comes together to discuss what
+worked and what didnt it encourages the team to be open about various aspects such
+as relationships tools ideas etc this helps to improve the team as a whole for the
+upcoming sprint
+
+extreme programming
+extreme programming xp is one of the most important software development
+techniques in the agile models it is most suitable for projects which have continuously
+changing requirements the main characteristics of xp include dynamically changing
+software requirements using a small collocated extended development team and
+leveraging technology that facilitates automated unit and functional tests
+xp is based on the frequent iteration through which the developers implement user
+stories user stories are requirements that are asked by the customermanager from the
+developer it is an informal statement rather than being a full srs this gives a vague idea
+of the product to be developed by the developer on capturing user stories the team
+moves on to develop a high level model of how the system will work also know as
+metaphor afterwards the development team may decide to build a spike for some
+feature a spike is a very simple program that is constructed to explore the suitability of a
+solution being proposed it can be considered similar to a prototype
+xp is mainly helpful in small projects consisting of small team as it makes it easier for the
+team to discuss problems it has been also proved eective for research projects which
+require changing of requirements swiftly
+
+lean development
+lean development is yet another agile method for software development it originated
+from the principle of production line used in manufacturing goods similar to a
+production line lean development follows a repeatable process and guarantees quality
+checks for the final product also it relies on the collaboration of ones coworkers or
+specialised workers lean development is based on  underlying principles that are
+
+
+
+
+
+
+
+
+eliminate waste
+build quality in
+create knowledge
+defer commitment
+deliver fast
+respect people
+optimise the whole
+
+eliminate waste this process requires the team to get rid of any task that doesnt add
+value to the product or somehow hinders the development of the project some things
+that falls under this category are manufacturing things that are not required now use
+complicated tools that could have been done by simpler means unnecessary code or
+functionality
+
+harshdeep singh
+
+uco
+
+build quality in this phase focuses on improving the quality of the product without
+overdoing the testing ie coming up with quality issues that arent even actual issues to
+enable a good quality there are certain mechanisms already in place
+ pair programming getting two developers instead of one to work on a single unit
+of product
+ testdriven development writing code that meets the given requirement and
+meeting the requirement being sole focus when writing code
+ automation eliminate repetitive work done by developers and replacing it with
+automation
+create knowledge this step requires developers to create documentation for the work
+they have been doing to reduce knowledge gaps and train fellow teammates
+defer commitment this lean principle encourages team to demonstrate responsibility
+by keeping their options open and continuously collecting information rather than making
+decisions without the necessary data
+deliver fast it focuses on delivering the product as fast as possible to the customer for
+feedback this does not imply that developers work more hours but rather work more
+eciently and customer centric
+respect people the lean principle of respect for people is often one of the most
+neglected especially in the fastpaced burnoutridden world of software development it
+applies to every aspect of the way lean teams operate from how they communicate
+handle conflict hire and onboard new team members deal with process improvement
+and more
+
+adaptive software development asd
+adaptive software development is a method to build complex software and system
+asd focuses on human collaboration and selforganisation asd life cycle incorporates
+three phases namely
+ speculation
+during this phase project is initiated and planning is conducted the project plan uses
+project initiation information like project requirements user needs customer mission
+statement etc to define set of release cycles that the project wants
+ collaboration
+it is the dicult part of asd as it needs the workers to be motivated it collaborates
+communication and teamwork but emphasises individualism as individual creativity plays
+a major role in creative thinking people working together must trust each others to
+criticise without animosity assist without resentment work as hard as possible
+possession of skill set communicate problems to find eective solution
+ learning
+the workers may have an overestimate of their own understanding of the technology
+which may not lead to the desired result learning helps the workers to increase their
+level of understanding over the project
+
+harshdeep singh
+
+uco
+
+feature driven development
+feature driven development fdd is an agile framework that organises software
+development around making progress on features it conducts upfront planning design
+and documentation and relies very heavily upon domain modelling fdd also uses feature
+teams with chief architects programmers and traditional codeownership and codereview as opposed to pairprogramming and refactoring in contrast to scrum fdd
+focuses to develop small feature sets in one to two weeks iterations like other agile
+methods this method has its own set of best practices as given below
+
+ drawing a high level diagram of how the feature is to be implemented saves time by
+
+
+helping you uncover what function to add for each feature
+if a feature is more time consuming ie more than  weeks it can be broken down into
+small pieces to accommodate  weeks timeline
+instead of pair programming each class or group of code is given to a single owner
+periodic inspections are held within the team to uncover faultsbugs
+regular check for successful builds ie ensure that the project is building fine after
+each alteration to the project
+project managers should provide frequent progress reports of completed work
+
+harshdeep singh
+
+uco
+
+advantages of featuredriven development
+
+ gives the team a very good understanding of the projects scope and context
+ uses documentation to communicate thus eliminating the need of daily meetings as in
+scrum
+
+ uses a usercentric approach with scrum the product manager is usually considered
+the end user with fdd the client is the end user
+
+ breaks feature sets into smaller chunks and regular iterative releases which makes it
+easier to track and fix coding errors reduces risk and allows you to make a quick
+turnaround to meet your clients needs
+

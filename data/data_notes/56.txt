@@ -1,0 +1,72 @@
+q write short notes on the following
+   oo     scrum
+            scrum is a lightweight agile project management framework that can be used to
+            manage iterative and incremental projects of all types due to its simplicity proven 
+            productivity and ability to incorporate various overarching practices promoted by other 
+            agile methods it has gained immense popularity over the years  
+            characteristics
+       scrum is the best choice when the exact amount of work cant be estimated and the release date is not fixed as scrum works well for long term complex projects that require stakeholder feedback
+       a scrum team comprising  people does not include any of the traditional software engineering roles everyone on the project works together to complete the set of work they have collectively committed to complete within a sprint 
+       in scrum product owner someone from product management or marketing a key stakeholder or a key user usually works closely with the scrum team to identify and prioritize system functionality by creating a product backlog
+       the product backlog consists of whatever needs to be done to successfully deliver a working software system including features bug fixes nonfunctional requirements etc
+       at the start of each sprint a sprint planning meeting is held during which the product owner presents the top items on the product backlog to the team the work to be completed in the coming sprint is then moved from the product backlog to a sprint backlog
+       once a sprints product backlog is committed no additional functionality can be added to the sprint except by the team
+       once a sprint has been delivered the product backlog is analyzed and reprioritized if necessary and the next set of deliverables is selected for the next sprint
+      
+   oo     lean development
+       lean development is an iterative agile methodology that focuses the team on delivering
+       value to the customer through effective value stream mapping it is a highly flexible
+      evolving methodology without rigid guidelines rules or methods
+      characteristics
+       lean development eliminates waste by asking users to select only the truly valuable features for a system prioritize those features and then work to deliver them in small batches 
+       lean development uses the idea of a work product being pulled via customer request
+       it relies on rapid and reliable feedback between programmers and customers emphasizing the speed and efficiency of development workflows  
+       it gives decisionmaking authority to individuals and small teams since this has been proven to be a faster and more efficient method than a hierarchical flow of control    
+       lean development strongly recommends that automated unit tests be written at the same time the code is written
+       it concentrates on the efficient use of team resources trying to ensure that everyone is as productive as possible for the maximum amount of time
+      
+   oo     extreme programming xp
+       extreme programming is a disciplined approach for highquality agile software
+       development focused on speed and continuous delivery it is intended to improve 
+       software quality and responsiveness in the wake of changing customer requirements 
+       characteristics
+       extreme programming has the following five values
+       communication extreme programming stresses on the importance of the appropriate 
+       kind of communication  face to face discussion with the aid of a white board or other
+       drawing mechanism
+       simplicity xp focuses on keeping the design of the system as simple as possible so that 
+            it is easier to maintain support and revise
+       feedback through constant feedback about their previous efforts teams can identify
+      areas for improvement and revise their practices
+       courage xp stresses on gathering courage to raise organizational issues that reduce
+      your teams effectiveness 
+       respect the members of a team should respect each other in order to communicate with each other provide and accept feedback that honors your relationship and to work together to identify simple designs and solutions
+      
+   oo     adaptive software development asd
+       adaptive software development is a method to build complex software and system 
+       with overall emphasis being on the dynamics of selforganizing teams interpersonal
+       collaboration and individual and team learning
+       characteristics
+       asd lifecycle incorporates the following phases
+       speculation the first phase of asd lifecycle involves initiation of project and planning the project plan uses project initiation information like project requirements user needs customer mission statement etc to define a set of release cycles that the project wants
+       collaboration this phase involves collaboration and communication between different team members while ensuring that individual creative thinking is encouraged in this phase team members are expected to criticize without animosity assist without resentment and communicate problems to find an effective solution
+       learning  learning helps the workers to increase their level of understanding over the project this ensures that any overestimation of their own understanding of the technology which may not lead to the desired result can be avoided
+       
+   oo     feature driven development
+       feature driven development is a modeldriven shortiteration process that was built
+       around software engineering best practices such as domain object modeling
+       developing by feature and code ownership the blending of these practices that
+      resulted in a cohesive whole is the best characteristic of fdd
+      characteristics
+       feature driven development begins by establishing an overall model shape which will
+      result in a feature list the features are small useful in the eyes of the client results
+       it then continues with a series of twoweek plan by feature design by feature build by
+      feature iterations
+       fdds main purpose is to deliver tangible working software in a timely manner
+      repeatedly
+       the advantage of using fdd is that it is scalable even to large teams due to the concept
+      of just enough design initially jedi
+       because of its featurecentric process fdd is a great solution to maintain control for
+      incremental and inherently complex agile project management
+ 
+

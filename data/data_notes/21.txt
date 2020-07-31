@@ -1,0 +1,80 @@
+question write short notes on following
+
+       scrum
+      scrum is the type of agile framework in this framework people can address complex adaptive problems while the delivered product is at the highest possible values of creativity and productivity it uses iterative process
+      scrum is simple to understand lightweighted organizes self organization and helps the team to work together
+      advantages
+         oo          it is fast moving and cost efficient
+         oo          customer satisfaction
+         oo          increases quality of product in less time due to feedback
+         oo          it uses divide and conquer strategy
+disadvantages
+         oo          scrum framework doesnt allow changes in their sprint
+         oo          it is difficult for scrum to plan structure and organize a project that lacks a clear definition
+         oo          daily scrum meetings and reviews require a lot of resources
+lifecycle 
+         oo          sprint it is a time box of a month or less after completion of previous sprint the sprint starts  immediately
+         oo          release product goes to this stage after completion
+         oo          sprint review if the product has non achievable features it is checked at this stage and passed to sprint retrospective stage
+         oo          sprint retrospective here status and quality of product is checked
+         oo          product backlog according to the prioritize features the product is organized
+         oo          sprint backlog sprint backlog is divided into two parts product assigned features to sprint and sprint planning meeting
+
+       lean development
+      lean software development is an agile framework based on optimizing development time and resources eliminating waste and furtherly delivering only what the product needs it uses minimum viable product mvp strategy in which the team releases the product with minimum features and learns what the users like and dont like and want to be added therefore iterates on the feedback
+      advantages
+         oo          reduces cost by removing unnecessary activities
+         oo          development team makes the decision boosting their morale
+         oo          more functionality to be delivered in less time due to streamlined approach
+disadvantages
+         oo          heavily dependent on the team involved therefore not scalable
+         oo          depends on strong documentation
+
+       extreme programming xp
+      it is one of the most important software development frameworks of agile models this model recommends best practices in past program development projects to extreme levels it is used to improve software quality and response to customer needs
+      applications small projects and projects involving new technology or research projects
+      practices for extreme programming 
+         oo          code review detects and corrects errors with the help of pair programming
+         oo          testing removes errors and improves reliability by use of test cases
+         oo          incremental development development on the basis of customer feedback
+         oo          simplicity easier to develop code as well as test and debug it
+         oo          design good quality design is required for good quality code
+         oo          integration testing helps to identify bugs of different functionalities
+      basic principles
+      xp is based on frequent iterations through which developers can implement user stories user story is the description of functionality required by the customer
+      basic activities in xp include
+         oo          coding it includes modeling that will be transformed into code
+         oo          testing to develop a fault free software testing is required
+         oo          listening to customers needs to develop a good quality product
+         oo          designing it helps to reduce complexity and reduces maintenance expense
+         oo          feedback understanding the customers needs through contacting them
+         oo          simplicity makes projects simple and less time consuming it focused on specific features which are needed immediately rather than future requirements
+      
+       adaptive software development asd
+      asd is a method to build complex software and system asd focuses on human collaboration and selforganisation
+      the life cycle has  phases  
+                   speculation project is initialized in this phase requirements user needs etc are taken into consideration to formulate a plan and define a set of release cycles
+                   collaboration it collaborates communication and teamwork but emphasizes individualism as individual creativity plays a major role in creative thinking people working together must trust each others to criticize without animosity assist without resentment work as hard as possible possession of skill set communicate problems to find effective solution
+                   learning it helps to increase the workers level of understanding for the project with the help of focus groups technical reviews and project postmortem
+       feature driven development
+      it is an agile iterative and incremental model that focuses on progressing the features of the development software its aim is to deliver timely updated and working software to the client in fdd reporting and progress tracking is necessary at all levels
+      life cycle
+         oo          building overall model
+         oo          building feature list
+         oo          plan by feature
+         oo          design by feature
+         oo          build by feature
+characteristics
+         oo          short iterative simple and short iterations gives good pace for large projects
+         oo          customer focused inspection of each feature by client
+         oo          structured and feature focussed
+         oo          frequent releases
+advantages
+         oo          easy progress tracking due to reporting at each level
+         oo          provides continuous success for large size teams and projects
+         oo          risk reduction
+         oo          it provides greater accuracy in estimation of cost
+disadvantages
+         oo          not good for smaller projects
+         oo          high dependency on lead programmers designers and mentors
+         oo          there is lack of documentation which can cause issues afterwards

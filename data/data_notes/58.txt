@@ -1,0 +1,194 @@
+emerging programming paradigms
+assessment assignment
+gurshaan singh bajaj
+uco
+write short note on following
+ scrum
+the scrum framework is a light weight framework for developing managing and maintaining complex products
+foundation of scrum is lean thinking and empirical process control that is transparency inspection and
+adaptation
+scrum is a set of rules and guidelines that provides important structure to the workflow to help the team cut down
+on the technical business and interpersonal complexity of software development as a whole and empowers the
+team to achieve large and long term goals scrums approach to product development is iterative and incremental
+with multiple feedback loops  also called inspect and adapt loops inbuilt with the process
+scrum is based on three pillars transparency inspection and adaptation
+transparency transparency allows everyone on the scrum team and outside to align and optimize the goals of the
+scrum team selforganize based on the available information and adapt and plan ahead on the basis of the
+feedback
+inspection in the presence of information available transparently the members of the scrum team are able to
+inspect any difference between actual results and the expected results
+adaptation due to regularly and fast moving goals customer needs competition etc there is an ongoing need to
+adjust the direction of the productsservices organizations offer scrum events offer opportunities for regular
+inspection and adaptation
+scrum recognizes and describes  roles the product owner the development team and the scrum master
+product owner the po is responsible for maximizing the return on investment roi the product owner does so
+by collaborating with the customer to understand business needs and setting the direction of the product
+development team the dev team follows product vision and direction set by the product owner and helps
+translate it into a valuable software product the development team members share the ownership and
+contributions to build deliver and support the product
+scrum master the scrum master serves the product owner to achieve the product goals the development team to
+become a highperformance team and the organization to become a learning organization the scrum master acts as
+a servant leader and team coach
+scrum values
+focus focus on delighting the customer by delivering highest value features first
+openness being open to all stakeholders with information about the work
+respect respect for people and their freedom to express
+courage being courageous to challenge mediocrity the status quo topdown command and hierarchy
+commitment committing to serving customers through valuable and quality products
+
+ lean development
+lean development is the way to apply lean principles to software development the objective of this method is to
+optimize the efficiency of the entire development process by eliminating unnecessary practices that does not have
+any positive impact on the outcome of the project
+here are  practices of lean software development
+
+eliminate waste
+the key element of practicing lean is to eliminate that does not add value development of unnecessary code or
+functionality delays the delivery time to customer and also slows down feedback loop
+create knowledge
+another basic principle of lean development is to create knowledge this requires discipline and focus to implement
+creation of knowledge encourages lean teams to offer the infrastructure to property document the code
+deliver fast
+every software development team wants to deliver fast and put the final product into hands of the customer tech
+teams spend a generous amount of time in figuring out why software development teams cannot deliver fast one of
+the most common roadblocks are unclear requirements and overengineering of simple things
+respect people
+people working in a development team is often the most neglected aspect in software development respecting
+people working in a development team is the essential to work effectively as a team
+optimize the whole
+optimization is a serious issue in software development teams when developers feel pressured to deliver they
+release the kind of code that often does not meet quality requirements suboptimization is a process of optimizing
+the whole
+
+ extreme programming xp
+extreme programming is a very popular set of practices and are a part of the agile family extreme programming fits
+very well within other processes like scrum it is a set of values principles and practices that are used to breed
+quality from and within the development team
+extreme programming differs from scrum in that scrum is a framework for delivery software and xp is a set of
+practices that the team does to reach excellence for this reason they work very well together
+values of extreme programming
+ individual values on how we see our work the things that make us happy with our work the way we are
+perceived and the progress we make
+ team values about what the shared team produces how the team interacts definition of a team for a
+particular set of stories discipline features etc
+ organizational values what are the values we expect our organization to have both internally and externally
+principles
+principles are a bridge to turn our values into specific concepts related to software development the principles can
+help decision making and can be translated into practices which we as an organization and individuals can practice
+each day
+the fundamental principles of xp are
+ rapid feedback
+ assume simplicity
+ incremental change
+ embracing change
+ quality work
+practices
+practices come from principlesthe core practices are
+
+
+
+
+sit together  more discussion and better working happens when the team sits together
+whole team  all the skills must be present on the team to deliver the product
+informative workspace  the environment that the team works in should be visual and this allows total
+transparency of what everyone is working on and any issues that arise
+
+
+
+
+
+
+
+
+
+
+
+
+energized work  teams do not work longer than  hours per week anymore and productivity rapidly
+decreases
+pair programming  developers sit together and program in a pair one person drives and the other navigates
+stories  stories are used as place holders to conversation they are flexible and different than requirements
+weekly cycle  the development iteration is a week long
+quarterly cycle  larger amounts of work such as epics releases etc should be release every quarter
+slack  the team needs to build in slack a highly productive and energized team needs time out to maintain
+their usual pace
+ten minute build  the code base should be able to be automatically built and the tests run in  minutes or
+less
+continuous integration  all the integration tests should be run automatically and frequently in order to ensure
+the entire system integrity is sound
+test first programming  tests should be written that match the acceptance criteria for the stories and then the
+code should then be written to make the tests pass this is tdd test driven development
+incremental design  the design of the system should evolve as development unfolds rather than a huge
+upfront detailed design
+
+ adaptive software development asd
+adaptive software development asd is a method for the creation and development of software systems it focuses
+on rapid creation and evolution of software systems asd is a part of rapid application development
+adaptive software development life cycle is mission focused feature based iterative timeboxed risk driven and
+change tolerant in adaptive software development the developer has a basic idea in mind and they go to work the
+focus is in the computer code
+in asd there are no preplanned steps the software is made very quickly new versions can come out very quickly
+as the development cycle is very short the structure of adaptive software development and rapid application
+development are similar difference lies in the fact that
+ adaptive software development does not allow the time when the project is finished rapid application
+development does
+ adaptive software development does not have a real end point whereas rapid application development allows
+the end of project
+adaptive software development life cycle comprises of three phases
+ speculation
+ collaboration
+ learning
+in speculation user requirements are understood and an adaptive cycle planning is conducted it depends on bug
+and user reports
+effective collaboration with customer is very important communication teamwork individual creativity are a part
+of effective collaboration the individual developers combine their portions of work
+learning cycles are based on the short iterations with design build and testing asd teams can learn through focus
+groups formal technical reviews and postmortems
+
+ feature driven development
+the fdd featuredriven development propose
+
+
+
+
+
+
+short and large iterations
+to have better communication throughout the development
+to make frequent deliveries with real done works
+accurate progress information
+to have processes appreciated by customers developers and managers
+
+an iteration in fdd featuredriven development consists of  different steps
+
+
+create the system model with a uml class diagram
+
+
+
+
+
+
+list the features to achieve
+assign features to developers
+create the template for each of the features
+develop each of the features
+
+feature driven development fdd features
+lets work by feature
+the fdd featuredriven development strongly favors the featurebased development a feature must be possible
+to develop in two weeks like a userstory if not split the feature into two separate features
+the fdd featuredriven development teams are defined in feature team they will be responsible for their parts of
+development the feature team will also be chosen in the future for developments concerning their scope
+developers are responsible
+this a practice that is totally in opposition to the agile methods which is currently being used within companies is the
+class ownership basically a class in the code is owned by a developer or two developers as long as he is in the
+company the responsive developer will work on this code in the future if its necessary
+regular builds
+the fdd featuredriven development imposes the fact of having regular builds in order to regularly test the
+product advancement the feedback recovery is an essential point in agile products
+progress reporting tool
+the fdd featuredriven development imposes the fact of making progress reporting as in scrum it is very
+important in the projects to have transparency on the progress of the project in order to be able to manage the
+obstacles as soon as possible
+

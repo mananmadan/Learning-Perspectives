@@ -1,0 +1,52 @@
+                           assignment for assessment
+
+q write short notes on following
+
+a scrum is an agile framework that helps teams work together scrum promotes learning through experiences of each member of the team it also promotes working in a self organized manner and ensures that the members of a team think and reflect long and hard on each of their wins and losses in order to learn more from them and improve continuously the main difference between agile and scrum is that scrum is a framework for getting work done whereas agile is a mindset to be followed scrum is in fact a framework that is used to incorporate agile principles into the day to day working of an organization  members of a team the scrum framework is heuristic in nature and is based upon the principle of continuous learning scrum acknowledges the fact that teams usually start without any information or knowledge at the beginning of a project and that their knowledge evolves with experience scrum is structured in such a way that teams can adapt to changing user requirements with reprioritization built into the process and short release cycles so that teams can constantly learn and improve quickly
+
+b lean development this is an agile framework that is based around the optimization of development time and development resources it also focuses on elimination of waste and finally delivering only those features that are absolutely necessary for the product to go to the marketplace the lean approach of software development is also known as the minimum viable product mvp strategy in this strategy a team releases the product with minimum features to the user base and learns from their experiences and iterates back by making changes or adding features according to the user feedback
+
+
+advantages of lean software development
+   a    following a streamlined approach like lean software development allows more functionality to be delivered to the users in a shorter span of time
+   b    since it focuses on eliminating waste it reduces costs as well
+
+disadvantages of lean software development
+   a    heavily depends on the team involved making it not as scalable as other frameworks
+   b    depends on strong documentation and failure to do so can result in development mistakes
+
+c extreme programming xp is also an agile framework pertaining to software development it has two main aims one is to produce higher quality of software and other is to produce higher quality of working conditionslife for the members of the development team xp is considered to be the most specific agile framework regarding engineering practices for software development
+
+the main problems where xp is applicable were described by don wells and these are
+   a    dynamically changing software requirements
+   a    risks caused by fixed time projects using new technologies
+   b    small colocated extended development teams
+   c    the technology being used allows automated unit and function tests
+
+xp is based upon five values which are communication simplicity feedback courage and respect
+
+d adaptive software development asd is a method that is used for building complex softwares and systems its main focus is on human collaboration and self organization 
+the asd life cycle comprises of three phases which are
+ speculation this phase is the phase in which the initiation of the project is carried out and planning is done information like project requirements user needs customer mission statements etc are collected to define a set of release cycles finite in nature that the project wants
+ collaboration in this communication and importance of teamwork in a team is the main emphasis however it also gives importance to individualism as individual creativity is also of utmost importance when it comes to creative thinking and ideas in a project
+ learning the workers may have an overestimate of their own understanding of the technology which may not lead to the desired result learning helps the workers to increase their level of understanding over the project the learning process can be carried out using focus groups technical reviews and project postmortems 
+e feature driven development is an agile framework as the name suggests it carries out the software development process by focusing on features and making progress around them however the features here are not necessarily always the product features they are more like user stories in scrums
+fdd has been designed to follow a five step development process the steps involved in the project lifecycle are as below
+       development of an overall model
+       building of a feature list
+       planning by feature
+       design by feature
+       build by feature
+advantages of fdd
+       allows for rapid development
+       allows larger teams to move products forward with continuous success
+disadvantages of fdd
+       not suitable for smaller projects
+       very less documentation available on fdd
+       highly dependent on the skill of programmers
+
+submitted by  sabeel ahmad uco
+
+
+
+

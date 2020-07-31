@@ -1,0 +1,57 @@
+                                epp assignment
+
+uco     mohammad saif       
+scrum
+it is defined as a software development methodology and is type of agile development management strategy it is designed for small teams generally it breaks the overall development into smaller cycles or iterations known as sprints the sprints last for approximately two weeks or a month at most the team generally holds minute meetings everyday where they discuss what they did the previous day and what do they plan on doing that day when a sprint ends the team holds a sprint review meeting where they discuss about what they had achieved in that sprint and also showcase demos about the work done so far 
+scrum is generally ideal for complex tasks where the major principle behind it being that the customer may change their requirements at any time so instead of taking all of the requirements at once and proceeding forward they do it incremental cycles instead where each time they take a portion of the requirements and achieve it this allows the customers to also be kept in loop and change the requirements if necessary this way the customers get the feeling that there is work being done on the project and know what stage it is currently on
+
+lean development
+it is the translation of lean manufacturing principles into software development it is summarized by  principles
+ eliminate wastage
+anything that does not add value to what the customer wants is regarded as waste by lean development this includes things like building of the wrong feature reworking things unnecessarily complex solutions extra features waiting multitasking etc one should be able to recognize the waste and remove it this waste removal is done incrementally alongside the project until only the necessary features remain
+ amplification of learning
+software development is about learning from what went wrong and finding solutions to the given problems so in order to speed up that learning we must test as fast as possible hence we run tests and integration test as soon as we are done with the code for that iteration we also provide screens to the end user to take their inputs we accumulate the errors and see what went wrong and attempt to fix it in that iteration
+ decide as late as possible
+instead of allowing potential solutions become a headache we delay such decisions for later until it cannot be delayed any later this allows us to get rid of as much assumptions or hypothesis as possible this allows the customer to understand their requirements better and then they can give a better requirement description thus allowing us to get rid of more potential solutions
+ deliver as fast as possible
+in the current world the faster wins not the bigger we need to deliver products as fast as possible while also maintaining as much quality as possible as quality matters a lot to the customers but if the product takes too long the customer also loses money and will eventually get tired of waiting and lean development allows for fast deliveries alongside maintaining quality
+ team empowerment
+the team manager must listen to their team and use their expertise to manage the project this allows them to be able suggest improvements and can explain better why an action was chosen they must absolutely not micro manage the team as it just lowers the morale the people must not be treated as resources but instead be motivated and appreciated for the work they put in
+ build integrity in
+the customer needs to also go through the experience of the system while its being developed this is also known as integrity the information between the developers and the customer needs to flow in both directions in chunks and not all at once the method to achieving this is to test as much as possible the code must be as simple as possible repetitions in code to be avoided as much as possible thoroughly integrated tested and check for the quality standards and cross checked to make sure that it does exactly what the customer needs
+ optimization of the whole
+the system needs each of its parts to work with each other this also includes their interactions with each other thus during the development the number of errors accumulate and because we develop in iterations we can find the root cause of the problem thus when we are able to successfully optimize all the parts we can then easily optimize their interactions and thus optimize the whole system
+extreme programming
+it aims at producing a highquality product while also maintaining a high quality of life for the developers it consists of  values
+ communication
+this is a very integral part of software development as developers rely on good communication to transfer knowledge about the problem and requirements with one another a good communication means the problem can be easily understood resulting in a better planning and also better quality of products
+ simplicity
+we would like to keep the wastage to a minimum in order to do that we need to keep the system design as simple as possible if we are able to do that we can easily revise update and debug our code without producing much wastage this also means to only address requirements that we know about and not try to add new features by predicting the future
+ feedback
+this means that every time something is pushed out we get a feedback from the customers and we are able to improve the product further by acting upon the feedback this allows the quality of the product to be improved per iteration and allows the product development to also be dynamic in case the customer decides to add or remove some requirements
+ courage
+one needs to show courage to speak up to speak up about actions or decisions that could be detrimental for the team if achieved the teams productivity can be increased instead of trying to make something bad work one could come up with a new idea and make things easier faster and make the product better one needs to accept feedback as in the end the customer is the one who will be using the product and paying for them
+ respect
+every member in the team must respect each other in order to communicate effectively and keep the productivity of the team at its highest they must understand and accept the feedback from their fellow members and work together to achieve the best possible result
+adaptive software development
+it is cyclic like the evolutionary model but is meant to accommodate change and is adaptable to change in a turbulent environment for products and evolves from a little amount of planning and learning it focuses mainly on results and not tasks and the results are the features of the product it consists of  phases
+ speculate
+planning is replaced by speculate because the word planning is too deterministic it sounds like we know about the future and know the shortcomings but in reality we dont so we speculate about the future take note of as many unaccounted situations as possible and try to make a plan thus this allows for short cycles to be the choice of development while we experiment and explore the given problem
+ collaborate
+a complex application cannot be built at once it evolves over time by analyzing large amounts of data and applied to the problem this means that a diverse amount of knowledge is required and thats where collaboration comes into the picture it requires the ability to produce results jointly share results and make decisions
+ learn
+it is all about learning from the reviews feedbacks mistakes and applying it to the product in the cycles to further refine it into the product the customer wants teams can use technical reviews project retrospectives and customer focus groups this allows the team to understand the requirements better and if the cycles are short the mistakes can remain small
+
+feature driven development
+it is an agile method for software development that is lightweight and is iterative in nature it consists of  stages out of which the last three stages define the iterative part of the development method 
+ develop overall model
+this part consists of walking through the scope of the system at a high level then detailed domain models are presented by small groups for peer reviews after choosing one model per domain the chosen models are then merged into a single overall model
+ build feature list
+the knowledge that was gathered during the overall model development is used to make a list of features by functionally decomposing each domain into subject areas which consist of features features are small in size and generally should not take too long to complete or else they will be broken down into smaller individual features 
+ plan by feature
+now each feature or feature set is planned down in the form of a development plan and assigned to programmers in the form of classes
+ design by feature
+design packages are designed for features a team leader will select a set of features that are to be developed in a small period of time now alongside the programmers the leader will detail out each and every feature and refine it further after the classes are written a design inspection
+ build by feature
+after a successful design inspection the class owners develop codes for their classes which are then integrated into the main build after they pass all the unit and integration tests
+   feature completion progress is monitored in the form of milestones each feature consists of  milestones that are to be completed sequentially the first  are done in the design by feature part and the last  are done in the build by feature part

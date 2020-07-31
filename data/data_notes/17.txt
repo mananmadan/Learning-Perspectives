@@ -1,0 +1,95 @@
+q write short notes on following
+   oo    scrum
+   oo    lean development
+   oo    extreme programming xp
+   oo    adaptive software development asd
+   oo    feature driven development
+ ans
+                                    scrum 
+the scrum agile framework favors moving projects forward via shortterm blocks of work called sprints which are usually confined to twoweek intervals teams working with this framework are selforganizing and not topdown or hierarchical in nature  scrum uses iterative process scrumspecific roles include the scrummaster essentially a team guide and the product owner who represents the business and customers
+the advantages associated with using the scrum agile framework are as follows 
+   oo    it is easy to understand
+   oo    allows for rapid feedback
+   oo    allows issues to be brought up through daily meetings
+   oo    relies on constant feedback henceforth the quality of product increases in a smaller amount of time
+the disadvantages associated with using the scrum agile framework are as follows 
+   oo    strictness eg teams may not hold more than one sprintreview meeting during a sprint and there are limitations on the number of people allowed on the team
+   oo    can lead to scope creep  ie the changes continuous or uncontrolled growth in a projects scope at any point after the project begins
+   oo    some argue that the framework can place a high degree of pressure on the team due to the frequent short deadlines leading to employee dissatisfaction 
+   oo    difficult to plan structure and organize a project that lacks a clear definition
+                                       
+                                       
+                                       
+                               lean development 
+lean software development lsd is an agile framework which is based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs the lean development approach is also often referred to as the minimum viable product mvp strategy this is because it involves a team releasing a bareminimum version of its product to the market learning from users what they like dont like and want to be added this is followed by iterating again based on the feedback received
+the advantages associated with using the lean development framework are as follows 
+   oo    allows more functionality to be delivered in less time
+   oo    results in lower cost of development by eliminating any unnecessary activities
+   oo    empowers the development team to make decisions which can also boost morale
+the disadvantages associated with using the lean development framework are as follows 
+   oo    heavily depends on the team involved making it not as scalable as other frameworks
+   oo    depends on strong documentation and failure to do so can result in development mistakes
+
+
+
+
+                           extreme programming xp
+extreme programming xp is an agile software development framework that aims to produce higher quality software for the consumers  and higher quality of life for the team developing the software xp is the most specific of the agile frameworks regarding appropriate engineering practices for software developmentthe main characteristics of xp include dynamically changing software requirements using a small collocated extended development team and leveraging technology that facilitates automated unit and functional tests
+basic principles of extreme programming xp is based on the frequent iteration through which the developers implement user stories user stories are simple and informal statements of the customer about the functionalities needed 
+on the basis of user stories the project team proposes metaphors metaphors are a common vision of how the system would work 
+the development team may decide to build a spike for some feature a spike is a very simple program that is constructed to explore the suitability of a solution being proposed it can be considered similar to a prototype 
+the advantages associated with using the extended programming xp framework are as follows 
+   oo    helps cut costs for software development organizations by 
+   oo    team members are accountable to the team for their work
+   oo    boosts employee morale and retention due to its emphasis on improving the quality of life
+the disadvantages associated with using the extended programming xp framework are as follows 
+   oo    does not place emphasis on code quality which can lead to defects in early iterations
+   oo    stresses code over product design
+   oo    is not ideal if developers are not in the same location as it requires a strongly connected team to take decisions
+
+
+                                       
+                      adaptive software development asd
+adaptive software development aims to enable teams to quickly and effectively adapt to changing requirements or market needs by evolving their products with lightweight planning and continuous learning the asd approach encourages teams to develop according to a threephase process speculate  ie project initiation and requirement planning  collaborate  ie stressing on communication and teamwork  learn  ie increase their level of understanding over the project 
+adaptive software development asd is a direct outgrowth of an earlier agile framework rapid application development rad
+the advantages associated with using the adaptive software development asd framework are as follows 
+   oo    leads to better and more intuitive products
+   oo    reduces the project time for on time or even early deliveries
+   oo    encourages more transparency between developers and clients
+the disadvantages associated with using the adaptive software development asd framework are as follows 
+   oo    demands extensive user involvement which can be difficult to facilitate
+   oo    integrates testing into every stage which can add to a projects costs
+   oo    emphasis on rapid iterating and continuous feedback can lead to scope creep
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                       featuredriven development fdd
+featuredriven development fdd is customercentric iterative and incremental with the goal of delivering tangible software results often and efficiently it focuses on progressing the features of a software with each release it gives special emphasis on progress tracking and reporting so that timely working software can be delivered to the client
+
+the five steps in the fdd project life cycle are as follows  
+   oo 
+    build overall model
+   oo 
+    build feature list
+   oo 
+    plan by feature
+   oo 
+    design by feature
+   oo 
+    build by feature
+the advantages associated with using the featuredriven development fdd framework are as follows 
+   oo    simple fivestep process allows for more rapid development
+   oo 
+   greater accuracy in cost estimation of the project
+   oo    increases performance of larger teams
+the disadvantages associated with using the featuredriven development fdd framework are as follows 
+   oo    not suitable for small projects
+   oo    lacks enough written documentation
+   oo    highly dependent on lead developers or programmers of the team
+
+
+
+

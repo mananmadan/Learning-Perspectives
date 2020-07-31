@@ -1,0 +1,54 @@
+write short notes on following
+ scrum
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+ 
+ scrum
+scrum is an agile project management framework that teams use to develop deliver and sustain complex products scrum is about continuously providing value to the customers or the organisation in simple words its a framework for getting work done while incorporating agile principles into the work and communication given its flexibility teams of all kinds use scrum but it is most commonly used in software development and engineering reason being there are more frequent requirements change goals change and situation change scrum embraces all these changes since the project is built in a series of iterations called sprints it is easier to keep track of smaller changes short iterations make it possible to reduce risk and cost get fast feedback from users increase speed to market and see value quicker teams set milestones at the start of the sprint and these are also achieved frequently which give teams a sense of regular progress this helps team members stay focused and energised which increases employees engagement in the project
+three major roles in scrum framework to make it work ideally 
+product owner he acts as a bridge between the stakeholders and the rest of the scrum team he explains all the requirements and clarifies the queries related to them based upon the stakeholders needs
+scrum master  an effective scrum master deeply understands the work being done by the team and can help the team optimize their transparency and delivery flow
+development team  they are the actual people who create the product team members have differing skill sets all of them work together to complete the tasks at hand the scrum team drives the plan for each sprint they forecast how much work they believe they can complete over the iteration
+
+
+ lean development
+lean software development is an agile framework based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs team focuses on releasing a minimal version of its product to the market takes feedback from the end users themselves and then incorporates those feedbacks in the next iterations lean development makes it possible to gain information straight from the source therefore eliminating the common problem of producing software that does not address the customers needs
+strengths of lean development   
+   oo    allows more functionality to be delivered in less time
+   oo    eliminates unnecessary activity and as a result can reduce costs
+   oo    empowers the development team to make decisions which can also boost morale
+weakness of lean development   
+   oo    heavily depends on the team involved making it not as scalable as other frameworks
+   oo    depends on strong documentation and failure to do so can result in development mistakes
+ extreme programming
+extreme programming is a software development methodology which comes under agile development designed to improve the quality of software and its ability to properly adapt to the changing needs of the customer or client similar to other agile methods of development extreme programming aims to provide iterative and frequent small releases throughout the project allowing both team members and customers to examine and review the projects progress throughout the entire software development life cycle
+there are five fundamental values which provide the foundation on which the extreme programming paradigm is built   
+simplicity do what is needed and asked for but no more this will maximize the value created for the investment made
+communication face to face is considered to be the best way of communication the team can also use a white board or other drawing mechanism
+feedback take every iteration commitment seriously by delivering working software demonstrate the software early and often then listen carefully and make any changes suggested
+respect  each team member should respect each other in order to communicate to create a better working environment and work more efficiently
+courage always tell the truth about progress and estimates dont document excuses for failure because the plan is to succeed
+
+ adaptive software development
+adaptive software development is a software development methodology evolved from rapid application development method asd replaces the traditional waterfall cycle method with a series of speculate collaborate and learn it aims to enable teams to quickly and effectively adapt to changing requirements or market needs by evolving their products with lightweight planning and continuous learning in asd the main focus is on delivering the result and not tasks
+ 
+speculate during this phase the project is initiated and planning is conducted this allows the team to view the uncertainty of complex problems and helps to come up with new and innovative solutions
+collaborate this basically refers to the communication and teamwork which is essential for the development of a complex product the amount of information which flows around the development team is large and for proper evolution of complex products collaboration is needed between team members
+learn the learn part refers to enhancement of the knowledge of team members using practices like customer focus groups technical reviews project retrospectives and others
+
+ feature driven development
+feature driven development is an agile framework where the progress of the project is measured based upon the features that are completedtop of form a feature is a small clientvalued function likebottom of form calculate the total of a sale validate the password of a user or authorize the sales transaction of a customer if youre with a big corporation or are working on a largescale software project fdd might be right for your project
+feature driven development is an architecturecentric short iteration process which consists of  basic activities there are milestones set for each feature to track the progress of the whole project
+the five basic activities are
+          develop an overall model
+          build a feature list
+          plan by feature
+          design by feature
+          build by feature
+
+
+
+anurag giri
+uco

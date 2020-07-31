@@ -1,0 +1,178 @@
+
+   q write short notes on following 
+   oo 
+                    scrum 
+   oo 
+                     lean development 
+   oo 
+                    extreme programming xp 
+   oo 
+                    adaptive software development asd 
+   oo 
+                    feature driven development 
+
+     
+   oo 
+      scrum 
+
+    
+
+   scrum works well for longterm complex projects that require stakeholder feedback which may greatly affect project requirements so when the exact amount of work cant be estimated and the release date is not fixed scrum may be the best choice
+
+   scrum team  to  people
+
+   
+
+   this team does not include any of the traditional software engineering roles such as programmer designer tester or architect everyone on the project works together to complete the set of work they have collectively committed to complete within a sprint
+
+   
+
+   product owner the product owner is often someone from product management or marketing a key stakeholder or a key user
+
+   scrum master the scrum master is responsible for making sure the team is as productive as possible the scrum master does this by helping the team use the scrum process by removing impediments to progress by protecting the team from outside and so on
+
+   
+
+   product backlog the product backlog is a prioritized features list containing every desired feature or change to the product 
+
+   sprint planning meeting at the start of each sprint a sprint planning meeting is held during which the product owner presents the top items on the product backlog to the team the scrum team selects the work they can complete during the coming sprint that work is then moved from the product backlog to a sprint backlog 
+
+   
+
+   daily scrum each day during the sprint a brief meeting called the daily scrum is conducted this meeting helps set the context for each days work and helps the team stay on track
+
+   sprint review meeting at the end of each sprint the team demonstrates the completed functionality at a sprint review meeting during which the team shows what they accomplished during the sprint 
+
+   
+
+   sprint retrospective also at the end of each sprint the team conducts a sprint retrospective which is a meeting during which the team including its scrummaster and product owner reflect on how well scrum is working for them and what changes they may wish to make for it to work even better
+
+   sprint a sprint a timebox of one month or less during which a done useable and potentially releasable product increment is created usually sprints are limited to one calendar month
+
+    
+
+page break
+
+ 
+   oo 
+      extreme programming 
+
+   extreme programming
+
+   
+
+   
+
+   values of xp
+
+   the five values of xp are communication simplicity feedback courage and respect and are described in more detail below
+
+   
+
+   communication
+
+   software development is inherently a team sport that relies on communication to transfer knowledge from one team member to everyone else on the team xp stresses the importance of the appropriate kind of communication    face to face discussion with the aid of a white board or other drawing mechanism
+
+   
+
+   simplicity
+
+   simplicity means what is the simplest thing that will work the purpose of this is to avoid waste and do only absolutely necessary things such as keep the design of the system as simple as possible so that it is easier to maintain support and revise simplicity also means address only the requirements that you know about dont try to predict the future
+
+   
+
+   feedback
+
+   through constant feedback about their previous efforts teams can identify areas for improvement and revise their practices feedback also supports simple design your team builds something gathers feedback on your design and implementation and then adjust your product going forward
+
+   
+
+   courage
+
+   kent beck defined courage as effective action in the face of fear extreme programming explained p  this definition shows a preference for action based on other principles so that the results arent harmful to the team you need courage to raise organizational issues that reduce your teams effectiveness you need courage to stop doing something that doesnt work and try something else you need courage to accept and act on feedback even when its difficult to accept
+
+   
+
+   respect
+
+   the members of your team need to respect each other in order to communicate with each other provide and accept feedback that honors your relationship and to work together to identify simple designs and solutions
+
+   
+
+     
+
+    
+
+    
+
+page break
+
+ 
+   oo 
+      lean development 
+
+    
+
+   lean development is an agile framework supported optimizing development resources and time reducing the delivery time and therefore the waste lean approach is additionally often mentioned because the minimum viable product during which the minimum possible version of its product being released to the market to earn from the users about their likes and dislikes further features are added or removed supported the feedback thus received  
+
+     
+
+   this approach allows more functionality to be delivered in less time unnecessary activity is eliminated reducing the value and empowers the event team boosting their morale and helping with the choice making 
+
+    
+
+page break
+
+ 
+   oo 
+      feature driven development 
+
+ 
+
+feature driven development organizes the event of the software around making progress on features theyre almost like user stories in scrum for instance a process to push notifications for updates or a login feature are considered to be features during this methodology  
+
+  
+
+it is an easy process which allows the rapid development of the product  
+
+it allows larger team to move products forward with continuous success and leverages predefined development standards so teams are ready to move at a quicker pace  
+
+feature driven development might not be feasible for smaller projects  
+
+it is highly hooked in to lead developers and has less written documentation which could cause confusion in some cases
+
+page break
+
+ 
+   oo 
+      adaptive software development  
+
+    
+
+   adaptive software development aims to enable teams to effectively and quickly adapt to the changing requirements or the market needs through evolving their products through continuous learning or lightweight planning it encourages teams to develop consistent with a threephase process which incorporates speculate collaborate and learn  
+
+     
+   oo 
+      it is focused on the top users resulting in a more intuitive product  
+   oo 
+      it encourages transparency between the developers and therefore the clients  
+   oo 
+      asd allows for on time or maybe early deliveries  
+   oo 
+      it requires extensive user involvement increasing the problem of development a touch   
+   oo 
+      it emphasizes on rapid iterating and continuous feedback and integrates testing into every stage adding to the prices of the merchandise even further 
+
+    
+
+    
+
+   submitted by  
+
+                           md mehran  
+
+                        uco 
+
+                        coe  
+
+

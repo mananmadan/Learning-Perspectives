@@ -1,0 +1,192 @@
+write short notes on following  
+   oo 
+      scrum
+scrum is an agile project management methodology or framework scrum is widely used by software development teams with the goal of delivering new software capability every  weeks in fact its the most popular agile methodology scrum uses iterative process
+
+
+
+advantage of using scrum framework 
+   oo 
+      fast moving 
+   oo 
+      money efficient
+   oo 
+      works by dividing the large product into small subproducts
+   oo 
+      customer satisfaction is given utmost importance
+   oo 
+      scrum is adaptive in nature due to short sprints
+   oo 
+      relies on constant feedback henceforth the quality of product increases in smaller amount of time
+
+disadvantage of using scrum framework 
+   oo 
+      does not allow changes into their sprint
+   oo 
+      scrum framework is not a fully described model lots of details have to be filled in by the organization using the model
+   oo 
+      difficult for the scrum to plan structure and organize a project that lacks a clear definition
+   oo 
+      substantial resources are needed for daily scrum meetings 
+components of agile scrum development 
+   oo    scrum team 
+   oo    scrum events
+   oo    sprint
+   oo    scrum artifacts
+   oo    scrum rules
+   oo     lean development
+
+lean software development lsd is an agile framework
+key points  
+   oo    focuses on optimizing development time and resources
+   oo    focuses on eliminating waste
+   oo    deliver only what the product needs
+in the lean approach a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback
+the philosophy of lean development came from the manufacturing industry which originated the lean development process as a way to optimize production and assembly lines to minimize waste and maximize customer value 
+strengths 
+   oo 
+      focused approach that allows more functionality to be delivered in less time
+   oo 
+      eliminates unnecessary activity hence reducing costs
+   oo 
+      empowers the development team to make decisions
+
+weaknesses 
+   oo 
+      heavily depends on the team involved making it not as scalable as other frameworks
+   oo 
+      without strong documentation development mistakes can occur
+an organization must have an outstanding development team and trust that team implicitly for this approach to be successful
+
+
+
+   oo     extreme programming xp
+extreme programming xp is one of the most important software development frameworks of agile models 
+key points 
+   oo    it is used to improve software quality
+   oo    improve responsiveness to customer requirements 
+   oo    encourages taking the best practices that have worked well in the past in program development projects to extreme levels
+xp is based on the frequent iteration through which the developers implement user stories
+      
+
+good practices needs to practiced extreme programming some of the good practices that are suggested in xp are given below
+   oo 
+   code review code review detects and corrects errors efficiently
+   oo 
+   testing testing code helps to remove errors and improves its reliability xp suggests testdriven development tdd to continually write and execute test cases
+   oo 
+   incremental development includes gaining customer feedback and based on this development team come up with new increments every few days after each iteration
+   oo 
+   simplicity simplicity makes it easier to develop good quality code as well as to test and debug it
+   oo 
+   design good quality design is important to develop a good quality software so everybody should design daily
+   oo 
+   integration testing it helps to identify bugs at the interfaces of different functionalities 
+
+applications of extreme programming xp some of the projects that are suitable to develop using xp model are given below
+   oo 
+   small projects xp model is very useful in small projects consisting of small teams as face to face meetings are easier to achieve
+   oo 
+   projects involving new technology or research projects this type of projects face changing requirements rapidly and technical problems so the xp model is used to complete this type of project
+
+
+   oo     adaptive software development asd
+
+
+
+adaptive software development is an agile methodology 
+
+key traits 
+   oo 
+   helps in building complex software and systems
+   oo 
+   it focuses on human collaboration
+   oo 
+   focuses on selforganisation
+
+asds overall emphasis on the dynamics of selforganizing teams interpersonal collaboration and individual and team learning help in creating software project teams that have a much higher likelihood of success
+
+asd life cycle incorporates three phases namely
+       speculation 
+       collaboration
+       learning
+      
+
+these are explained as follows 
+
+ speculation
+   oo 
+   initiation of project and planning is conducted
+   oo 
+   information like project requirements user needs customer mission statement etc is gathered to define the set of release cycles that the project wants
+
+ collaboration
+
+for this phase to be successful workers needs to be motivated 
+
+teamwork and collaboration are focussed on along with emphasizes on individual creativity people working together must trust each others to
+   oo 
+        criticize without animosity
+   oo 
+        assist without resentment
+   oo 
+        work as hard as possible
+   oo 
+        possession of skill set
+   oo 
+        communicate problems to find effective solutions
+
+ learning
+
+learning helps the workers to increase their level of understanding over the project and helps them in estimating the effort needed for the project completion correctly
+
+learning process is of  ways
+    
+        focus groups
+    
+        technical reviews
+    
+        project post mortem
+      
+   oo     feature driven development
+ featuredriven development is an agile iterative and incremental model it focuses on progressing the features of a software with each release it gives special emphasis on progress tracking and reporting so that timely working software can be delivered to the client
+
+feature driven development life cycle includes various stages of development  
+   oo 
+        build overall model
+   oo 
+        build feature list
+   oo 
+        plan by feature
+   oo 
+        design by feature
+   oo 
+        build by feature
+
+characteristics of fdd
+   oo 
+        short iterative simple and short iterations help to efficiently finish the work on time and assists faster product development
+   oo 
+        customer focused inspection of each feature is done by the client and before pushing to main build code
+   oo 
+        structured and feature focused more than  of efforts are given to the last  activities
+   oo 
+        frequent releases features are released continuously 
+
+advantages of fdd
+   oo 
+        successful for larger size of teams and projects
+   oo 
+        reduction in risk as the whole model and design is built in smaller segments in the form of features
+   oo 
+        greater accuracy in cost estimation of the project
+
+disadvantages of fdd
+   oo 
+        not good for smaller projects
+   oo 
+        high dependency on lead programmers designers and mentors
+   oo 
+        lack of documentation
+
+
