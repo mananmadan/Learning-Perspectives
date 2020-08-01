@@ -1,6 +1,7 @@
 nouns = set()
 def load_dict(mainfile):
     #get the nouns from the main file and store in dict
+    temp = set()
     openfile = open(mainfile,'r')
     readtext = openfile.read()
     a = ""
@@ -9,7 +10,9 @@ def load_dict(mainfile):
          a = a+i
         else:
          nouns.add(a)
+         temp.add(a)
          a = ""
+    return temp
     #for i in nouns:
     #    print(i,":",nouns[i])
 
@@ -42,16 +45,13 @@ def encode(mainfile,evalfile,normalizing_val):
     # encoding in binary strings
     bstring = "" 
     count = 0
-    #load_dict(mainfile)
-    temp_list = open(mainfile).read().split(' ')
-    #print(nouns)
-    for i in temp_list:
-         if i in open(evalfile).read():
-             bstring = bstring + '1'
-             count = count + 1
-             print(i)
-         else:
-             bstring = bstring + '0'
+    load_dict(mainfile)
+    flag = 0
+    for i in nouns:
+      if i in open(evalfile).read():
+              bstring = bstring + '1'
+      else:
+              bstring = bstring + '0'
     
     print(bstring)
     write_string("/home/manan/Desktop/Research/Learning-Perspectives/code/bstr.txt",bstring)
