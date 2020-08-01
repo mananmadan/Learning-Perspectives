@@ -1,0 +1,175 @@
+                                                                          submitted by
+                                                                                                        ayan krishna paul
+                                                                                                            roll uco
+
+
+scrum
+scrum is one of many iterative and incremental software development agile process for managing product development it is a framework within which people can address complex adaptive problems while productively and creatively delivering products of the highest possible value it is based on multiple small teams working in an intensive and interdependent manner the teams in the organization work together while constantly focusing on their common interest scrum has three roles
+    product owner
+    scrum master
+    scrum team
+product owner
+    the product owner creates a product backlog essentially a wishlist of tasks that need to be prioritized in a project
+    decides release date and content
+    prioritize features according to market value
+    accept or reject work results
+scrum master
+    the scrum master conducts daily meetings
+    ensures that the team is fully functional and productive
+    shield the team from external interfaces
+    responsible for management of the project
+scrum team
+    typically  to  people
+    teams are cross functional and selforganizing
+    scrum team determines which items and in what order are to be executed
+
+
+advantages
+    large projects are broken down into mall sprints
+    customers are involved so best results are ensured
+    budget friendly and time saving
+disadvantages
+    once decided the sprint backlog items cannot be changed
+    requires strong commitment from all members of the team
+
+
+
+lean development
+lean development is derived from the lean manufacturing principles lean development is the application of the lean manufacturing principles into a software development model robert charette is the founder of ld ld is the most strategicoriented agile methodology while most other agile methodologies are tactical in nature in ld the major changes must be initiated from the top of the organization lds goals are very stretch an example would be onethird of the development time of an average organization these aggressive goals challenges the managers to think about issues in entirely different ways
+ principles of lean development
+    eliminate waste
+    amplify learning
+    delay commitment
+    empower the team
+    deliver fast
+    build integrity in
+    see the whole
+ wastes of software development
+    partial work
+    unnecessary features
+    additional features
+    mixing of tasks
+    waiting for development
+    difficulty in finding information
+    undetected errors
+delay commitment
+    decision should be delayed until the last possible moment
+    benefits of delay commitment are
+         o more knowledge for decision
+         o more options for selection
+the ld process
+the ld process has three highlevel phases
+    startup
+    steadystate
+    transition and renewal
+contribution of ld
+    strategic focus a linkage to lean production risk entrepreneurship stretch goals
+ 
+
+
+extreme programming xp
+ extreme programming xp is a lightweight efficient lowrisk flexible predictable scientific and fun way to develop a software xp is designed to support small to medium sized teams that work under vague and rapidly changing requirements it is called extreme programming because it takes  known proven software development principles and push them to extreme levels 
+the five values of xp are
+    communication
+    simplicity
+    feedback
+    courage and
+    respect
+xp follows object oriented approach
+activities in extreme programming
+   o coding
+   o testing
+   o listening
+   o designing
+the  key practices of extreme programming
+    the planning game
+    small releases
+    system metaphor
+    simple design
+    continuous testing
+    refactoring
+    pair programming
+    continuous integration
+    collective ownership
+    onsite customer
+    the hour week
+    coding standards
+advantages
+    fewer documentation required
+    collaboration with customers
+    flexibility to developers
+    easy to manage
+disadvantages
+    depends heavily on customer interaction
+
+
+adaptive software development asd
+adaptive software development asd is a new software development methodology that focuses on rapid creation application and evolution of software systems it was derived from rapid application development rad it has been proposed by jim highsmith as a technique for building complex software and system it focuses on human collaboration and team selforganization
+the adaptive life cycle is divided into the following three main phases
+    speculate
+    collaboration
+    learning
+
+speculate
+   o during speculation the project is initiated and adaptive cycle planning is conducted
+   o when we speculate its not that we dont define a mission to the best of our ability
+collaboration
+   o encompasses communication and teamwork but also emphasizes individualism
+   o if we cant predict then we cant control in the traditional management sense
+   o if we cant control then a significant set of current management practices is no longer operable
+learning
+   o challenges all stakeholders
+   o examine their assumptions and use the results of each development cycle to learn the direction of the next
+
+speculate collaboration learning
+    for many project leaders and project teams adaptive development is a terrifying prospect
+
+
+advantages
+    software incremental adjustment
+    rapid and complex software development
+disadvantages
+    there is lack of emphasis on necessary designing and documentation
+
+
+feature driven development
+
+feature driven development fdd is an agile software development methodology fdd employs a shortiteration model it is designed to be used in large projects and teams it combines many of the best practices of other agile methodologies 
+fdd consists of a minimalist and fivestep process that has the following steps
+    develop an overall model
+    build a features list
+    plan by features
+    design by features
+    build by features
+for technical reviews mandated code inspections are performed in fdd customer involvement is realized in the first step and in the fourth step when the number of new features exceeds ten percent the project manager asks top management 
+fdd has two important roles
+   o chief architect and
+   o chief programmer
+chief architect leads to draw the overall model and chief programmer leads the programmers through the feature sets for a feature there are here important parts
+    action
+    result of the action
+    object related with the action
+
+feature teams
+feature teams are temporary groups of developers formed according to the features usually there are multiple feature teams a developer can take role in more than one feature teams
+class ownership
+class ownership is important in fdd every class belongs to a specific developer class owners have the responsibility for all changes in implementing new features quality classes are developed using class ownership class owners become expert for their classes
+
+                                                                 
+                                                           
+                                                            
+
+
+
+                           
+                                                                 the end
+
+
+ 
+   
+
+
+
+
+
+

@@ -4,63 +4,115 @@ write short notes on following
       extreme programming xp
       adaptive software development asd
       feature driven development
+ 
+name  saahil hussain mugloo
+roll no uco
 
-epp final assignement
-submitted by   
-harsh yadav
-uco
- coe
- 
-q scrum
-scrum is an agile project management methodology or framework used primarily for software development projects the scrum methodology follows the values and principles of agile but is more enhanced in terms of specifications especially related to some software development practices
-scrum tries to make information regarding a project as transparent as possible so that the development team can improve and adapt on the current requirements and feedback this allows teams to address the common pitfalls of a waterfall development process chaos resulting from constantly changing requirements miscalculation of time resources and cost probably poor software quality and inaccurate progress reporting
-transparency of common terms and standards is required in scrum development to ensure that what is being delivered is what was expected timely meetings and inspections detect variances early on so that adjustments can be made quickly
-components of scrum
-         the three roles scrum teams are selforganizing and crossfunctional selforganizing teams decide on their own how they are going to achieve their goals rather than being instructed by others outside the team crossfunctional teams have all requirements needed to achive the work without depending on others the team model in scrum is designed to optimize flexibility creativity and productivity
-         a prioritized backlog containing the end user requirements
-         sprints
-         scrum events sprint planning answers the following what are the goals or deliverables in the increment resulting from the upcoming sprint how the above planned goals be achieved which includes all the technicalities daily scrum meeting sprint review meeting sprints retrospective meeting dealing with past events and situations
 
-the scrum framework tries to deal with the fact that the requirements are likely to change quickly or are not completely known at the start of the project
- 
-q lean development
-lean software development lsd is an agile framework which focuses on improving development time and optimize the usage of resources reducing or eliminating waste and finally delivering only what the product needs the lean software development is also often known as the minimum viable product mvp approach in which a team releases a bareminimum version of its product to the market gets feedback from the users and then iterates based on this feedback
-lean development reduces or eliminates unnecessary activity and as a result can optimize the usage of resources and reduce costs of development empowers the development team to make decisions which can also boost morale
-this approach greatly depends on the team involved in the process which makes it not as scalable as other frameworks it also depends on strong documentation and failure to do so can result in development mistakes
-principles of lean development 
-         reducing hindrances and wastes  unnecessary features and code more tasks in log than can be completed delays in the engineering process  inefficient communication issues with quality data duplications these are some types of wastes to identify and eliminate waste after each short iteration timely meetings are held by project managers
-         quality of the product   quality management is also a one of the important principles in lsd as problems in this domain can lead to different types of waste repetitive testing of the code problems in logging and their resolution takes considerable time and therefore lead costs of development higher lsd strives to identify and resolve such nuances before they even happen
-         postponing commitement  it always leaves scope for optimizations and improvements by delaying decisions which cant be modified or undone in future until all the needed experimentation is done and as much information as possible is collcted
-         delivering fast  approach allows to enhance a piece of software incrementally based on the feedback collected from real customers and ditch everything that is of no value
- 
-q extreme programming
-extreme programming xp is a software development methodology which focuses to improve software quality and responsiveness to changing customer requirements as a type of agile software development is suggests more frequent releases in short development cycles where the intention is to improve productivity and introduce checkpoints at which new customer requirements can be adopted
-it is applicable when there are dynamically changing software requirements risks caused by projects being completed in fixed time and using new technology small and colocated extended development team rhe technology used allowing for automated unit and functional tests
-the five values of xp are 
-communication  software development is fundamentally a process requiring a team of people and it is necessary to communicate among them to share knowledge of resources and requirements so that every member is aware of the product requirements and deadlines and the methodology used  
-simplification of the design and process  means identifying the most simplest solution which will fulfill the current needs the purpose of this is to avoid waste and do only what is necessary and nothing extra such as keep the design of the system as simple as possible so that it is easier to maintain support and modify
-feedback of the users  through constant feedback about their previous efforts teams can identify areas for improvement and revise their practices feedback also supports simple design your team builds something gathers feedback on your design and implementation and then adjust your product going forward
-courage and confidence  you need courage to raise organizational issues that reduce your teams effectiveness you need courage to stop doing something that doesnt work and try something else you need courage to accept and act on feedback even when its difficult to accept
-respect  the members of your team need to respect each other in order to communicate with each other provide and accept feedback that honors your relationship and to work together to identify simple designs and solutions
- 
-q adaptive software development
-adaptive software development asd is an extension of an earlier agile framework rapid application development rad it focuses on enabling teams to rapidly and effectively adapt to changing requirements or market needs by improvising their products with planning and continuous learning
-strengths shown by asd are focused on the end users which can lead to better and more intuitive products allows for ontime and even early delivery encourages more transparency between developers and clients
-the asd follows a threephase process speculate collaborate learn
-speculate  the predecided goals and features bound the manager and his ability to modify the project in a more innovative path in asd planning is replaced by speculation while speculating the team does not abandon planning but it identifies the uncertainty in complex projects speculation encourages experimentation iterations with short cycles are encouraged
-colaborate  complex applications require that a large volume of information be collected analyzed and applied to the problem this results in diverse knowledge requirements that can only be handled by team collaboration this needs teams members to work jointly share knowledge of resources optimized solutions and clarifications of changing requirements
-learn  team has to enhance their knowledge constantly using practices such as  technical reviews project retrospectives customer focus groups reviews should be done after each iteration the team learns  about product changes more fundamental changes in underlying assumptions about how the products are being developed the iterations need to be short so that the team can learn from small rather than large mistakes
- 
-q feature driven development
-feature driven development fdd is an agile framework which moves forward by tracking the progress on features being built features in terms of fdd are not necessarily product features they are instead more related to user stories in scrum it is an iterative and incremental software development process
-fdd in suggests reporting of progress status at all vertical levels which helps all the people working on the project have a track of progress and results enabling them to decide speed and deadlines of the subtasks
-fdd allows teams to update the project regularly and identify errors quickly clients or stakeholders can be given status reports on the development process anytime fdd is a favorite method among development teams because it helps reduce confusion and rework in terms of the development world
-typically used in largescale development projects five basic activities exist during fdd
-develop overall model  the overall model is created by identifying the scope and context of the system this is done by the product manager or chief architect of the team
-make a list of features  developers list down potential items that would be useful to users and could be completed along a set timeline for release each feature should be manageable within a timeframe
-feature wise planning  features are organized by how long they take to create and how important they are to the client responsibility of each feature is also assigned to different members of the team
-feature wise designing  the actual details of each feature are produced inspected and finalized
-build by feature  after the design is improved the completed feature is added to the official build for delivery to the client
+scrum
+scrum is an agile development methodology or framework used primarily for development of software with a goal of achieving the end product within  weeks time it is a widely used methodology in which the project progresses via a series of sprints these sprints are time bound not exceeding a month most commonly they last for  weeks duration a scrum team consists of   about  plus or minus  members a meeting is planned at the start of a sprint where in the team members figure out how many items they can commit to and a list of tasks that are to be accomplished during the sprint this is known as a sprint backlog daily scrum or team up meetings are to be done for a period of  minutes
+typical sprint phases include
+   oo    product backlog this consists of a list of functionalities with short descriptions derived from description and roadmap of project
+   oo    sprint backlog this contains a list of product backlog items for which the development team commits to deliver as part of a particular sprint
+   oo    sprint planning this defines the duration and the manner in which the sprint meetings are to be held and also addresses to resource and project planning agendas
+   oo    sprint defined period of time in which the work has to be completed
+the scrum framework is heuristic and is based on continuous learning and adjustment to changing factors organisations that exercise this methodology experience
+   oo    higher productivity
+   oo    better quality of products
+   oo    reduced time to market
+   oo    improved stakeholder satisfaction
+   oo    better team dynamics
+   oo    happier employees
 
- 
+scrum consists of three roles
+       product owner person responsible for product vision and makes decisions on whether or not the products are ready to be shipped
+       scrummaster facilitates the scrum process and enforces time bounds
+       engineeringdevelopment team this consists of about  members responsible for completion of tasks
+while scrum is structured it is not entirely rigid and there exists some form of flexibility as its execution can be tailored to meet the needs of any organisation clear communication transparency and dedication for continuous improvement are must for achieving success for any team or organisation employing the scrum framework
+
+
+
+ lean development
+also known as minimum viable productmvp lean software development is an agile framework based on optimizing development time and resources eliminating waste and ultimately delivering only what product needs the philosophy behind lean methodology is about smart development that is improving virtually everything by eliminating anything that doesnt bring value to the customer a streamlined approach is followed in this methodology that allows more functionality to be delivered in less time
+lsd is broken down into seven main principles that highlight the working of this development methodology
+       eliminating waste anything that contributes no value to the customer is regarded as waste such as partially done work inventory extra features defects etc
+       amplifying learning software development is a continuous learning process based on iterations when writing code instead of adding more documentation or detailed planning different ideas could be tried by writing the code and building on it the iteration process is sped up by usage of short iteration cycles each coupled with refactoring and integration testing
+       deferring commitment due to the involvement of uncertainty in the process of software development decisions should be delayed as much as possible that can lead to better results achieved through setbased or optionbased approach
+       delivering fast in the current era of technology survival is much more dependent on the rate at which the end product is delivered faster the better sooner the endproduct is delivered with no defects or errors leads to faster feedbacks that can be incorporated in next iterations
+       empowering the team the lean approach is based on agile principles of building products around motivated individuals and trusting them in getting the job done people are not treated just as mere resources but are valued on a larger scale
+       building integrity there should be a balance between flexibility maintainability efficiency and responsiveness that can be achieved by understanding the problem domain and solving it at the same time and one of the major ways to work towards integral architecture is refactoring
+       optimizing the whole lean thinking has to be understood well by all  members of the project before implementing in a concrete or real life situation think bug act smallfail fast and lean rapidly  these slogans summarize the importance of understanding the field
+
+
+
+
+ extreme programming
+extreme programming is an agile software development framework that aims at production of higher quality software keeping in view appropriate engineering practices to achieve its goal
+it regards software development project as a system  of four control variables which are as follows
+   oo    cost this describes the amount of money to be spent keeping in view the available resources
+   oo    time this determines when the system is to be released
+   oo    quality this describes the overall correctness of the system experienced form users customers point of view
+   oo    scope this determines the amount of functionality that will be required
+      time is the central variable in xp with all the other values having some form of functional dependency on it
+xp also defines five values which are used as guidelines throughout the development they are
+   oo    communication good communication is one of the key factors necessary for the success of software development customers need to communicate the requirements to the developers while developers need to commute to each other so as to achieve quality end products
+   oo    simplicity  xp strives for simple systems this means they should be as simple as possible but at the same time they must not compromise on quality and should work properlyxp also strives for simplicity in methodology
+   oo    feedback xp is a feedbackdriven process through constant feedbacks about previous efforts teams can identify areas of improvement and revise their practices feedback also supports simple design
+   oo    courage xp includes courage as well as a certain amount of aggressiveness courage is needed because a lot of rules and practices are extreme in a way that they go against tradition or wisdom of software engineering
+   oo    respect the members of the team should have mutual respect for each other in order to promote a cordial working environment so as to accomplish goals
+      
+      
+      
+      
+      
+ adaptive software developmentasd
+      asd aims at enabling teams to adapt to requirement changes quickly and effectively and is a direct outgrowth of an earlier agile framework rad it focuses on human collaboration and self organisation which helps to build a complex software and system jim highsmith and sam bayer are credited for the invention of asd methodology
+      this methodology focuses on end users leading to better and intuitive products while encouraging more transparency between developers and clients however it also requires extensive user involvement which is difficult to achieve
+      
+      phases of asd
+      the practices of asd are driven by a belief in continuous adaptation  a different philosophy and a different life cycle  geared to accepting continuous change as a norm
+      in this process the static plandesign is replaced by dynamic speculatecollaboratelearn lifecycle
+         oo          speculation in asd the term plan is replaced by speculate acknowledging the uncertainty of complex problems and encouraging exploration and experimentation iteration with short cycles are also encouraged speculate gives us more room to explore to make clear the realisation that we are unsure of
+         oo          collaboration the second conceptual component of asd is collaboration which needs the workers to be motivated complex applications are not built they evolve complex applications require that a larger volume of information to be collected analysed and applied to the problem
+         oo          learning once we admit to ourselves that we are flexible then learning practices  the learn part of the life cycle becomes vital for success
+            
+            this life cycle defined above has six basic characteristics
+                               mission focused
+                               feature based
+                               iterative
+                               timeboxed
+                               risk driven
+                               change tolerant
+
+
+
+
+ feature driven development
+
+fdd was introduced by jeff de luca and peter coad in  and is one of the agile software development methodologies that has emerged in the last decade or so  as an alternative to the traditional waterfall development model so as to avoid the weaknesses of the waterfall model by doing iterative development
+fdd is an agile highly adaptive software development process that 
+   oo    supports high iterations that are short
+   oo    emphasizes on quality on all the steps of production
+   oo    delivers frequently and tangible working results at all steps
+   oo    provides accurate and meaningful progress and status information with minimum overhead and disruption for developers
+
+there are six primary roles on an fdd projectthese are
+       project manager
+       chief architect
+       development manager
+       chief programmer
+       class owner
+       domain expert
+an individual can take on one or more roles
+
+the fdd life cycle involves the following key steps
+   oo    developing an overall model
+   oo    building feature list
+   oo    planning by feature
+   oo    designing by feature
+   oo    building by feature
+      
+this type of development is advantageous as it is highly adaptive and greatly stresses on designing and modeling aspects of the project however it does not address to issues related to project criticality
+
+
 

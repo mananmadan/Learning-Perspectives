@@ -1,82 +1,194 @@
-write short notes on following
-    scrum
-scrum works well for longterm complex projects that require stakeholder feedback which may greatly affect project requirements so when the exact amount of work cant be estimated and the release date is not fixed scrum may be the best choice
-scrum team  to  people
-this team does not include any of the traditional software engineering roles such as programmer designer tester or architect everyone on the project works together to complete the set of work they have collectively committed to complete within a sprint
-product owner the product owner is often someone from product management or marketing a key stakeholder or a key user
-scrum master the scrum master is responsible for making sure the team is as productive as possible the scrum master does this by helping the team use the scrum process by removing impediments to progress by protecting the team from outside and so on
-product backlog the product backlog is a prioritized features list containing every desired feature or change to the product 
-sprint planning meeting at the start of each sprint a sprint planning meeting is held during which the product owner presents the top items on the product backlog to the team the scrum team selects the work they can complete during the coming sprint that work is then moved from the product backlog to a sprint backlog 
-daily scrum each day during the sprint a brief meeting called the daily scrum is conducted this meeting helps set the context for each days work and helps the team stay on track
-sprint review meeting at the end of each sprint the team demonstrates the completed functionality at a sprint review meeting during which the team shows what they accomplished during the sprint 
-sprint retrospective also at the end of each sprint the team conducts a sprint retrospective which is a meeting during which the team including its scrummaster and product owner reflect on how well scrum is working for them and what changes they may wish to make for it to work even better
-sprint a sprint a timebox of one month or less during which a done useable and potentially releasable product increment is created usually sprints are limited to one calendar month
+emerging programming paradigms
+assignmentshort notes
+by rakesh kumar
+uco
+coe
+
+sno
 
 
 
 
+
+
+content
+scrum
 lean development
-lean software development lsd is an agile framework based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs the lean approach is also often referred to as the minimum viable product mvp strategy in which a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback
+extreme programming xp
+adaptive software development asd
+feature driven development
 
-lsd actually borrows its philosophy from the manufacturing industry which originated the lean development process as a way to optimize production and assembly lines to minimize waste and maximize customer value in fact it was originally called the toyota production system because automaker toyota invented this approach in the middle of the twentieth century as a way to streamline its production of cars and eliminate wasted time and resources any action that did not impact the functionality of the car being built and delivered was considered a waste under this system and therefore removed from the process
-eventually other manufacturing organizations across many industries began using this system and the name later changed to lean the methodology was first applied to the creation of software in  with the publication of the nowfamous book lean software development
-what are the strengths and weakness of lean software development
-lsds strengths include
-   oo    streamlined approach allows more functionality to be delivered in less time
-   oo    eliminates unnecessary activity and as a result can reduce costs
-   oo    empowers the development team to make decisions which can also boost morale
-lsds weaknesses include
-   oo    heavily depends on the team involved making it not as scalable as other frameworks
-   oo    depends on strong documentation and failure to do so can result in development mistakes
+ scrum
+scrum is an iterative and incremental approach for projects or application
+development it is structured in cycles of work called sprints which generally lasts
+less than a month requirements are prioritized by scrum team and commits to
+complete the selected items in the sprint during the sprint the chosen items do not
+change whole scrum team gathers every day for analysis of progress on sprint end
+the team reviews the sprint with stakeholders and give their feedback feedback
+items are completed in the next sprint
 
-extreme programming
-values of xp
-the five values of xp are communication simplicity feedback courage and respect and are described in more detail below
-communication
-software development is inherently a team sport that relies on communication to transfer knowledge from one team member to everyone else on the team xp stresses the importance of the appropriate kind of communication    face to face discussion with the aid of a white board or other drawing mechanism
-simplicity
-simplicity means what is the simplest thing that will work the purpose of this is to avoid waste and do only absolutely necessary things such as keep the design of the system as simple as possible so that it is easier to maintain support and revise simplicity also means address only the requirements that you know about dont try to predict the future
-feedback
-through constant feedback about their previous efforts teams can identify areas for improvement and revise their practices feedback also supports simple design your team builds something gathers feedback on your design and implementation and then adjust your product going forward
-courage
-kent beck defined courage as effective action in the face of fear extreme programming explained p  this definition shows a preference for action based on other principles so that the results arent harmful to the team you need courage to raise organizational issues that reduce your teams effectiveness you need courage to stop doing something that doesnt work and try something else you need courage to accept and act on feedback even when its difficult to accept
-respect
-the members of your team need to respect each other in order to communicate with each other provide and accept feedback that honors your relationship and to work together to identify simple designs and solutions
-     adaptive software development asd
-adaptive software development asd is a direct outgrowth of an earlier agile framework rapid application development rad it aims to enable teams to quickly and effectively adapt to changing requirements or market needs by evolving their products with lightweight planning and continuous learning the asd approach encourages teams to develop according to a threephase process speculate collaborate learn
+roles in scrum
+roles in scrum team are
+ the product owner tells the team on which items to work on product owner is
+responsible for the return of investment for the product
+ the team it is crossfunctional it is a selforganizing team which has the people
+who have the potential to develop the product they have a high degree of
+autonomy and accountability
+ the scrummaster the scrummaster helps the product group learn and apply
+scrum to achieve business value
 
-strengths and weakness of asd
-asds strengths include
-   oo    focused on the end users which can lead to better and more intuitive products
-   oo    allows for ontime and even early delivery
-   oo    encourages more transparency between developers and clients
-asds weaknesses include
-   oo    demands extensive user involvement which can be difficult to facilitate
-   oo    integrates testing into every stage which can add to a projects costs
-   oo    emphasis on rapid iterating and continuous feedback can lead to scope creep
+scrum ceremonies
+ sprint planning it is done at the start of a sprint in which requirements and
 
+timeline is decided it also has a doubt session
+ daily scrum it is a short meeting to keep everyone updated about the workitems
+ product backlog  of each scrum is dedicated to the refinement of the
+product backlog in this remaining work item are done which can be feedback
+items also
+ sprint review this meeting is done to retrospect sprint and check scope for
+improvement
 
-      feature driven development
-
-feature driven development fdd is an agile framework that as its name suggests organizes software development around making progress on features features in the fdd context though are not necessarily product features in the commonly understood sense they are rather more akin to user stories in scrum in other words complete the login process might be considered a feature in the feature driven development fdd methodology
+ lean development
+lean software development is an iterative agile methodology which was developed
+by mary and tom poppendieckaken it is derived from lean manufacturing whose
+goal is to have a simplified and streamlined approach lean software development
+methodology is used to reduce the cost of the project by reducing waste items it is
+widely used in it industry to reduce programming time lean development is based
+on following principles
 
 
-fdd was designed to follow a fivestep development process built largely around discrete feature projects that project lifecycle looks like this
-       develop an overall model
-       build a features list
-       plan by feature
-       design by feature
-       build by feature
-the framework has since gained widespread use particularly in larger organizations and today there is a thriving feature driven development community with its own website
-strengths and weakness of feature driven development
-fdds strengths include
-   oo    simple fivestep process allows for more rapid development
-   oo    allows larger teams to move products forward with continuous success
-   oo    leverages predefined development standards so teams are able to move quickly
-fdds weaknesses include
-   oo    does not work efficiently for smaller projects
-   oo    less written documentation which can lead to confusion
-   oo    highly dependent on lead developers or programmers
 
- 
+
+
+
+
+
+eliminating waste
+building quality in
+amplifying knowledge
+delaying commitment
+delivering fast
+respecting people
+optimizing the whole thing
+
+benefits of lean development methodology
+ it is a faster way to develop a product with less budget and other resources
+efficiency is improved by a considerable margin it allows to teams to have a
+more stream lined approach
+ scope of learning learning is increased with code reviewing lean development
+uses pair programming with which skillset of developers is enhanced
+ fast delivery lean development focuses on small but fast releases which allows
+developers to study the marketcustom behavior this allows a product to be
+developed incrementally along with continuous feedback
+ lean also tells to develop unit test cases alongside the code development which
+means testing can be done alongside the development thus reducing the time
+spent on testing the products
+
+pitfalls of using lean development methodology
+ implementation is not as it easy as it seems leader has to decide the goals which
+team can understand and do within timeframe it requires complete knowledge
+of the organization
+
+ extreme programming xp
+extreme programming is developed by kent beck extreme programming is a
+structured approach toward developing software quickly as well as maintaining
+quality it has high customer involvement multiple feedback loops and continuous
+planning in xp a working incremental software update is given every  weeks it
+also includes pair programming which allows the skills to flow across the
+developers
+
+principles of extreme programming are
+
+
+
+
+
+
+
+
+
+
+
+
+small releases
+simple design
+testing
+refactoring
+metaphor
+pair programming
+collective code ownership
+continuous integration
+weeks with  hours
+onsite customer
+maintained standard for code
+
+benefits of extreme programming
+ focus on continuous customer involvement increase transparency reduces time
+for development and allows to fix issues immediately
+ reduces time to incur changes with active customer involvement and running
+predetermined unit tests alongside development
+ reduced misunderstanding between customer and development team
+ changes can be accommodated anytime during the development
+
+roles in extreme programming
+ customer owner of the product has set of requirements and budget
+ developers team which develops the product everyone but customer is
+developer
+ coach leads the team about the increment in the product
+ tracker tracks the standards timeline and scope for improvement
+
+ adaptive software development asd
+adaptive software development is a cyclic software development model it is an
+upgraded version on rapid application development rad asd means to develop
+a new software by adapting to the available projects which are used as a template
+which leads to a faster development cycle
+phases of adaptive software development
+ speculation this is the planning phase of the development complete project
+path from requirements user needs timeline to release cycles are decided in this
+phase short iterations are encouraged in planning to avoid scaled mistakes
+ collaboration evolved applications require analyzing large volumes of
+information which can be applied to solve a problem this requires wide
+knowledge requirements that can be achieved only with team collaboration
+collaborate enables teams to wok jointly
+ learn reviews are done after each iteration which helps teams to enhance
+knowledge it also helps in deciding next work items among the teams
+
+benefits of adaptive software development
+ focuses on end users which helps in better products
+ timely delivery scope for early delivery also
+ transparency between customer and developers
+
+pitfalls of adaptive software development
+ unit test integration at every stage which increases the cost for development
+ continuous feedback from customer faster development and scope for rapid
+iterative may lead to slope creep
+ requires user involvement which is not always available
+
+ feature driven development
+feature driven developments is a stakeholder focused development strategy a
+feature is a client valued functions it is similar to user stories in scrum it is five
+step development process and follows standards which are easier to keep unlike
+scrum it uses backlog items or user features to develop one by one deciding
+features helps in faster development times
+
+processes in feature driven development
+
+
+
+
+
+
+develop overall model
+create a list of features to include
+plan features one by one
+design features one by one
+build features one by one
+
+benefits of feature driven development
+ feature hierarchy helps in prioritizing which features need to be developed first
+ feature list decomposes the user requirements which helps in avoiding slope
+creep and deciding time frame for development correctly
+ feature driven development uses unified modeling language uml which
+helps in expressing feature requirements and reduces miscommunication
+among large teams
 

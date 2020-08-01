@@ -3,18 +3,18 @@ from extract_kw import extract_keywords
 from one_hot_encoding import encode
 from write import write_score
 from count import count_keywords
-main_file = '/home/manan/Desktop/Research/Learning-Perspectives/data/data_notes/79'
+import os
+main_file = '/home/manan/Desktop/Research/Learning-Perspectives/data/data_notes/25'
 eval_file = '/home/manan/Desktop/Research/Learning-Perspectives/data/data_notes/'
-
 
 val =0
 temp =0
 
-for i in range(0,93):
+for i in range(1,54):
 
 # Filter the files
 
-#filter_files(main_file + str(i) + '.txt')
+#filter_files(eval_file + str(i) + '.txt')
 #filter_files(eval_file + '.txt')
 
 # generate nouns
@@ -33,8 +33,12 @@ for i in range(0,93):
 #print(val,temp)
 
 ## keywords extracted from the eval file will be stored for clustering 
-#count_eval = extract_keywords(eval_file+'.txt',noun_eval_file)
-
+ #count_eval = extract_keywords(eval_file+str(i)+'.txt',eval_file+str(i)+'n'+'.txt')
+  #if count_eval <10:
+   #os.remove(eval_file+str(i)+'.txt')
+   #os.remove(eval_file+str(i)+'n'+'.txt')
+ #print("kam",count_eval)
+ #print(eval_file+str(i)+'.txt')
 # one hot encoding
  encode(main_file+'n'+'.txt' ,eval_file+str(i)+'.txt',0)
  #print(x,main_score)

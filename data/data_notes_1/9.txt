@@ -1,0 +1,103 @@
+write short notes on following
+   oo     scrum
+           scrum is an agile framework for developing delivering and sustaining complex productswith an initial emphasis on software developmentit is a framework within which people can address complex adaptive problems while productively and creatively delivering products of the highest possible valuedue to its better satisfaction lower cost and lightweight it has wide variety of use and have  been used in fields fields like researches sales marketing and other advanced technologies                                      
+      scrum is designed for teams of ten or fewer members who break their work into goals that can be completed within timeboxed iterations called sprints which is not  longer than one month and most commonly two weeksscrum works by delivering large projects in small chunksbitesized product increments that a crossfunctional team can begin and complete in one short timeboxed iterationas the one iteration completes the team decide the what to do next on the basis of the feedbacks and this reduces waste minimizes the risk
+    benefits of scrum
+       increases ability to manage changing priorities
+       more alignment between business and it
+       greater ability to incorporate changes
+       provides better visibility into projects
+       faster time to market
+       better user satisfaction
+       lower cost
+       simple understanding
+       lightweight
+    scrum is dependent on the three pillars of empirical control process
+       inspectionscrum reviews  retrospectives offer inspection opportunities
+       adaptationscrum teams can adapt the product at the end of every sprint
+       transparencyscrum provides transparency
+
+
+   oo    lean development
+lean software development also known as  the minimum viable product mvp strategy is an agile framework which is  based on optimizing development time and resources eliminating waste and ultimately the goal is to  deliver only what the product needslean principles got their start in manufacturing as a way to optimize the production line to minimize waste and maximize value to the customer but its goal of of repeatable process and dedication to get the standard quality made it famous for the software development alsoin the lean development  developing team releases a bareminimum version of its product to the market learns from users and their feedback what they like dont like and want to be added and then iterates based on these feedback
+lean development depends on the following lean principles
+       eliminate the wasteeliminate the things which donot add any value to the customer
+       create knowledgeencourages lean teams to provide the infrastructure to properly document and retain valuable learning
+       get the best quality of the product
+       respect peopleteaches how to communicatehandle conflict and onboard new hires
+       fast deliverbuild a simple product and deliver to the customer and then increment it later with the feedbacks
+       optimization of whole
+       defer commitmentkeep option open and continuously collect information and then take any decision rather than making any decision
+ benefits of lean development
+       rationalizes and simplifies the development process
+       increases team involvement rate
+       prevents any loss
+
+
+
+   oo    extreme programming xp
+extreme programming xp is an agile software development methodology that aims to generates higher quality softwarealong with the higher quality of life of the development team and can easily adapt the ongoing changes in the demand of the customer ie extreme programming is a software development methodology which improve the software quality on the basis of changes  user stories his requirements and demands
+benefits of extreme programmingxp
+       slipped schedules and achievable development cycles ensures timely deliveries
+       extreme programming assists to create software faster and better
+       misunderstanding the business and domain
+       increase in staff turnover
+       simplicitydeveloper develops extremely simple codes which can be modify easily any time
+       changes are inevitable in extreme programming and accommodated at any point of time
+       costs incurred in changes ongoing testing makes sure the changes do not break the current functionality
+       the whole process of extreme programming is visible and accountable
+       extreme programming increases customer satisfaction
+         extreme programmingxp is based on the frequent iterations in which the developers implement the modifications made through the user storiesuser story is a conventional description by the user about a feature of the required system thier demands and requirementsit does not includes fine details such as the different scenarios that can occur laterthe basic activities that are followed in software development by using extreme programming model are codingcommunicationtestingdesigning and feedback
+methodology of extreme programming
+ 
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+   oo    adaptive software development asd
+      adaptive software development is a direct outgrowth of an earlier agile frameworkrapid application developmentradit is a method to build a complex software and systemsit focuses on selforganisation and human collaboration
+             life cycle of asd consist of three phases
+                   speculate the term plan is known as speculate in the asdduring this phase the project is initiated and planning of the project is conductedint initiation uses the information like user demandsrequirements to set the cycles to release it later
+                   collaboration  complex applications are not builtthey evolvecomplex applications require large volumes of data to be analyzed and to applied on the problems so it needs the workers to be motivatedit collaborates communication and teamwork but emphasizes individualism so that people can work together with full trust on each other without criticize assist without resentment work hard as much as possible and communication
+                   learnthis is tha vital for the success of the project teams and individuals has to constantly increase their knowledge by the practices such as technical reviewsretrospectives and customer focus group
+                          reviews should be done after each iterationsand both the customer 
+                       developers examine their assumptions and use the results of each cycle
+      advantages of asd
+             a better and stronger end product
+             a userfirst approach which leads to more intuitive piece of software
+             increases transparency between developers and customers
+             more likely to be on time
+      
+
+
+
+   oo          feature driven development
+      feature driven developmentfdd is an agile framework that organizes software development around making progress on featuresit is lightweight or agile method for developing softwareit is customer centric iterative and incremental with the goal of delivering tangible software results often and efficiently
+      feature driven development allows teams to update the project regularly and identify errors quickly and customersusers are provided with information and substantial results at any time demanded
+      in the fdd  basic activities exists
+                   develop overall model
+                   build feature list
+                   plan by feature
+                   design by feature
+                   build by feature
+            there are  stages in the feature driven development
+                   gathering of data collect content and context of the project so that model can be developed clearly
+                   development of overall modelby using the thesis as a guide the team now develops detailed domain model which can be later merged into the overall model 
+                   build a features listby using the information assembled in the first step we create a list of required features
+            advantages of feature driven development
+             featuredriven development helps to move larger size projects and    obtain repeatable success
+              it supports multiple teams working in parallel
+             it is well defined progress and reporting capabilities
+             the fdd helps to achieve target faster in easiest manner
+             promotes individual code ownership 

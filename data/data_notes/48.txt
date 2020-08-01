@@ -1,177 +1,161 @@
-write short notes on following
-      scrum
-      lean development
-      extreme programming xp
-      adaptive software development asd
-      feature driven development
+solution                                                                    uco
+
+
+scrum 
+
+scrum is an iterative process and incremental framework for product development as well as complex problems can be delivered at high possible value moreover it comes under an agile framework scrum has three main roles which is product owner scrum master and team 
+
+scrum has a lightweight management process and its process consist of roles events and artifacts due to this scrum is a lightweight framework
+
+scrum can choose the best way to accomplish work rather than being directed by someone other than the team  team members participating actively  collectively in all the scrum practices and events as well as it help the team to work together due to this reason scrum is selforganization
+
+scrum framework is easy to understand and then will be able to follow the rules due to this feature scrum is easy to understand
+
+working  brief
+
+the product backlog is created which contain required items than the team will arrange accordingly  afterwords a sprint planning meeting to defining goles each member is assigned a small task a daily scrum meeting is done to achieve integrity  when every user is completed their work it means sprint is completed
+
+advantages 
+ scrum is fast and economic it follows the divide and concur its adeptive in nature 
+
+disadvantages 
+not allowed to change in sprint daily meeting requires resources if the project is not clear then it difficult to proceed
+
+
+
+
+
+lean development
+its an agile framework its based on optimised development time and resources and removing all waste and delivering what product needs some time it also known as minimal variable product in this product there is a minimum version is released and based on the feedback and reviews  add the features as per requirements 
+
+lean development principal 
+
+       eliminating waste  removing unnecessary thing whic do not contribute to development or add values to customer
+
+       build quality  every team has a build quality of work 
+
+       create knowledge  require discipline and focus to implement can be done using pair programming and code review documentation 
+
+       defer commitment  it encourages team be responsible and always check for the option available 
+
+       deliver fast  every team wants to deliver fast and put value into the customer hands
+
+       respect for people  
+
+       optimization  the most important part is to optimize the whole process without affecting the final product 
+
+advantages 
+remove unnecessary code delivered in time work satisfaction competitive in nature
+
+disadvantages
+low margin for error heavy workload 
+
+
+
+
+
+
+
+extreme programming
  
-       scrum
-scrum includes the same types of activities as the waterfall methodology but rather than implementing the scrum is based on the principles of transparency to all stakeholders along with continuous inspection and adaptation to changing conditions scrum builds the application incrementally with each increment adding and improving features and functionality created by its predecessors
-pieces  parts
-using scrum requires people specific scrumroles information describing the features and functions of the application information needed to ensure that the workings of the project is transparent to everyone on the team and processes that govern the operation of the project team
-people  roles
-there are three types of roles internal to a scrum team and one thats external two of the internal roles are
-product owner
-the product owner is the primary interface between the team and the business owner and is responsible for maintaining and prioritizing the backlog of tasks to be performed this is performed transparently and collaboratively with the development team 
-scrum master
-the primary goal of the scrum master is keep the development team productive from the perspective of the product owner the scrum master represents the development team ensures that their issues concerns and roadblocks are taken into consideration by the product owner
+its most important framework of agile software development framework
+xp is used to build highquality products and a highquality life cycle of development
 
-       lean development
-lean development is the application of lean principles to software development lean principles got their start in manufacturing as a way to optimize the production line to minimize waste and maximize value to the customer of course there are some major differences between manufacturing and software development as well namely that manufacturing deals with the production of physical goods while the value being created in software development is created within the mind of the developer
-there are  lean development principles
-the seven lean principles are
-   oo 
-   eliminate waste
-   oo 
-   build quality in
-   oo 
-   create knowledge
-   oo 
-   defer commitment
-   oo 
-   deliver fast
-   oo 
-   respect people
-   oo 
-   optimize the whole
-eliminate waste
-one of the key elements of practicing lean is to eliminate anything that does not add value to the customer there are seven wastes or muda defined in each of these wastes should be systematically eliminated in order to maximize customer value
-   oo 
-   unnecessary code or functionality delays time to customer slows down feedback loops
-   oo 
-   starting more than can be completed adds unnecessary complexity to the system results in contextswitching handoff delays and other impediments to flow
-   oo 
-   delay in the software development process delays time to customer slows down feedback loops
-build quality in
-in trying to ensure quality many teams actually create waste    through excessive testing for example or an excessive logging of defects
-in lean development quality is everyones job not just that of the quality analyst
-these are some of the most popular lean development tools for building quality in
-   oo 
-   pair programming avoid quality issues by combining the skills and experience of two developers instead of one
-   oo 
-   testdriven development writing criteria for code before writing the code to ensure it meets business requirements
-   oo 
-   incremental development and constant feedback
-   oo 
-   minimize wait states reduce context switching knowledge gaps and lack of focus
-create knowledge
-the lean development principle of create knowledge is another one that seems simple but requires discipline and focus to implement this principle encourages lean teams to provide the infrastructure to properly document and retain valuable learning this can be done by using any combination of the following tools
-   oo 
-   pair programming
-   oo 
-   code reviews
-   oo 
-   documentation
-   oo 
-   wiki    to let the knowledge base build up incrementally
+xp is used where dynamic changes in software are required small and colocated team fixed time  small project and project involve new tech in this area xp is used 
 
-defer commitment
-this lean development principle is easily misused this lean principle encourages team to demonstrate responsibility by keeping their options open and continuously collecting information rather than making decisions without the necessary data
-to defer commitment means to
-   oo 
-   not plan in excessive detail for months in advance
-   oo 
-   not commit to ideas or projects without a full understanding of the business requirements
-   oo 
-   constantly be collecting and analyzing information regarding any important decisions
-deliver fast
-every team wants to deliver fast to put value into the hands of the customer as quickly as possible here are a few common problems 
-   oo 
-   thinking too far in advance about future requirements
-   oo 
-   blockers that arent responded to with urgency
-   oo 
-   overengineering solutions and business requirements
-lean development is based on this concept build a simple solution put it in front of customers enhance incrementally based on customer feedback this is important especially in software because speed to market is an incredible competitive advantage
+lifecycle 
 
-       extreme programming xp
+planning  first stage of xp development life cycle  to set the goles of entire project and creat iterative cycles 
 
-definition
-extreme programming xp is an agile software development framework that aims to produce higher quality software and higher quality of life for the development team xp is the most specific of the agile frameworks regarding appropriate engineering practices for software development
+designing  teams define their main features of the future code and creat as simple design  and ofter share responsibility for the design of the code
 
-when applicable
-the general characteristics
-   oo    dynamically changing software requirements
-   oo    risks caused by fixed time projects using new technology
-   oo    small colocated extended development team
-   oo    the technology you are using allows for automated unit and functional tests
-values
-the five values of xp are communication simplicity feedback courage and respect and are described in more detail below
-communication
-software development is inherently a team sport that relies on communication to transfer knowledge from one team member to everyone else on the team
+coding  xp develops believe that a good code must be simple to understand  due to this refactor is done without affecting the final product 
 
-simplicity
-simplicity means what is the simplest thing that will work the purpose of this is to avoid waste and do only absolutely necessary things such as keep the design of the system as simple as possible so that it is easier to maintain support and revise
+testing  in xp testing is not done in after final or intermediate development rather it done along with the code written 
 
-feedback
-through constant feedback about their previous efforts teams can identify areas for improvement and revise their practices feedback also supports simple design 
+listing   at final stage must get feed back from customer and change according to that 
 
-courage
-kent beck defined courage as effective action in the face of fear extreme programming explained p  this definition shows a preference for action based on other principles so that the results arent harmful to the team
+advantage 
+fast development with the help of regular testing 
+xp helps to increase customer satisfaction 
+xp process is visible and accountable
 
-respect
-the members of your team need to respect each other in order to communicate with each other provide and accept feedback that honors your relationship and to work together to identify simple designs and solutions
+disadvantage
+ xp is not best option if programmers are separated
+code quality is not measured
 
-practices
-the core of xp is the interconnected set of software development practices listed below while it is possible to do these practices in isolation many teams have found some practices reinforce the others and should be done in conjunction to fully eliminate the risks you often face in software development
-the xp practices have changed a bit since they were initially introducedthe original twelve practices are listed below 
-   oo    small releases
-   oo    the planning games
-   oo    metaphor
-   oo    simple design
-   oo    testing
-   oo    refactoring
-   oo    pair programming
-   oo    collective ownership
-   oo    continuous integration
-   oo    hour week
-   oo    onsite customer
-   oo    coding standard
 
-       adaptive software development
-adaptive software development practices provide ability to accommodate change and are adaptable in turbulent environments with products evolving with little planning and learning
 
-phases of asd life cycle
-adaptive software development is cyclical like the evolutionary model with the phase names reflecting the unpredictability in the complex systems the phases in the adaptive development life cycle are 
-   oo    speculate
-   oo    collaborate
-   oo    learn
-these three phases reflect the dynamic nature of adaptive software development the adaptive development explicitly replaces determinism with emergencethe adaptive software development lifecycle focuses on results not tasks and the results are identified as application features
 
-speculate
-the term plan is too deterministic and indicates a reasonably high degree of certainty about the desired result in adaptive software development the term plan is replaced by the term speculate while speculating the team does not abandon planning but it acknowledges the reality of uncertainty in complex problems speculate encourages exploration and experimentation iterations with short cycles are encouraged
+
+
+
+adeptive software development 
+
+its a way to build complex software and system  is based on rda 
+its aim to adept the changing requirements and market need 
+asd is developed in three phases 
+  
+       speculate     collaborate       learn 
+  in this phase project is initiated and planning is conducted
+all the necessary info is collected requirements user need and all other things so that cycle can be created 
 
 collaborate
-complex applications are not built they evolve complex applications require that a large volume of information be collected analyzed and applied to the problemcollaborate would require the ability to work jointly to produce results share knowledge or make decisions
-in the context of project management collaboration portrays a balance between managing with traditional management techniques and creating and maintaining the collaborative environment needed for emergence
+collaborate communicate and teamwork and individual plays a major role in thinking
+teamwork selfbelief work hard communicate
+ 
 
-learn
-the learn part of the lifecycle is vital for the success of the project team has to enhance their knowledge constantly using practices such as 
-   oo    technical reviews
-   oo    project retrospectives
-   oo    customer focus groups
+learning 
+it helps to understand the overall project it divided into  parts focus group technical reviews  project postmortem 
 
 
-       featuredriven development fdd
+advantages
+focused on the end user to get the more better and intuitive produc
+on time and early delivery
+more transparency between developers and clients
+
+disadvantages
+testing at every stage which can increase total cost
+ rapid iterating and continuous feedback can lead to scope creep
 
 
-featuredriven development fdd is a customercentric software development methodology known for short iterations and frequent releases like scrum fdd requires the customer also known as the project business owner to attend the initial design meeting and iteration retrospective
 
-steps of featuredriven development
-featuredriven development is made up of five basic process steps
-       develop a model the overall model is created by the chief architect or another professional leading the project by identifying the scope and context of the system
-       build a list of features developers brainstorm a list of potential items that would be useful to users and could be completed along a set timeline for release each feature should be manageable within a timeframe of around two weeks
-       plan out each feature features are organized by how long they take to create and how important they are to the client ownership of each feature is also assigned
-       design each feature the actual details of each feature are produced inspected and finalized
-       build each feature after the design is improved the completed feature is added to the official build for delivery to the client
-best practices for featuredriven development
 
-to achieve the highest level of success fdd is built around overall software engineering best practices this includes
-   oo    identifying the domain object model or the scope of the problem that needs to be solved to help with the framework for feature development
-   oo    breaking down complex features into smaller functions and subsets
-   oo    assigning features to a single owner to ensure consistency and code integrity
-   oo    building dynamic and diverse feature teams to collect multiple design options
-   oo    performing routine code inspections of each feature before implementation into the main build
+
+
+
+
+
+featuredriven development
+is an iterative and incremental development processits a lightweight developing software its main purpose is to deliver tangible working software repeatedly in a timely manner
+
+five phases planning 
+
+ develop overall model  initialization of project  scope of the system and its context  and models created for each area 
+
+building feature list   knowledge gathering during initial modeling to identify all the aspects and requirements and functional dependencies 
+
+plan by features  when the feature list is completed its time to assign a task to programmers
+
+design by features main programmer select groups and their task which need to be develop in week and with other programmes work on the sequential diagram
+ 
+
+build by features  when successful design and inspected and after successful testing of code product is send to the main build
+
+
+advantages 
+works better for a large project 
+simple process to develop rapid development
+with the large team product move forward continuous success
+
+disadvantages
+not good for small projects 
+less written documentation
+high dependencies on programmers
+
+
+
+
 
 
 

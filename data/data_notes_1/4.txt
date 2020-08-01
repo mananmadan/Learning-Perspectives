@@ -1,0 +1,254 @@
+epp assignment
+name ankush grover
+roll no uco
+
+write short notes on following
+
+
+
+scrum
+
+scrum is an agile project management methodology or framework used primarily for software
+development projects with the goal of delivering new software capability every  weeks it is one
+of the approaches that influenced the agile manifesto which articulates a set of values and
+principles to guide decisions on how to develop higherquality software faster
+scrum addresses complexity in work by making information transparent so that people can inspect
+and adapt based on current conditions rather than predicted conditions this allows teams to
+address the common pitfalls of a waterfall development process chaos resulting from constantly
+changing requirements underestimation of time resources and cost compromises on software
+quality and inaccurate progress reporting transparency of common terms and standards is required
+in scrum development to ensure that what is being delivered is what was expected frequent
+inspection ensures progress and detects variances early on so that adjustments can be made quickly
+components of scrum development
+the scrum team
+ the product owner
+the product owner is the projects key stakeholder or a spokesperson for the customer there is
+only one product owner who conveys the overall mission and vision of the product which the team
+is building
+ the scrummaster
+with no hierarchial authority over the team but rather more of a facilitator the scrummaster
+ensures that the team adheres to scrum theory practices and rules the scrummaster protects the
+team by doing anything possible to help the team perform at the highest level this may include
+removing impediments facilitating meetings and helping the product owner groom the backlog
+ the development team
+the development team is a selforganizing crossfunctional group armed with all of the skills to
+deliver shippable increments at the completion of each sprint there are no titles in the
+development team and no one including the scrummaster tells the development team how to
+turn product backlog items into potentially shippable increments
+scrum events ceremonies
+ the sprint
+a sprint is a timeboxed period during which specific work is completed and made ready for review
+sprints are usually  weeks long but can be as short as one week
+ sprint planning sprint
+planning team meetings are timeboxed events that determine which product backlog items will be
+delivered and how the work will be achieved
+
+ the daily standup
+the daily standup is a short communication meeting no more than  minutes in which each
+team member quickly and transparently covers progress since the last standup planned work
+before the next meeting and any impediments that may be blocking his or her progress
+ the sprint review
+the sprint review is the showandtell or demonstration event for the team to present the work
+completed during the sprint the product owner checks the work against predefined acceptance
+criteria and either accepts or rejects the work the stakeholders or clients give feedback to ensure
+that the delivered increment met the business need
+ the retrospective
+the retrospective or retro is the final team meeting in the sprint to determine what went well
+what didnt go well and how the team can improve in the next sprint attended by the team and the
+scrummaster the retrospective is an important opportunity for the team to focus on its overall
+performance and identify strategies for continuous improvement on its processes
+scrum artifacts
+product backlog
+the product backlog is the single most important document that outlines every requirement for a
+system project or product the product backlog can be thought of as a todo list consisting of work
+items each of which produces a deliverable with business value backlog items are ordered in terms
+of business value by the product owner
+sprint backlog
+a sprint backlog is the specific list of items taken from the product backlog which are to be
+completed in a sprint
+increment
+an increment is the sum of all product backlog items that have been completed since the last
+software release while it is up to the product owner to decide on when an increment is released it
+is the teams responsibility to make sure everything that is included in an increment is ready to be
+released this is also referred to as the potentially shippable increment psi
+scrum rules
+the rules of agile scrum should be completely up to the team and governed by what works best for
+their processes the best agile coaches will tell teams to start with the basic scrum events listed
+above and then inspect and adapt based on your teams unique needs so there is continuous
+improvement in the way teams work together
+
+
+
+lean development
+
+lean software development lsd is an agile framework based on optimizing development time
+and resources eliminating waste and ultimately delivering only what the product needs the lean
+approach is also often referred to as the minimum viable product mvp strategy in which a team
+releases a bareminimum version of its product to the market learns from users what they like
+dont like and want to be added and then iterates based on this feedback
+many organizations have found the lsd methodology to be an excellent approach to software
+development because of its streamlining of the process and forcing the team to ruthlessly cut away
+
+any activity that doesnt directly affect the final product but an organization must have an
+outstanding development team and trust that team implicitly for this approach to be successful
+additionally by waiting until the last minute to make decisions the cost of change remains much
+less iterative development is utilized to deliver new applications or enhancements as quick as
+possible integrity is built into the software to ensure architecture and that system components flow
+well together organizations incorporate lean development principles to achieve continuous
+improvement as changes are rapidly implemented
+lean software development is a set of principles that can be applied to software development to
+decrease programming effort budgeting and defect rates by one third the principles were adapted
+from lean manufacturing by mary and tom poppendieck this approach is beneficial to an
+organization because agile iterations eliminate extensive preplanned specifications user stories
+rather than large upfront specs are easily understood by each team member and simpler to
+communicate
+lean development makes it possible to gain information straight from the source therefore
+eliminating the common problem of producing software that does not address the customers needs
+short iterations provide an opportunity to communicate small sets of plans up front and allow the
+team to make decisions in order to adapt to unforeseen circumstances organizations that have the
+ability to complete fast simple improvements in the shortest time frame gain powerful decisionmaking benefits
+
+
+
+extreme programming xp
+
+extreme programming xp is one of the most important software development framework of agile
+models it is used to improve software quality and responsive to customer requirements the
+extreme programming model recommends taking the best practices that have worked well in the
+past in program development projects to extreme levels
+basic principles of extreme programming xp is based on the frequent iteration through which
+the developers implement user stories user stories are simple and informal statements of the
+customer about the functionalities needed a user story is a conventional description by the user
+about a feature of the required system it does not mention finer details such as the different
+scenarios that can occur the development team may decide to build a spike for some feature a
+spike is a very simple program that is constructed to explore the suitability of a solution being
+proposed it can be considered similar to a prototype some of the basic activities that are followed
+during software development by using xp model are given below
+ coding the concept of coding which is used in xp model is slightly different from traditional
+coding here coding activity includes drawing diagrams modeling that will be transformed
+into code scripting a webbased system and choosing among several alternative solutions
+ testing xp model gives high importance on testing and considers it be the primary factor to
+develop a faultfree software
+ listening the developers needs to carefully listen to the customers if they have to develop a
+good quality software sometimes programmers may not have the depth knowledge of the
+system to be developed so it is desirable for the programmers to understand properly the
+functionality of the system and they have to listen to the customers
+ designing without a proper design a system implementation becomes too complex and very
+difficult to understand the solution thus it makes maintenance expensive a good design results
+elimination of complex dependencies within a system so effective use of suitable design is
+emphasized
+
+ feedback one of the most important aspects of the xp model is to gain feedback to understand
+the exact customer needs frequent contact with the customer makes the development effective
+ simplicity the main principle of the xp model is to develop a simple system that will work
+efficiently in present time rather than trying to build something that would take time and it may
+never be used it focuses on some specific features that are immediately needed rather than
+engaging time and effort on speculations of future requirements
+
+
+
+adaptive software development asd
+
+adaptive software development is a method to build complex software and system asd focuses
+on human collaboration and selforganisation
+adaptive software development practices provide ability to accommodate change and are
+adaptable in turbulent environments with products evolving with little planning and learning
+phases of asd life cycle
+adaptive software development is cyclical like the evolutionary model with the phase names
+reflecting the unpredictability in the complex systems the phases in the adaptive development life
+cycle are 
+
+
+speculate
+
+
+
+collaborate
+
+
+learn
+these three phases reflect the dynamic nature of adaptive software development the adaptive
+development explicitly replaces determinism with emergence it goes beyond a mere change in
+lifecycle to a deeper change in management style adaptive software development has a dynamic
+speculatecollaboratelearn lifecycle
+the adaptive software development lifecycle focuses on results not tasks and the results are
+identified as application features
+speculate
+the term plan is too deterministic and indicates a reasonably high degree of certainty about the
+desired result the implicit and explicit goal of conformance to plan restricts the managers ability
+to steer the project in innovative directions
+in adaptive software development the term plan is replaced by the term speculate while
+speculating the team does not abandon planning but it acknowledges the reality of uncertainty in
+complex problems speculate encourages exploration and experimentation iterations with short
+cycles are encouraged
+collaborate
+complex applications are not built they evolve complex applications require that a large volume
+of information be collected analyzed and applied to the problem turbulent environments have
+high rates of information flow hence complex applications require that a large volume of
+information be collected analyzed and applied to the problem this results in diverse knowledge
+requirements that can only be handled by team collaboration
+
+collaborate would require the ability to work jointly to produce results share knowledge or make
+decisions
+in the context of project management collaboration portrays a balance between managing with
+traditional management techniques and creating and maintaining the collaborative environment
+needed for emergence
+learn
+the learn part of the lifecycle is vital for the success of the project team has to enhance their
+knowledge constantly using practices such as 
+
+
+technical reviews
+
+
+
+project retrospectives
+
+
+customer focus groups
+reviews should be done after each iteration both the developers and customers examine their
+assumptions and use the results of each development cycle to learn the direction of the next
+we observe the following from an adaptive framework
+
+
+it is difficult to collaborate without learning or to learn without collaborating
+
+
+
+it is difficult to speculate without learning or to learn without speculating
+
+
+it is difficult to speculate without collaborating or to collaborate without
+speculating
+
+
+
+feature driven development
+
+feature driven development fdd is an agile framework that as its name suggests organizes
+software development around making progress on features features in the fdd context though
+are not necessarily product features in the commonly understood sense they are rather more akin
+to user stories in scrum in other words complete the login process might be considered a feature
+in the feature driven development fdd methodology
+if youre with a big corporation or are working on a largescale software project fdd might be
+right for your project but this methodology relies heavily on chief developers and has a topdown
+decisionmaking approach as opposed to some of the other agile frameworks that are based more
+on collective project ownership if that type of methodology fits your companys culture then
+feature driven development is worth investigating
+fdd was designed to follow a fivestep development process built largely around discrete
+feature projects that project lifecycle looks like this
+ develop an overall model
+ build a features list
+ plan by feature
+ design by feature
+ build by feature
+pros of fdd
+ simple fivestep process allows for more rapid development
+ allows larger teams to move products forward with continuous success
+
+ leverages predefined development standards so teams are able to move quickly
+cons of fdd
+ does not work efficiently for smaller projects
+ less written documentation which can lead to confusion
+ highly dependent on lead developers or programmers
+

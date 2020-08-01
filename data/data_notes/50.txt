@@ -1,10 +1,61 @@
-q write short notes on following
-   oo     scrum
-   oo     lean development
-   oo     extreme programming xp
-   oo     adaptive software development asd
-   oo     feature driven development
+write short notes on following
+          scrum
+scrum software development methodology is an agile framework it focuses on developing and maintaining complex products it can be applied to other fields such as research it is best suited for small teams of  members the whole work is divided into iterations which are called sprints these sprints are usually small periods of time usually  weeks and no more than  month during these sprints some predetermined task is to be completed and no extension of this period is allowed 
+daily meetings known as scrum meetings are held which are  min timed meetings to demonstrate and track progress at the end of a sprint a sprint review takes place to review and improve work
+there are  roles in a scrum framework to make it work ideally
+       product owner  the stakeholder of the product and who represents the voice of the customer a scrum team should have only one product owner the product owner takes care of the business aspect of the product and is responsible for the success of the product they should have a deep understanding of both the customer side and the developer side they are the key communicator for the whole product
+       development team  this consists of a team of  members who carry out all the tasks which are needed to build the product in increments they give valuable output every sprint the team should be selforganizing in nature and they are given all the required information only through scrum master and product owner 
+       scrum master  scrum master is a person who is responsible for the implementation of scrum framework for development they oversee the whole process of scrum and lead the daily scrum meetings they are not the typical managers or leaders their job is to keep the development team from getting distracted and help them to team in various things like determining the definition of finished product coaching the team for delivering high quality product facilitating team events to make progress faster
 
- scrum
- 
+          lean development
+lean development is a software development methodology under agile development it derives its principles from lean manufacturing and translates them into software development domain its main purpose is to eliminate wasteful steps and do only what a customer would pay to be done for their product all other steps are unnecessary and hence to be avoided lean is based on a solid conceptual framework and values which are gained from experience 
 
+the main  elements of of lean software development are
+       eliminate waste  this refers to the activities which are not adding value to the final product that the customer needs these activities should be eliminated some examples are  partially finished product tasks switching defects extra features relearning waiting
+       amplify learning  the software development process is sped up by using shorter iteration cycles this allows for faster code refactoring and unit integration testing 
+       decide as late as possible  software development includes certain decisions which are to be made sometime during the whole process and once they are made the further progression will be based on those decisions to ensure that the crucial decisions are not uncertain they should be delayed as long as possible to avoid any unnecessary work
+       deliver as soon as possible  customers value fast delivery of quality products the aim should be to deliver a functioning product without any defects as fast as possible to get feedback from customers and start working on the next iteration 
+       empower the team  the managers should respect and trust the developers on making the right decisions and not micro manage them the developers shouldnt be seen just as a resource but as an individual who needs motivation and a higher sense of purpose to continue working at an excellent level
+       build integrity in  customers need to be informed and should be up with the progress and each step of development they should be given information in a regular manner and in an easy to understand yet detailed manner large documentation should be avoided for this purpose
+       optimize the whole  the final product is a system which contains many small units and subunits during the final testing the product should be optimized as a whole rather than working individually on the units 
+
+          extreme programming xp
+extreme programming is a software development methodology which comes under agile development it aims to provide a high quality product and cater to changing requirements of the customer and also aims to improve the quality of life of the developers of all the agile development frameworks extreme programming is the most specific one regarding appropriate programming practices it works on interactions of releases of software to incorporate new requirements with each checkpoint extreme programming takes the beneficial practices of software development to the extreme 
+there are  main activities in extreme programming
+       coding  the actual activity of a software development process 
+       testing  it is the central focus of extreme programming it eliminates the flaws of the product a lot of testing means a lot of flaws are eliminated unit integration testing takes place frequently which tests a feature acceptance tests are used to verify fulfillment of customers requirements system wide integration testing is also performed regularly
+       listening  this refers to the requirement elicitation process which programmers must go through with their customers to deliver them the best possible product for their needs
+       designing  for the long term functioning and maintenance of a product good design is essential there shouldnt be complex dependencies between in the product which might make future revisions or feature additions too expensive and time consuming
+there are  main values of extreme programming
+       communication  software development is a process which is carried out by a group of people hence good and effective communication is essential communication involving explaining mechanisms  through usage of white boards or presentations are an effective way to communicate one team members knowledge to the whole team 
+       simplicity  the purpose is to avoid wasting time and resources on unnecessary things the simplest solution of a problem is usually the best solution as this makes current development easier as well as makes future development and maintenance easier
+       feedback  constant feedback about ongoing and past development is essential to improve the quality of product it also helps to improve the design of the whole implementation
+       courage  this refers to the ability of a team member to face the tough decisions and make them with the product and development teams best interest in mind it also means to have the courage to stop doing something which isnt going to be effective and move on to a better option
+       respect  the members of the team need to respect each other to communicate effectively and trust them for working together
+      
+           adaptive software development asd
+adaptive software development is a software development methodology evolved from rapid application development method asd replaces the traditional waterfall cycle method with a series of speculate collaborate and learn this provides for continuous improvement and learning the asd life cycle is feature driven mission focused iterative and time limited it is dynamic to adapt to changes in requirements it focuses on results not tasks 
+
+the asd life cycle is divided into  phases
+       speculate  when the plan is determined and is certain of some specific outcomes and strategies it is hard to innovate therefore the term plan is replaced by speculate this allows the team to view the uncertainty of complex problems and helps to come up with new and innovative solutions
+       collaborate  this basically refers to the communication which is essential for the development of a complex product the amount of information which flows around the development team is large and for proper evolution of complex products collaboration is needed between team members
+       learn  the learn part refers to enhancement of the knowledge of team members using practices like technical reviews project retrospectives and customer focus groups
+
+           feature driven development
+feature driven development is an agile software development methodology it is an incremental and iterative development process the aim is to create a tangible and functional software in a timely manner feature driven development is an architecturecentric short iteration process which consists of  basic activities there are milestones set for each feature to track the progress of the whole project 
+the five basic activities are 
+       develop an overall model 
+       build a feature list 
+       plan by feature
+       design by feature
+       build by feature
+the first  activities give a high level understanding of the project and the overall shape of the model is specified the last  activities are iterated over for each feature
+a collection of supporting roles are defined in fdd
+   oo    domain manager
+   oo    release manager
+   oo    build engineer
+   oo    toolsmith
+   oo    system administrator
+   oo    tester 
+   oo    deployer
+   oo    technical writer

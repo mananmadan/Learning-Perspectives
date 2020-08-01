@@ -1,0 +1,140 @@
+write short notes on following
+ scrum
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+ 
+
+
+answers starting from next page
+submitted by
+abhyarchi harsh
+uco
+
+
+
+
+
+
+
+
+
+scrum
+scrum is a process of developing software that helps developers achieve their goal methodically it is a subset of agile development
+scrum is basically a strategy by which all the developers plan and then cooperate to work towards a common problem systematically 
+it is best suited when a team with different functional areas is working on the same product and the work can be split in  weeks duration 
+it starts with the team meeting to understand the product backlog  take notes of what needs to be completed and how much time itll take
+scrum also uses the agile methodology sprints  a period of time when development actually takes place it lasts anywhere from a week to a month and the goal is to produce a saleable product there are sprint reviews after every completed sprint where the entire team reviews the result of the sprint along with the stakeholders so that any feedback and comments can be integrated in future sprints sprint retrospective needs to be performed after the review so that the next sprint backlog can be defined
+there are daily standups  or daily scrums  where the team meets to discuss whats been done and whats on the table to be done for the day
+scrum works on values like commitment focus openness and respect each member is expected to have or learn these values during the process for a successful scrum
+principles such as transparency inspection and adaptation are very crucial to any scrum team and work as its backbone 
+scrum lifecycle
+       scrum planning product backlogs
+       sprint planning  how to complete product backlogs
+       sprint development  developing of the features decided in sprint planning
+       daily scrum meets  to be aware of things done and to be done
+       sprint review  to review requirements supposed to be met vs what did and take feedback
+       sprint retrospective  use feedback to address features of next sprint plan
+       repeat steps  until all product requirements are met
+lean development
+lean software development lsd is an agile framework which focuses on what is the most important thing that needs to be covered and based on optimizing development time and resources and eliminating waste it delivers what the product needs it is oftentimes also called the minimal viable productmvp strategy in which a team releases a very basic version of its product gets user feedback on what could be added improved and then works upon this feedback
+the main motives here remain optimisation of resources and reduce waste  but also covering all needs
+the advantages include a very streamlined approach with a clear idea of what needs to be worked upon it gets rid of unnecessary activity which can ultimately reduce expense it also empowers the development team to make its decisions not relying on the managers to instruct them  thus boosting morale
+some disadvantages could be the lack of scalability  since it depends a lot on the team working on it that it might not be possible to reproduce the process if another team starts working on it it also depends on very clearly defined requirements and if those arent correctly identified could be a major loss
+the one major benefit of lean development would be that since it works on continuous feedback the requirements are originated straight from the source thus does not include any unwanted developments
+it is based on  major principles
+       elimination of waste and unwanted features
+       amplifying learning
+       dealing with late decision making
+       ensuring fast delivery
+       encouraging team empowerment
+       building trust and integrity
+       viewing the application as a whole  not in parts
+      
+      
+extreme programming
+it is a very specific agile methodology which focuses on creating higher quality products that can adapt with changing requirements while maintaining high quality life of the development team it is very specific regarding the appropriate engineering practices for developing software
+it is built on  fundamental values
+       simplicity do what and how much needs to be done
+       communication every smallest requirement and code to be communicated  do it together
+       feedback keep in mind every small iteration work on it demo early take feedback work on it
+       respect respect each and every input and every person giving it
+       courage no false excuses owning failures and working on them
+works on some extreme rules and extreme practices that ensure high quality software to be produced extreme programming assumes that the cost of changing a program can be held constant over time
+
+it involves
+   oo 
+   unit tests written before programming and keeping all of the tests running at all times these are automated and recognize defects early in development
+   oo 
+   simple design meeting requirements first but redesign should be feasible as and when required
+   oo 
+   pair programming  two programmers at one screen taking turns one of them is at the keyboard the other constantly reviews and provides inputs
+   oo 
+   testing happens throughout the day
+   oo 
+   shipping out minimal working product early then upgrading it very frequently keeping in mind needs and feedback
+
+      
+
+benefits include rapid development working quickly on feedback low defect rates high scalability reduced costs high customer satisfaction and also high work satisfaction
+
+
+
+
+
+
+
+
+
+adaptive software development
+
+
+
+it is a method that focuses on building very complex softwares and systems works on human collaboration and self organisation
+
+
+
+asd life cycle
+    
+   speculation
+    
+   collaboration
+    
+   learning
+
+
+
+speculation aims at collecting project needs and planning on how to meet those needs with every release  what features to work on
+
+collaboration is the most crucial part where individuals as a team collaborate and work on the product requirements trusting fellow teammates and being open to criticism are very important qualities that every team member should possess
+
+learning is a way to make sure that the developers working on the product should have the appropriate and up to date knowledge of the skillset they would be using learning can happen in ways like focus groups technical reviews and project postmortem
+
+
+
+these practices accommodate change and are adaptable in frequently changing environments with products being developed with minimal planning and learning
+
+
+
+feature driven development
+
+it is an agile framework focusing on planning software development by making progress on given features to work on they may not necessarily be product features but can be compared to user stories in scrum
+
+project lifecycle in a fdd framework is
+    
+   develop an overall model
+    
+   make a list of features
+    
+   plan according to a feature
+    
+   design around the feature
+    
+   build the feature
+
+advantages of this include faster development with a defined step lifecycle can move forward with a product with continuous successful integrations
+
+disadvantages include high dependence on software developers not effective for small projects and no very clear documentation  can lead to confusion
+
+should be used with large scale products which are being developed by highly skilled developers who can handle all the usecases of the product themselves and deliver products with high expertise

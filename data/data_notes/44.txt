@@ -1,1 +1,311 @@
+                        emerging programming paradigms
+                                    ced
+                                                                               
+                                                                    shivam garg
+                                                                    uco
+                                                                        coe  
+
+
+ques  write short notes on following
+       scrum
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+
+
+
+
+
+
+
+  scrum
+
+      scrum is an agile framework in which it is believed that the team doesnt know everything at the start of a project and will learn through a continuous process of learning it is a heuristic framework where the developers team addresses complex problems their aim is to deliver a product which has good productivity and creativity it uses an iterative process with short release cycles so that the teams can learn and improve from changing conditions and user requirements
+
+salient features of scrum
+   oo 
+   the framework supports collaboration and self organization of work
+   oo 
+   the team work closely to develop the project
+   oo 
+   scrum team self managers the activities within the timebox
+
+scrum roles
+   oo 
+   scrum master  scrum is initiated by a scrum master who is responsible for removing obstacles for the team and defining the product goals
+   oo 
+   product owner  the product owner represents the products stakeholder who is responsible for delivering good business results
+   oo 
+   development team  the development team has  to  members who carry out all the implementations required to build and develop every sprint goal
+
+scrum ceremonies
+   oo 
+   sprint a sprint has a timebox of one month or less after the completion of the previous sprint a new sprint starts immediately with a new goal
+   oo 
+   sprint planning  at the beginning of a sprint the scrum team holds a sprint planning event to have a short description of what they are going to deliver at the end of the sprint product backlog etc
+   oo 
+   daily scrum  during the daily scrum each team member typically answers three questions which are  what did i complete yesterday what do i plan to complete today and do i see any impediment in the sprint goal
+   oo 
+   sprint review in this stage the unachievable features of the product are checked  and then the product is passed onto the sprint retrospective stage
+   oo 
+   sprint retrospective quality of the product is analysed in this stage
+   oo 
+   product backlog the product is organized according to the priority features
+   oo 
+   sprint backlog product assigned features to sprint and sprint planning meeting are two parts of sprint backlog
+
+advantages of scrum 
+   oo 
+        scrum framework is fast and cost efficient
+   oo 
+        it divides the larger product into various smaller subproducts
+   oo 
+        constant feedback taken by the scrum framework increases the quality of the product
+
+      
+
+disadvantages of scrum
+   oo 
+        scrum framework doesnt allow modifications in sprint goals
+   oo 
+        it lacks a described model 
+   oo 
+        it is difficult to plan organize and structure a project that doesnt have a  clear understanding of what the project does and so on
+
+
+
+
+
+
+
+ lean software development
+
+      lean software development is an agile framework based on optimizing development time and resources eliminating waste and fulfilling the products requirements the lean approach is also known as the minimum viable product  strategy as the team first develops a bareminimum version of the product which can be supplied to the market takes the feedback from the users learns from users feedback and then proceeds further based on the inferences that is gained from the feedback
+
+      
+
+principles to lean software development
+         oo 
+         eliminating waste  remove everything which is not adding value to the customer such as partially done work extra features relearning task switching waiting handoffs defects management activities
+         oo 
+         building quality in  this principle is to ensure that quality is maintained all along the process
+         oo 
+         amplifying knowledge  lean teams are encouraged to provide the proper document and retain valuable learning
+         oo 
+         delaying commitment   the team is encouraged to demonstrate in a responsible manner they do so by keeping their options open and continuously collecting information decisions are not taken without referring to the necessary data
+         oo 
+         delivering fast  this principle follows this concept  build a simple solution bring it to the customers and potential users modify incrementally based on customer feedback
+         oo 
+         respecting people  lean development teams are encouraged to have proactive communication healthy conflicts empowering team members
+         oo 
+         optimizing the whole thing  lean principles aim to achieve higher performance by optimizing the teams workflow creating a sense of unity among the team and giving a sense of shared responsibility and shared objectives
+
+            
+
+advantages of lean software development
+         oo 
+         allows more functionality to be done in less time
+         oo 
+         eliminates unnecessary activity which reduces the costs
+         oo 
+         allows continuous feedback to have a better product at the end 
+
+            
+
+disadvantages of lean software development
+         oo 
+         highly dependent on the team
+         oo 
+         non scalable
+         oo 
+         depends on a strong documentation
+
+      
+
+      
+
+      
+
+
+
+
+
+
+
+  extreme programming
+
+      extreme programming is one of the key software development frameworks of agile models it is used to improve the quality of the software and to be more responsive to customer requirements 
+
+      
+
+principles of extreme programming  
+   oo 
+        coding in extreme programming coding activity includes drawing diagrams that will be used for coding scripting a webbased system etc 
+   oo 
+        testing testing is considered as the primary factor to develop a faultfree software hence model gives high importance on testing
+   oo 
+        listening the developers carefully listen to the customers requirements and note it down so as to develop good quality software 
+   oo 
+        designing a good design results in the elimination of complex dependencies within a system so in extreme programming the effective use of suitable design is emphasized
+   oo 
+        feedback frequent feedback is taken from customers to understand the exact customer needs and to make the development effective
+   oo 
+        simplicity the main principle of the xp model is to develop a simple system instead of a larger complex system the system is made to work efficiently it focuses on some specific features that are immediately needed in the present time
+
+
+
+
+
+advantages of extreme programming
+   oo 
+   it saves costs and time required for project development 
+   oo 
+   constant feedback is the key of framework
+   oo 
+   simplicity is another advantage of extreme programming
+
+disadvantages of extreme programming
+   oo 
+   rather than on design extreme programming is focused more on the code
+   oo 
+   extreme programming does not measure code quality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  adaptive software development
+
+      adaptive software development is an agile framework which is based on rapid application development the objective is to enable the teams to adapt to the changing requirements in an efficient manner and evolve their products with a little bit of planning and continuous learning
+
+
+
+adaptive software development phases
+         oo 
+         speculation this phase is known as the planning phase the plan includes information like project requirements user needs etc to define a goal of each release cycle
+         oo 
+         collaboration it is a phase which includes collaborative communication and teamwork but it majorly emphasizes on individualism as individual creativity plays a major role in creative thinking people working together must trust each other to criticize without animosity assist without resentment work as hard as possible possess a skill set communicate problems to find effective solutions
+         oo 
+         learning learning helps the workers to increase their level of understanding over the projectlearning process is conducted in  major ways which are 
+               oo 
+               focus groups
+               oo 
+               technical feedback
+               oo 
+               project design and learning
+
+      
+
+advantages of adaptive software development
+   oo 
+   focused on the end users which can lead to better products
+   oo 
+   allows ontime and even early delivery
+   oo 
+   encourages closed communication between developers and clients
+
+
+
+disadvantages of adaptive software development
+   oo 
+   demands extensive user involvement which is difficult to facilitate
+   oo 
+   integrates testing into every stage which increases the cost
+   oo 
+   focus on rapid iterating and continuous feedback can lead to scope creep
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  feature driven development
+
+      feature driven development is an agile framework which focuses on organizing software development around making progress on features features in the fdd are not referred to as product features rather they are the user stories in scrum 
+
+characteristics of fdd
+   oo 
+        short iterative to finish the work on time along with efficiency this lifecycle works in simple and short iterations
+   oo 
+        customer focused this agile practice is totally based on user feedback feedback of  each feature given by the potential users and customers is taken into account before pushing the code to the main build
+   oo 
+        structured and feature focused adhoc activities in lifecycle includes  building the domain model and features list
+   oo 
+        frequent releases featuredriven development provides continuous releases of features and retains continuous success of the project
+
+      
+
+lifecycle in feature driven development
+         oo 
+         gather data  the first step is to gain understanding of the project target audience and their needs
+         oo 
+         develop overall model  the team will develop detailed domain models which are then used to build an overall model that acts as a rough outline of the system
+         oo 
+         build feature list  uses the information collected in the first step to create a list of the required features
+         oo 
+         plan by feature  analyze the complexity of each feature specific roles are defined and plan tasks that are related for team members to accomplish
+         oo 
+         design by feature  the feature are determine that will be designed and build
+         oo 
+         build by feature  this step implements all the necessary items that will support the design
+            
+
+advantages of feature driven development
+   oo 
+   allows progress tracking of projects
+   oo 
+   allows scaling of team and projects
+   oo 
+   allows multiple test to work together
+
+
+
+disadvantages of feature driven development
+   oo 
+   does not work efficiently for smaller projects
+   oo 
+   poor documentation
+   oo 
+   highly dependent on lead developers 
+
+      
+
 

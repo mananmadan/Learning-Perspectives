@@ -1,1 +1,97 @@
+write short notes on following
+ scrum
+      lean development
+      extreme programming xp
+      adaptive software development asd
+      feature driven development
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+answer  scrum
+scrum is a programming framework for agile software development used for development of complex programs where the program is broken down into small tasks which can be completed in  month or  weeks called sprints and the development in done in teams which are selforganized meaning that there is no overall team leader and they communicate with each other conduct daily meetings called scrum hence the name at the end of every sprint the team conducts a review of the sprint draw burnout charts discuss progress and draw sprint retrospective
+the term scrum was first coined in  which was adopted from rugby where scrum is a formation it is an evolutionary model which is a lightweight iterative and incremental method to develop complex systems the roles in scrum include 
+   oo    product owner who are the stakeholders of the product
+   oo    development team it is the team of  members who are responsible for developing the product
+   oo    scrum master who is responsible for removing obstacles of the development team
+the process of scrum development can be broken down into the following parts
+       sprint planning the team meets prior to each sprint to discuss the scope of the sprint the requirements select product backlog that can be achieved in the sprint set a sprint goal
+       daily scrum it is a daily meeting which happens at the same place everyday without delay for  minutes where each member states the task completed yesterday the task planned for today and any hindrances obstacles that may hinder development 
+       sprint review it is a meeting held at the end of every sprint to review the product developed present it to stakeholder and plan on what to do next
+       sprint retrospective it is a meeting held at the end of sprint to reflect the product in the past sprint and discuss what can be optimised further
+       backlog refinement
+
+answer  lean development
+lean development or lean software development is a programming methodology that takes into account the lean manufacturing principles and applies them to software development lawn manufacturing is a production methodology introduced by toyota in a nutshell lean manufacturing aims to do more and more with less and less in other words it tries to use less resources less manpower to deliver less wastage and deliver products that suit the users  needs more effectively at each iteration it takes  key principles which are value value stream pull flow perfection
+lean development uses users experience to develop a solid conceptual framework for the workflow key principles and values along with good practices which provide agility to the software that is developed as the product is based on users experience with the product it creates a kind of feedback loop where the users requirements may change over time and since lean development takes into account users experience it makes room for the agility in the software
+the term lean software development was first introduced in  by mary poppendieck and tom poppendieck lean development is characterized by  principles which are in close association with lean manufacturing principles
+   oo    eliminate waste  waste here is defined as anything that does not add value to the product from the users perspective it may include extra features defects partial code waiting building wrong features etc  managerial overhead which wont provide any real value to the product is also a waste from the users perspective lean methodology eliminates these wastes by first identifying them by value streaming and then eliminating one by one in each iteration
+   oo    amplify learning  lean development is based on iteration and the value of the software is based on how efficiently it fits to the users needs and not restricts itself to the requirements this means the users need may change over time and so should the product and this is possible only when we know about the users need which is achieved through learning we achieve this by presenting them with the screens and getting their input
+   oo    decide as late as possible  it aims to keep as many options open for the user as possible until the user has realized the need better it also helps in agility of the software and makes it more generic
+   oo    deliver as soon as possible it aims to develop and roll out the software to the market as soon as possible so that the feedback is collected faster and wastes can be eliminated in the next iteration the shorter the iterations better is the learning it also helps with keeping up with the users current needs so the developers dont have to worry about what the user may need in the production phase and they would actually know what they need via the software that was released in the previous iteration
+   oo    empower the team  it is based on agile principles that work around motivated individuals and trust them to get the job done here the developers come together and discuss the solution and strategies and share it with the managers who would suggest improvements or the course of action to the team
+   oo    build integrity  it include refactoring of code and building integration tests so that we keep only the essential parts of the code at each iteration and modularise it
+   oo    optimize  keep up with modern trends to solve a particular problem
+
+answer  extreme programming
+extreme programingxp is a software programming methodology high quality software that is susceptible and responsive to the change in users needs over time by this very definition xp falls under the paradigm of agile software development it focuses on frequent releases and changing according to the users need in every iteration it gets its name from the fact that the beneficial elements of the traditional software development are taken to extreme level
+xp was developed by kent beck in  while working in crystal on the c project it gained rapid attention from the development community in the s and s because of external influences  like shifting from sequential programming to object oriented programming and the rapid rise of the internet which caused a rise in speedtomarket and increased competition in the market
+there are  values followed in xp visavis
+       communication  software development is a team sport and effective communication is necessary for rapid development
+       simplicity  keep the code as simple as possible dont over engineer solution
+       feedback  feedback is important to pinpoint the areas where there is room for improvement
+       courage  raise organizational issues when they cause a hindrance to the teams efficiency
+       respect  respect your team members suggestions
+there are  programming practices adopted in xp which are categorized into  fields
+       pair programming coding is done by two people in a single workstation performing a single taskone person actually writes and thinks the code for the task while the other person thinks about testing viability changes and reviews
+       planning game it consists of a planning meeting for every iteration and is done one a week it is of  types visavis release planning and iteration planning
+       test driven development unit test are thought of before even beginning the coding phase for the individual tasks
+       whole team customer who actually uses the system should be part of the team
+       continuous integration code is released in small iterations and the new piece of code is continuously integrated with the old code
+       refactoring the code is refactored and optimized at every iteration and the non essential components or the obsolete components are removed at every iterations
+       small releases the release of the product is done in multiple stages and continuously so the releases are small and any risks or bugs can be identified and mitigated easily
+       coding standards xp dwells on very high coding standards including commenting and proper modularization
+       collective code ownership it means that everyone is responsible for  the code that is written so everyone has editing rights
+       simple design the simplest design that solves the  problem is considered best
+       system metaphor it incorporates naming methodology that would make it easier for the people andor programmers to understand the functionality of the code
+       sustainable pace it encourages developers to not overwork for developing a solution but to keep a steady pace
+
+answer  adaptive software development
+adaptive software developmentasd is software programming methodology that was developed by sam bayes and jim highsmith while working on rapid application development it is an agile development methodology which is iterative instead of a single release model wherein each iteration consists of speculation collaboration and learning phases which lets the software adapt to the users needs and requirements it is a cyclic evolutionary model built to develop complex systems based on human interaction and selforganization 
+the characteristics of asd include
+   oo    timeboxed
+   oo    feature driven  development is done on the basis of the features required to accomplish the task
+   oo    iterative  small continuous releases are adopted than a single bulk release at each release new features are added to the software and the obsolete functionalities are removed risks are mitigated
+   oo    risk driven  risks are mitigated at every iteration of the release interaction with the users helps identify the risks and bugs and are resolved in successive iterations 
+   oo    change tolerant
+there are three main phases in each iteration of the software development
+       speculation in this phase the project or the release is initiated planning is done as to what all needs to be done and what all could be done to get the desired results requirements are discussed and drafted user statements are reports and a mission statement is compiled this phase acknowledges the uncertainties in the project and planning and uses exploration and experimentation
+       collaboration complex projects are hard to build not only because the coding part is complex but also because the information and the knowledge required to build a stable application is also diverse and is only possible with team collaboration so the team must communicate with one another to come up with detailed risks methodschallenges and ideas to achieve the tasks to build the application the team should be able to voice out their suggestions and criticisms without anonymity etc to find efficient and effective solution
+       learning this phase is aimed to increase the knowledge of the developers  to the underlying technologies which when not thoroughly studied may sometimes yield undesired results learning is done with the help of focus groups technical reviews and project retrospective 
+
+answer  feature driven development
+feature driven developmentfdd is a clientcentric architecturecentric evolutionary programming methodology which is both iterative and incremental it is a fast and lightweight agile development methodology which was introduced in  by jeff deluca features are an important part of fdd features are defined as small uservalued functionality provided to the system in fdd it is imperative to deliver tangible working software  continuously in small releases 
+fdd is a modeldriven shortiteration process that consists of five basic activities the first two activities determine the overall model shape for the system and the next three activities define each feature the activities are
+       develop overall model this includes a high level design of the system followed by creation of domain models
+       build feature list a list of all the required features for  the system are compiled that are necessary for the proper functionality of the system
+       plan by feature feature or a set of features from the list are assigned to programmers
+       design by feature programmers select a subset of features assigned to them and develop a sequence diagram and flow models to refine the working of the system that would be developed within a short time frame usually  weeks
+       build by feature after the designing of the feature is complete code is written for the same unit tests are written and tested
+fdd is based on a core set of software engineering best practices visavis
+   oo    domain object modelling
+   oo    developing by feature
+   oo    individual class ownership
+   oo    feature teams
+   oo    inspection
 

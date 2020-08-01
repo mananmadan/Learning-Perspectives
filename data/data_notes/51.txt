@@ -1,178 +1,109 @@
+vikas 
+uco
+epp
 
-   q write short notes on following 
-   oo 
-                    scrum 
-   oo 
-                     lean development 
-   oo 
-                    extreme programming xp 
-   oo 
-                    adaptive software development asd 
-   oo 
-                    feature driven development 
+write short notes on following
+   oo    scrum
+   oo    lean development 
+   oo    extreme programming xp
+   oo    adaptive software development asd 
+   oo    feature driven development
 
-     
-   oo 
-      scrum 
+scrum lean development extreme programming asd and feature driven development all of them are agile software development frameworksthey all follow agile principles ie they are iterative and incremental in nature
 
-    
+scrum
 
-   scrum works well for longterm complex projects that require stakeholder feedback which may greatly affect project requirements so when the exact amount of work cant be estimated and the release date is not fixed scrum may be the best choice
+scrum defines three different roles to the entire project team which are 
+developer team  group of programmers who work in sprints to produce the product
+scrum master person who ensures that the team works in accordance to the predefined principles of scrum framework
+product owner customer is the product owner who acts same as project manager in context of other methodologies and ensures quality of user stories and organizes the features list in backlog refinement sessions
 
-   scrum team  to  people
+scrum ceremonies  these are the essential scrum meetings and comprises sprint planning daily standup daily scrum sprint review and retrospective 
+ sprint planning is held at the beginning of a new sprint where the product owner explains the requirements and all of the use cases the team asks questions to clear their doubtseffort estimation is done  using the planning poker method to assign tasks to individuals
+ daily scrum or standup  this meeting takes place each day with the goal to keep everyone on the same page
+ sprintiteration review   it usually takes  hours where the developer team gives demos of work done and receives feedback from the participants of the meeting
+ sprint retrospective  goal of this meeting is to find out any issue that is affecting the progress of the last iteration 
 
-   
-
-   this team does not include any of the traditional software engineering roles such as programmer designer tester or architect everyone on the project works together to complete the set of work they have collectively committed to complete within a sprint
-
-   
-
-   product owner the product owner is often someone from product management or marketing a key stakeholder or a key user
-
-   scrum master the scrum master is responsible for making sure the team is as productive as possible the scrum master does this by helping the team use the scrum process by removing impediments to progress by protecting the team from outside and so on
-
-   
-
-   product backlog the product backlog is a prioritized features list containing every desired feature or change to the product 
-
-   sprint planning meeting at the start of each sprint a sprint planning meeting is held during which the product owner presents the top items on the product backlog to the team the scrum team selects the work they can complete during the coming sprint that work is then moved from the product backlog to a sprint backlog 
-
-   
-
-   daily scrum each day during the sprint a brief meeting called the daily scrum is conducted this meeting helps set the context for each days work and helps the team stay on track
-
-   sprint review meeting at the end of each sprint the team demonstrates the completed functionality at a sprint review meeting during which the team shows what they accomplished during the sprint 
-
-   
-
-   sprint retrospective also at the end of each sprint the team conducts a sprint retrospective which is a meeting during which the team including its scrummaster and product owner reflect on how well scrum is working for them and what changes they may wish to make for it to work even better
-
-   sprint a sprint a timebox of one month or less during which a done useable and potentially releasable product increment is created usually sprints are limited to one calendar month
-
-    
-
-page break
-
+in addition to all these meetings scrum also specifies a few artifacts such as the product backlog the sprint backlogburndown chart and the product increment 
+the product backlog  list of features that are needed as part of the end product
+the sprint backlog is the items selected from the product backlog for the  sprint in consideration
+product increment  it contains items completed during a this sprint with the increments of previous sprints
+sprint burndown chart is used to keep track of the time taken by the scrum team 
+for a task in a sprint
  
-   oo 
-      extreme programming 
+lean development 
 
-   extreme programming
+this software development methodology evolved to decrease programming effort and budget with less wastein this methodology user stories are directly gathered by the programmers so that they directly address the features required by the customer that is why to complete the project a team with a mixed skill set is required otherwise you are just aiming for a huge blow in the development process
 
-   
+it is faster because now programmers do not have to write a bunch of unnecessary lines of codes just for the sake of completing a packagethe removal of waste or unnecessary requirements  directly increases the efficiency of the development  short iterations are adopted so that customers can tell new requirements after getting a gist of what is in progressshort iterations means delivering the product earlier which is a good thing
+the principles were founded by  mary and tom poppendieckthis methodology was initially used in companies like toyota
 
-   
+the key benefits of lean development include
+ learning quickly
+ measuring real customer behavior rather than focus groups
+ becoming closer to your customer
+ focusing on actionable metrics
+ becoming comfortable with pivoting
 
-   values of xp
+extreme programming xp
 
-   the five values of xp are communication simplicity feedback courage and respect and are described in more detail below
+it improves software quality and is agile to dynamic customer requirementsthe focus of xp is code rather than the design and follows continuous integration and deploymentit comes with a lot of pressure working with tight deadlines it also includes pair programming where the team gathers in pairs where they share ideas and work on the same task
 
-   
+it is different than other traditional models because
+it puts individuals and interactions over processes and tools
+working software over documentation ideology is considered
+customer collaboration over contract negotiation gets precedence and 
+responding to change over following a plan is implemented
 
-   communication
+extreme programming follows the following principles
+   oo    the planning game
+   oo    small releases
+   oo    metaphor
+   oo    simple design
+   oo    testing
+   oo    refactoring
+   oo    pair programming
+   oo    collective ownership
+   oo    continuous integration
+   oo    hour week
+   oo    onsite customer
+   oo    coding standard
 
-   software development is inherently a team sport that relies on communication to transfer knowledge from one team member to everyone else on the team xp stresses the importance of the appropriate kind of communication    face to face discussion with the aid of a white board or other drawing mechanism
+roles
+customer  what features to be included and what is the budget all driven aspects of a project are prioritized by the customer
+developer everyone on the team except the customer is labeled a developerthey are responsible for making the product
+coach for a new team with no experience in extreme programming  a coach might be helpful who is familiar to this methodology
+tracker tracker as the name suggests tracks the relevant metrics and identifies areas for improvement
+in extreme programming there are daily meetings called standups that last up to  minutes 
 
-   
 
-   simplicity
+adaptive software development asd
 
-   simplicity means what is the simplest thing that will work the purpose of this is to avoid waste and do only absolutely necessary things such as keep the design of the system as simple as possible so that it is easier to maintain support and revise simplicity also means address only the requirements that you know about dont try to predict the future
+adaptive software development is an evolved form of rapid application development rad jim highsmith published adaptive software development in 
 
-   
+its main goal is to make a product as quickly as possible with already available templates and architectures that is why it is the perfect choice for ontime and even early delivery products because most of the work in this is computer aided  it is easier to change and hence we can call it adaptive software developmentit requires a lot of user involvement which might always  not  be favourable because of computer aided softwares it is costly
 
-   feedback
+phases of asd life cycle
+speculate  this is the part where all the planning goes and various complex problems the team might face is brainstormed that is why short iterations are encouraged so that the team can learn from small rather than large mistakes
+collaborate it is required that a large volume of information be gathered and processed to help in solving the problem and it can be accomplished only in a collaborative environment
+learn team should keep learning through technical reviews and project retrospectives so that they can apply the new information to solve the problems
 
-   through constant feedback about their previous efforts teams can identify areas for improvement and revise their practices feedback also supports simple design your team builds something gathers feedback on your design and implementation and then adjust your product going forward
+speculate collaborate and learn is a cycle where one property depends on another two
 
-   
 
-   courage
+feature driven development fdd
 
-   kent beck defined courage as effective action in the face of fear extreme programming explained p  this definition shows a preference for action based on other principles so that the results arent harmful to the team you need courage to raise organizational issues that reduce your teams effectiveness you need courage to stop doing something that doesnt work and try something else you need courage to accept and act on feedback even when its difficult to accept
+this software development is centred on features features are the same as user stories in scrum
+software development life cycle in fdd includes the following steps 
+   oo    develop an overall model
+   oo    build a features list
+   oo    plan by feature
+   oo    design by feature
+   oo    build by feature
+this simple fivestep process helps in achieving the end product rapidly hence for projects which need to be immediately completed you should go for it standards defined for fdd are somewhat easier to follow along as well which acts as a strength for this model
 
-   
+it is similar to scrum in a lot of manners such as how they gather the user requirements and has meetings where the team is briefed about the tasks that both somewhat matches the scrum methodologyfor large projects with top down decision making structure can implement fdd however it doesnt work for smaller projects you cant take much out of documentation because it is small and not enough for newbies that is why senior developers with experience are required to work around this methodology
 
-   respect
 
-   the members of your team need to respect each other in order to communicate with each other provide and accept feedback that honors your relationship and to work together to identify simple designs and solutions
-
-   
-
-     
-
-    
-
-    
-
-page break
-
- 
-   oo 
-      lean development 
-
-    
-
-   lean development is an agile framework supported optimizing development resources and time reducing the delivery time and therefore the waste lean approach is additionally often mentioned because the minimum viable product during which the minimum possible version of its product being released to the market to earn from the users about their likes and dislikes further features are added or removed supported the feedback thus received  
-
-     
-
-   this approach allows more functionality to be delivered in less time unnecessary activity is eliminated reducing the value and empowers the event team boosting their morale and helping with the choice making 
-
-    
-
-page break
-
- 
-   oo 
-      feature driven development 
-
- 
-
-feature driven development organizes the event of the software around making progress on features theyre almost like user stories in scrum for instance a process to push notifications for updates or a login feature are considered to be features during this methodology  
-
-  
-
-it is an easy process which allows the rapid development of the product  
-
-it allows larger team to move products forward with continuous success and leverages predefined development standards so teams are ready to move at a quicker pace  
-
-feature driven development might not be feasible for smaller projects  
-
-it is highly hooked in to lead developers and has less written documentation which could cause confusion in some cases
-
-page break
-
- 
-   oo 
-      adaptive software development  
-
-    
-
-   adaptive software development aims to enable teams to effectively and quickly adapt to the changing requirements or the market needs through evolving their products through continuous learning or lightweight planning it encourages teams to develop consistent with a threephase process which incorporates speculate collaborate and learn  
-
-     
-   oo 
-      it is focused on the top users resulting in a more intuitive product  
-   oo 
-      it encourages transparency between the developers and therefore the clients  
-   oo 
-      asd allows for on time or maybe early deliveries  
-   oo 
-      it requires extensive user involvement increasing the problem of development a touch   
-   oo 
-      it emphasizes on rapid iterating and continuous feedback and integrates testing into every stage adding to the prices of the merchandise even further 
-
-    
-
-    
-
-   submitted by  
-
-                           md mehran  
-
-                        uco 
-
-                        coe  
 
 

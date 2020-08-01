@@ -1,8 +1,88 @@
-write short notes on following
+              epp assignment
+yash bansal     uco
+write short notes on the following
  scrum
-      lean development
-      extreme programming xp
-      adaptive software development asd
-      feature driven development
+
+scrum is a process framework used to manage product development and other knowledge work  scrum is empirical in that it provides a means for teams to establish a hypothesis of how they think something works try it out reflect on the experience and make the appropriate adjustments  that is when the framework is used properly
+scrum is structured in a way that allows teams to incorporate practices from other frameworks where they make sense for the teams context
+scrum is best suited in the case where a cross functional team is working in a product development setting where there is a nontrivial amount of work that lends itself to being split into more than one      week iteration
+the following principles underpin the empirical nature of scrum
+transparency
+the team must work in an environment where everyone is aware of what issues other team members are running into 
+inspection
+frequent inspection points built into the framework to allow the team an opportunity to reflect on how the process is working these inspection points include the daily scrum meeting and the sprint review meeting
+adaptation
+the team constantly investigates how things are going and revises those items that do not seem to make sense
+
+  lean development
+lean software development lsd is an agile framework based on optimizing development time and resources eliminating waste and ultimately delivering only what the product needs the lean approach is also often referred to as the minimum viable product strategy in which a team releases a bareminimum version of its product to the market learns from users what they like dont like and want to be added and then iterates based on this feedback
+lsds strengths include
+   oo    streamlined approach allows more functionality to be delivered in less time
+   oo    eliminates unnecessary activity and as a result can reduce costs
+   oo    empowers the development team to make decisions which can also boost morale
+lsds weaknesses include
+   oo    heavily depends on the team involved making it not as scalable as other frameworks
+   oo    depends on strong documentation and failure to do so can result in development mistakes
+    extreme programming xp
+
+
+extreme programming xp is one of the most important software development framework of agile models it is used to improve software quality and responsive to customer requirements the extreme programming model recommends taking the best practices that have worked well in the past in program development projects to extreme levels
+
+ some of the good practices that have been recognized in the extreme programming model and suggested to maximize their use are given below
+   oo 
+        code review code review detects and corrects errors efficiently it suggests pair programming as coding and reviewing of written code carried out by a pair of programmers who switch their works between them every hour
+   oo 
+        testing testing code helps to remove errors and improves its reliability xp suggests testdriven development tdd to continually write and execute test cases in the tdd approach test cases are written even before any code is written
+   oo 
+        incremental development incremental development is very good because customer feedback is gained and based on this development team come up with new increments every few days after each iteration
+   oo 
+        simplicity simplicity makes it easier to develop good quality code as well as to test and debug it
+   oo 
+        design good quality design is important to develop a good quality software so everybody should design daily
+   oo 
+        integration testing it helps to identify bugs at the interfaces of different functionalities extreme programming suggests that the developers should achieve continuous integration by building and performing integration testing several times a day
+   adaptive software development asd
+
+
+adaptive software development is a method to build complex software and systems asd focuses on human collaboration and selforganisation asd life cycle incorporates three phases which are explained below
+
+ speculation
+
+during this phase project is initiated and planning is conducted the project plan uses project initiation information like project requirements user needs customer mission statement etc to define set of release cycles that the project wants
+
+ collaboration
+
+it is the difficult part of asd as it needs the workers to be motivated it collaborates communication and teamwork but emphasizes individualism as individual creativity plays a major role in creative thinking people working together must trust each others to
+   oo 
+        criticize without animosity
+   oo 
+        assist without resentment
+   oo 
+        work as hard as possible
+   oo 
+        communicate problems to find effective solutions
+
+ learning
+
+the workers may have a overestimate of their own understanding of the technology which may not lead to the desired result learning helps the workers to increase their level of understanding over the project
+
+
+ feature driven development
+
+fdd is a modeldriven and shortiteration process that was developed around software engineering best practices including domain object modeling developing by feature and code ownership
+featuredriven development begins with the establishment of an overall model that is expected to result in the feature list these features are usually small yet useful and effective on the users eyes due to this tactic of product development large teams are allowed to move products forward with a regular success that matters for the clients
+the general objective of fdd is to deliver concrete and flexible software in a short time its greatest advantage is that the process is scalable even for large teams as a result fdd is considered to be an effective solution to support the control of comparatively complex agile projects
+
+advantages of featuredriven development
+   oo 
+   gives the team a very good understanding of the projects scope and context
+   oo 
+   requires fewer meetings one of the frequent complaints about agile is that there are too many meetings scrum uses the daily meetings to communicate fdd uses documentation to communicate
+   oo 
+   uses a usercentric approach with scrum the product manager is usually considered the end user with fdd the client is the end user
+   oo 
+   works well with largescale longterm or ongoing projects
+
+
  
 

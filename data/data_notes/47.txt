@@ -1,151 +1,83 @@
-                                  short notes
-                                                                  lakshay dabas
-                                                                    uco
+write short notes on following
+          scrum  scrum is a framework used for longterm and complex projects  scrum team    usually consists of  to  people 
+      usage
+      scrum may be the best choice when the exact amount of work cant be estimated and the release date is not fixed   scrum is used for projects that require stakeholder feedback which may greatly affect project requirements  
+      benefits
+         oo          higher productivity
+         oo          betterquality products
+         oo          reduced time to market
+         oo          improved stakeholder satisfaction
+         oo          better team dynamics
+         oo          happier employees
+ cons
+         oo          scrum often leads to scope creep  due to the lack of a definite enddate  
+         oo          chances of project failure are high if individuals arent very committed or cooperative 
+         oo          adapting scrum in large teams is challenging  
+            components
+                   the scrum team
+         oo          scrum master  making sure team is as productive as possible 
+         oo          product owner  key stakeholder or key user 
+         oo          development team  anyone who participates in the creation of deliverables 
+                 the scrum events
+         oo          sprint planning meeting  scrum team selects the work they can complete during the coming sprint 
+         oo          daily scrum  each day a brief meeting is conducted to set the context for each days work 
+         oo          sprint retrospective  at the end of each sprint  a meeting is scheduled in which the team reflects on how well scrum is working for them and what changes they may wish to make 
+         oo          sprint review meeting  team shows what they accomplished during the sprint  
+       scrum artifacts  sprint backlog  items taken from product backlog for sprint  
+       
+  lean development  lean software development is an agile framework  based on optimizing development time and resources  eliminating waste and ultimately delivering only what the product needs  team releases a bareminimum version of its product to the market learns from users what they like  dont like and want to be added and then iterates based on this feedback  
+  usage
+ organisation must have an outstanding development team and trust that team implicitlyfor  this approach to be successful as it forces the team to ruthlessly cut away any activity that doesnt directly affect the final product  
+ benefits
+   oo    streamlined approach allows more functionality to be delivered in less time 
+   oo    eliminates unnecessary activity and as a result can reduce costs 
+   oo    empowers the development team to make decisions 
+cons
+   oo    heavily dependent on team members  can lead to failure if proper documentation is not maintained  
 
-   oo     scrum
-    scrum is a framework for project management that emphasises teamwork accountability and iterative progress toward a welldefined goal the framework begins with a simple premise start with what can be seen or known after that track the progress and tweak as necessary the three pillars of scrum are transparency inspection and adaptation
-    
-    the framework which is often part of agile software development is named for a rugby formation everyone plays a role when it comes to product development scrum roles include product owner scrum master and scrum development team
-    
-    product owner this team member serves as the liaison between the development team and its customers the product owner is responsible for ensuring expectations for the completed product have been communicated and agreed upon
-    scrum master this team member serves as a facilitator the scrum master is responsible for ensuring that scrum best practices are carried out and the project is able to move forward
-    scrum development team this  is a group that works together for creating and testing incremental releases of the final product
-    
-    the scrum process
-    
-    the scrum process encourages practitioners to work with what they have and continually evaluate what is working and what is not working communication which is an important part of the process is carried out through meetings called events  scrum events include
-    
-    daily scrum  the daily scrum is a short standup meeting that happens at the same place and time each day at each meeting the team reviews work that was completed the previous day and plans what work will be done in the next  hours this is the time for team members to speak up about any problems that might prevent project completion
-    
-    sprint planning meeting a sprint refers to the time frame in which work must be completed and its often  days everyone participates in setting the goals and at the end at least one increment  a usable piece of software  should be produced
-    
-    sprint review this is the time to show off the increment
-    
-    sprint retrospective a sprint retrospective is a meeting thats held after a sprint ends during this meeting everyone reflects on the sprint process a teambuilding exercise may also be offered an important goal of a sprint retrospective is continuous improvement
-     
-    the scrum framework shows how the elements of scrum revolve around the scrum team
-    
-    scrum artifacts
-    
-    an artifact is something of historical interest that deserves to be looked at again in scrum product development artifacts are used to see whats been done and what is still in the queue scrum artifacts which include product backlog sprint backlog product increment and burndown are useful to look at in sprint planning meetings
-    
-    product backlog this refers to what remains on the to be done list  during a product backlog grooming session the development team works with the business owner to prioritize work that has been backlogged the product backlog may be finetuned during a process called backlog refinement
-    
-    sprint backlog this is a list of tasks that must be completed before selected product backlog items can be delivered these are divided into timebased user stories
-    
-    product increment this refers to whats been accomplished during a sprint  all the product backlog items  as well as whats been created during all previous sprints the product increment reflects how much progress has been made
-    
-    burndown the burndown is a visual representation of the amount of work that still needs to be completed a burndown chart has a y axis work and an x axis time ideally the chart illustrates a downward trend as the amount of work still left to do over tim
+      extreme programming xp  an agile software development framework that aims to produce high quality software  and higher quality of life for the development team xp is set up for small groups of programmers 
+usage
+in many software environments dynamically changing requirements is the only constant  xp is used when customers dont have a firm idea of what the system should do and hence there are dynamic changes in requirements  the xp practices are set up to mitigate the risk and increase the likelihood of success 
+benefits
+   oo    whole process in xp is visible and accountable  developers commit what they will accomplish and show progress 
+   oo    it allows companies to save costs and time required for project realization 
+cons
+   oo    this methodology does not measure code quality code assurance  it may cause defects in the initial code 
 
+values
+   oo    communication  xp stresses the importance of the appropriate kind of communication face to face communication with aim of a white board 
+   oo    simplicity  keep the design of the system as simple as possible so that it is easier to maintain support and revise  
+   oo    feedback  through constant feedback teams can identify areas for improvement and revise their practices  
+   oo    courage  you need courage to accept and act on feedback even when its difficult to accept  
+   oo    respect  team members should respect each other in order to communicate with each otherprovide and accept feedback
 
-   oo    lean development
-    lean software development is a set of principles that can be applied to software development to decrease programming effort budgeting and defect rates by one third the principles were adapted from lean manufacturing by mary and tom poppendieck this approach is beneficial to an organization because agile iterations eliminate extensive preplanned specifications user stories rather than large upfront specs are easily understood by each team member and simpler to communicate 
-    lean development makes it possible to gain information straight from the source therefore eliminating the common problem of producing software that does not address the customers needs short iterations provide an opportunity to communicate small sets of plans up front and allow the team to make decisions in order to adapt to unforeseen circumstances organizations that have the ability to complete fast simple improvements in the shortest time frame gain powerful decisionmaking benefits
-    
-    lean software development principles
-
-    lean development methodology principles can be applied in any it environment for improved programming practices the practice is based on seven principles
-   oo    waste elimination
-   oo    amplifying learning
-   oo    late decision making
-   oo    fast delivery
-   oo    team empowerment
-   oo    builtin integrity
-   oo    view applications as a whole
-    
-    waste is defined as anything that is capable of reducing code quality hindering time and effort or reducing delivered business value it can be things such as unnecessary code or functionality programming delays unclear requirements and insufficient testing lean development focuses on eliminating these factors learning required technologies and gaining understanding about what the user really needs
-    additionally by waiting until the last minute to make decisions the cost of change remains much less iterative development is utilized to deliver new applications or enhancements as quick as possible integrity is built into the software to ensure architecture and that system components flow well together organizations incorporate lean development principles to achieve continuous improvement as changes are rapidly implemented
-    
-   oo    extreme programming xp
-    extreme programming xp is one of the most important software development framework of agile models it is used to improve software quality and responsive to customer requirements the extreme programming model recommends taking the best practices that have worked well in the past in program development projects to extreme levels
-    
-    good practices needs to practiced extreme programming some of the good practices that have been recognized in the extreme programming model and suggested to maximize their use are given below
-   oo    code review code review detects and corrects errors efficiently it suggests pair programming as coding and reviewing of written code carried out by a pair of programmers who switch their works between them every hour
-   oo    testing testing code helps to remove errors and improves its reliability xp suggests testdriven development tdd to continually write and execute test cases in the tdd approach test cases are written even before any code is written
-   oo    incremental development incremental development is very good because customer feedback is gained and based on this development team come up with new increments every few days after each iteration
-   oo    simplicity simplicity makes it easier to develop good quality code as well as to test and debug it
-   oo    design good quality design is important to develop a good quality software so everybody should design daily
-   oo    integration testing it helps to identify bugs at the interfaces of different functionalities extreme programming suggests that the developers should achieve continuous integration by building and performing integration testing several times a day
-    
-    basic principles of extreme programming xp is based on the frequent iteration through which the developers implement user stories user stories are simple and informal statements of the customer about the functionalities needed a user story is a conventional description by the user about a feature of the required system it does not mention finer details such as the different scenarios that can occur on the basis of user stories the project team proposes metaphors metaphors are a common vision of how the system would work the development team may decide to build a spike for some feature a spike is a very simple program that is constructed to explore the suitability of a solution being proposed it can be considered similar to a prototype some of the basic activities that are followed during software development by using xp model are given below
-    
-   oo    coding the concept of coding which is used in xp model is slightly different from traditional coding here coding activity includes drawing diagrams modeling that will be transformed into code scripting a webbased system and choosing among several alternative solutions
-    
-   oo    testing xp model gives high importance on testing and considers it be the primary factor to develop a faultfree software
-    
-   oo    listening the developers needs to carefully listen to the customers if they have to develop a good quality software sometimes programmers may not have the depth knowledge of the system to be developed so it is desirable for the programmers to understand properly the functionality of the system and they have to listen to the customers
-    
-   oo    designing without a proper design a system implementation becomes too complex and very difficult to understand the solution thus it makes maintenance expensive a good design results elimination of complex dependencies within a system so effective use of suitable design is emphasised
-    
-   oo    feedback one of the most important aspects of the xp model is to gain feedback to understand the exact customer needs frequent contact with the customer makes the development effective
-    
-   oo    simplicity the main principle of the xp model is to develop a simple system that will work efficiently in present time rather than trying to build something that would take time and it may never be used it focuses on some specific features that are immediately needed rather than engaging time and effort on speculations of future requirements
-    
-    applications of extreme programming xp some of the projects that are suitable to develop using xp model are given below
-    
-   oo    small projects xp model is very useful in small projects consisting of small teams as face to face meeting is easier to achieve
-    
-   oo    projects involving new technology or research projects this type of projects face changing of requirements rapidly and technical problems so xp model is used to complete this type of projects
-
-   oo    adaptive software development asd
-
-    adaptive software development is a method to build complex software and system asd focuses on human collaboration and selforganisation asd life cycle incorporates three phases namely
-    
-     speculation
-     collaboration
-     learning 
-    
-    
-    
-    
-    these are explained as following below
-    
-       speculationduring this phase project is initiated and planning is conducted the project plan uses project initiation information like project requirements user needs customer mission statement etc to define set of release cycles that the project wants
-    
-     collaboration
-    it is the difficult part of asd as it needs the workers to be motivated it collaborates communication and teamwork but emphasizes individualism as individual creativity plays a major role in creative thinking people working together must trust each others to
-   oo    criticize without animosity
-   oo    assist without resentment
-   oo    work as hard as possible
-   oo    possession of skill set
-   oo    communicate problems to find effective solution
-    
-     learning
-    the workers may have a overestimate of their own understanding of the technology which may not lead to the desired result learning helps the workers to increase their level of understanding over the project
-    learning process is of  ways
-       focus groups
-       technical reviews
-       project postmortem
-    asds overall emphasis on the dynamics of selforganising teams interpersonal collaboration and individual and team learning yield software project teams that have a much higher likelihood of success
-
-   oo    feature driven development 
-
-    it is an agile iterative and incremental model that focuses on progressing the features of the developing software the main motive os featuredriven development is to provide timely updated and working software to the client in fdd reporting and progress tracking is necessary at all levels
-    
-    fdd lifecycle
-    
-   oo    build overall model
-   oo    build feature list
+      
+     adaptive software development asd  it is a method to build complex software and systems  asd focuses on human collaborations and selforganisation  
+phases
+   oo    speculation  project is initiated and planning is conducted  
+   oo    collaboration  it needs the workers to be motivated  people working together must trust each others to criticize  assist  work as hard as possible  possession of skill set and communicate problems to find effective solutions  
+   oo     learning  learning helps the workers to increase their level of understanding over the project   team has to increase their knowledge constantlyusing practices such as  technical reviews  project retrospective and customer focus groups  
+      
+      feature driven development fdd  organizes software development around making progress on features  
+usage 
+fdd is used while working on a largescale software project   but this methodology relies heavily on chief developers and has a topdown decision making approach 
+project lifecycle 
+   oo    develop an overall model
+   oo    build a feature list
    oo    plan by feature
    oo    design by feature
    oo    build by feature
-    
-     
-    
-    
-    characteristics of fdd
-   oo    short iterative fdd lifecycle works in simple and short iterations to efficiently finish the work on time and gives good pace for large projects
-   oo    customer focused this agile practice is totally based on inspection of each feature by client and then pushed to main build code
-   oo    structured and feature focused initial activities in lifecycle builds the domain model and features list in the beginning of timeline and more than  of efforts are given to last  activities
-   oo    frequent releases featuredriven development provides continuous releases of features in the software and retaining continuous success of the project
-    advantages of fdd
-   oo    reporting at all levels leads to easier progress tracking
-   oo    fdd provides continuous success for larger size of teams and projects
-   oo    reduction in risks is observed as whole model and design is build in smaller segments
-   oo    fdd provides greater accuracy in cost estimation of the project due to feature segmentation
-    disadvantages of fdd
-   oo    this agile practice is not good for smaller projects
-   oo    there is high dependency on lead programmers designers and mentors
-   oo    there is lack of documentation which can create an issue afterwards
-    
+
+
+benefits
+   oo    allows more rapid development 
+   oo    allows larger teams to move products forward with continuous success 
+   oo    leverages predefined development standards so teams are able to move quickly 
+cons
+   oo    does not work efficiently for smaller projects
+   oo    less written documentation which can lead to confusion 
+   oo    highly dependent on lead developers or programmers 
+      
+
+
 

@@ -1,0 +1,10 @@
+q write short notes on following
+   oo     scrum
+   oo     lean development
+   oo     extreme programming xp
+   oo     adaptive software development asd
+   oo     feature driven development
+
+ scrum
+ 
+
