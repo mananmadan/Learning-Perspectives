@@ -12,7 +12,10 @@
 
 ### To do
 
-- High Quality data needed!
+- Data Cleaning
+ - Check keywords of the main file
+ - Run again using improved keywords
+ - check why there are no keywords in some cases
 
 ### Done:
 
