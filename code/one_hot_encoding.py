@@ -48,10 +48,16 @@ def encode(mainfile,evalfile,normalizing_val):
     load_dict(mainfile)
     flag = 0
     for i in nouns:
-      if i in open(evalfile).read():
-              bstring = bstring + '1'
-      else:
-              bstring = bstring + '0'
+         temp_len = len(i.split(' '))
+         for j in i.split(' '):
+            if j in open(evalfile).read().split(' '):
+               flag = flag + 1
+         if flag >= (0.75)*temp_len:
+             flag = 0
+             bstring = bstring +'1'
+         else:
+             flag = 0
+             bstring = bstring + '0'
     
     print(bstring)
     write_string("/home/manan/Desktop/Research/Learning-Perspectives/code/bstr.txt",bstring)
