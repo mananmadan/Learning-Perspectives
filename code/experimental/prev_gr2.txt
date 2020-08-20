@@ -1,0 +1,3040 @@
+Q1809448946
+Whole Foods Market
+-1
+time interval
+day
+-1
+Lean
+-1
+oOoOO
+oOoOO 
+-1
+extreme programming
+extreme programming 
+-1
+Melayu Kingdom 
+Melayu Kingdom
+-1
+hydraulic machine
+hydraulic press
+-1
+user story 
+user story
+-1
+cost estimate 
+cost estimate
+cost estimation in software engineering
+-1
+The devil is in the detail 
+The devil is in the detail
+-1
+history of software engineering 
+history of software engineering
+-1
+group action
+nonviolent communication
+-1
+zero waste 
+zero waste
+-1
+software developer
+game programmer
+-1
+learning or memory
+learning 
+-1
+software development 
+back end
+front end
+computer programming
+software refactoring
+requirements analysis
+macro
+software design
+software release life cycle
+Team software process
+Q2028458
+codebase
+Software review
+software project cancellation
+issue
+software development
+web development
+front and back ends
+software porting
+video game development
+open-source software development
+Low-code development platform
+-1
+domain-specific language
+-1
+Unforeseen Incidents
+-1
+soft skills
+soft skills 
+-1
+cost estimate
+cost estimate 
+-1
+Design sprint
+Design sprint 
+-1
+Lean software development
+-1
+minimization
+minification
+-1
+specification
+user story 
+software requirements specification 
+-1
+group of humans
+focus group 
+organization
+Project team
+-1
+method
+Stand-up meeting
+best practice 
+-1
+Whole Atmosphere Community Climate Model 
+Whole Atmosphere Community Climate Model
+-1
+software development
+software release life cycle 
+software development 
+requirements analysis
+-1
+blowback 
+blowback
+straight blowback
+-1
+conviction
+knowledge
+-1
+fuel gas
+biogas 
+-1
+experience
+customer experience
+-1
+point in time
+present
+-1
+metaphor 
+metaphor
+idiom
+Q2124976
+conceptual metaphor
+Mitate
+dead metaphor
+Extended metaphor
+smoke and mirrors
+-1
+Null
+Null 
+-1
+business administration
+customer relationship management 
+-1
+metaphor
+metaphor 
+-1
+software release life cycle 
+freeze
+software beta testing
+release to manufacture version
+release to web
+software alpha testing
+software pre-alpha testing
+release to manufacturing
+general availability
+gamma testing
+Q55069811
+software release life cycle
+-1
+hospital
+High dependency unit
+-1
+congenital disorder
+neural tube defect
+-1
+ECC memory 
+ECC memory
+-1
+music
+blues
+electronic music
+samba
+music of Athens, Georgia
+ancient music
+independent music
+acoustics
+medieval music
+funk
+folk music
+cantastoria
+music of the United Kingdom
+acoustic music
+dance music
+music of Africa
+popular music
+music of Poland
+music of ancient Egypt
+music of Asia
+Music of Jamaica
+Arabesque
+Q632393
+instrumental music
+music of Argentina
+music of the Austral Islands
+music of France
+vocal music
+music of Korea
+Latin American music
+prehistoric music
+music of Norway
+music of Romania
+music of Spain
+music of Bulgaria
+microtonal music
+religious music
+music of ancient Greece
+Gebrauchsmusik
+trivial music
+background music
+Esperanto music
+underground music
+music of Finland
+Christmas music
+Repetitive music
+music of Greece
+sung poetry
+art music
+Music of Tibet
+Irish rebel music
+Jewish music
+progg
+musical quotation
+Gnawa music
+Q2051216
+Byzantine music
+music of Thrace
+Q2152027
+music of the United States
+children's music
+Q2406196
+outsider music
+Trailer music
+music of Denmark
+music of Portugal
+music of Belgium
+Native American music
+secular music
+Western music
+music of Germany
+music of ancient Rome
+Coptic music
+chaabi
+music of Australia
+Malhun
+music of New Caledonia
+Occitan music
+Music of Quebec
+Music of Réunion
+Symphonic music
+Music of the Channel Islands
+music of Italy
+Music of Catalonia
+Ossetian music
+Reihentechnik
+accordion music
+ancient Celtic music
+Ancient Tamil music
+Creole music
+generative music
+Baião
+Pathet
+Loud music
+Martial music
+MusiCure
+music of Canada
+Music of Central Asia
+music of Liberia
+music of New Zealand
+Traditional Russian music
+Russian academic music
+Russian religious music
+neume
+musical notation
+riff
+serialism
+music production
+scale
+tone
+Setup
+canon
+funky
+Q5999366
+Q6845393
+Mohur
+aspect of music
+Q19542513
+Q27430336
+Millennial whoop
+Storyteller
+intelligent dance music
+Batucada
+phonetics
+musical acoustics
+Ohm's acoustic law
+dBrn
+Girya
+Shave and a Haircut
+Burru
+Zupfen
+second voice
+Punteo
+prosody
+reggaeton
+Finnish classical music
+Octoechos
+Hagiopolitan Octoechos
+buccina
+cornu
+singing in ancient Rome
+music of Liguria
+list of number-one albums in New Zealand by New Zealand artists
+Music of the African diaspora
+parlour music
+public domain music
+Sami music
+theatre music
+Q8011523
+music program
+Q11722315
+Q11938280
+Q12483322
+Q12549250
+music for younger people
+Q13725116
+Q13866613
+Q15635882
+Paralyturgical music
+Discant
+otoMAD
+guitar music
+musical term
+Neue Musik
+music of the British Isles
+Masonic music
+Q26158707
+Nordic music
+functional music
+Q28318723
+hipco Music
+wind music
+recorded music
+horror music
+Q56408701
+Black music
+Q59592485
+forme complexe
+musicographer
+Q65209815
+music of Europe
+Russian music
+AndE
+Q97326344
+-1
+memory
+knowledge
+-1
+interior space
+High dependency unit
+-1
+nonviolent communication
+-1
+project management
+project management 
+-1
+Incremental build model
+Incremental build model 
+-1
+machine learning
+ensemble learning
+supervised learning
+Vapnik–Chervonenkis theory
+reinforcement learning
+semi-supervised learning
+unsupervised learning
+inductive transfer
+online machine learning
+Thompson sampling
+lasso
+embedding
+support vector machine
+feature
+Explanation-based learning
+artificial neural network
+deep learning
+pattern recognition
+hierarchical temporal memory
+chemometrics
+statistical classification
+multi-task learning
+nonlinear dimensionality reduction
+offline learning
+statistical relational learning
+decision tree learning
+feature learning
+quantum machine learning
+adversarial machine learning
+multiple kernel learning
+multimodal learning
+machine learning in bioinformatics
+sequence-to-sequence learning
+automated machine learning
+image-to-image translation
+federated learning
+interactive machine learning
+end-to-end learning
+self-supervised learning
+-1
+agile software development
+Spike
+extreme programming
+pair programming
+behavior-driven development
+Scaled Agile Framework
+Mob programming
+extreme programming 
+-1
+history
+history of software engineering 
+-1
+process
+software release life cycle 
+software development process 
+-1
+agent
+organization
+-1
+software development process
+software development process 
+iterative and incremental development 
+-1
+depiction
+depictions of Muhammad
+-1
+2010 Elimination Chamber
+-1
+goal
+Sustainable Development Goal Indicator
+strike zone
+out
+Q1568401
+Q1575950
+prevention
+Q4358132
+superordinate goals
+environmental goal
+organisation's goals
+Sustainable Development Goal
+healthy weight
+Sustainable Development Goal Target
+space saving
+base
+experimental aim
+-1
+autism spectrum
+Global perceptions of autism
+pronoun reversal
+autism
+Asperger syndrome
+Kanner's Syndrome
+high-functioning autism
+Pathological demand avoidance
+atypical autism
+autistic catatonia
+-1
+computer vision
+image segmentation
+-1
+criterion
+goal
+-1
+biogas 
+biogas
+Liquefied Bio Gas
+-1
+economy
+informal sector 
+-1
+product
+final product
+-1
+money amount
+interest
+-1
+law
+ownership
+ownership
+-1
+property law
+ownership
+-1
+minification
+-1
+Microsoft 365
+Microsoft Teams 
+-1
+applied science
+technology
+-1
+Functional specification
+user story 
+-1
+trade name
+record label
+-1
+customer relationship management 
+Key account manager
+customer relationship management
+Social CRM
+Customer lifecycle management
+-1
+Really Simple Systems 
+Really Simple Systems
+-1
+trade
+final product
+-1
+Human-robot collaboration
+-1
+United States Naval Special Warfare Development Group
+-1
+market structure
+initial public offering
+-1
+methodology
+operationalization
+equivalence scale
+quantitative research
+field experiment
+indicator
+pilot study
+usability lab
+field study
+case study
+ad hoc
+social science methodology
+historical method
+primary research
+software development methodology
+design method
+investment strategy
+economic methodology
+Vector control
+Q10845524
+Learning Lab
+inferring horizontal gene transfer
+psychological methodology
+personal data ecosystem mapping methodology
+quality control method
+-1
+Incremental learning
+active learning
+-1
+conceptual model
+domain model 
+-1
+listing
+initial public offering
+-1
+programming principle
+General responsibility assignment software patterns 
+-1
+practice
+best practice 
+-1
+commodity production
+final product
+-1
+day
+Q6553741
+night
+morning
+evening
+hour
+daytime
+twilight
+sunset
+noon
+sunrise
+afternoon
+Blue hour
+forenoon
+time of the day
+Happy hour
+Golden hour
+Anpao
+Sobriety
+dusk
+dawn
+maghrib
+Q50417469
+Q19161704
+Q19794334
+Q19794340
+Q19794346
+Q19794351
+Q19794357
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Julian day
+day of the week
+calendar date
+unbirthday
+Calends
+Buy Nothing Day
+day before yesterday
+day after tomorrow
+yesterday
+solar term
+tomorrow
+epagomenal day
+Q1359514
+holiday
+summer day
+leap day
+tropical day
+bank holiday
+non-working day
+ice day
+Q2273939
+taster day
+Q2644899
+rest day
+Q2684214
+Q2702632
+warm day
+soft day
+today
+Passion Saturday
+Q4374960
+Tycho Brahe days
+meteorological day
+Q10855819
+two days before yesterday
+three days after tomorrow
+two days after tomorrow
+business day
+Q12981823
+Half-birthday
+Q14362123
+Q14369084
+match day
+Q19299005
+Egyptian days
+Q29053574
+shopping day
+Q47293584
+journey
+market day
+additional day
+day of action
+the day after holyday
+fast day
+-1
+game programmer
+-1
+Curtiss P-40 Warhawk variants
+Curtiss P-40 Warhawk variants 
+-1
+Public offering
+initial public offering
+-1
+cognition
+learning 
+-1
+factor of production 
+factor of production
+means of production
+means of labor
+Q19311509
+-1
+economic branch
+software release life cycle 
+software development 
+requirements analysis
+-1
+machine press
+hydraulic press
+-1
+Action at a distance
+Action at a distance 
+-1
+series
+present
+-1
+Phonological history of English consonant clusters
+-1
+vanilla sex
+-1
+continual improvement process
+-1
+programmer
+game programmer
+-1
+zero waste
+zero waste 
+-1
+economic activity
+customer relationship management 
+-1
+Microsoft Teams 
+Microsoft Teams
+-1
+entertainment
+music
+-1
+Formation
+Formation 
+-1
+focus group 
+focus group
+consumer meeting
+-1
+software development methodology
+Scrum
+agile software development
+test-driven development
+-1
+Object-relational impedance mismatch
+-1
+Incremental build model 
+Incremental build model
+-1
+software requirements specification 
+user story
+use case
+software requirements specification
+MoReq2
+Q30932480
+-1
+extreme ultraviolet lithography 
+extreme ultraviolet lithography
+-1
+retail
+final product
+-1
+Longest common subsequence problem
+-1
+engineering process
+final product
+-1
+Organ harvesting from Falun Gong practitioners in China
+-1
+Project team
+-1
+quality
+software quality
+-1
+management
+project management 
+customer relationship management 
+-1
+service
+final product
+-1
+Paula Coughlin
+-1
+United States Naval Special Warfare Command
+United States Naval Special Warfare Development Group
+-1
+Incorporation
+Incorporation 
+-1
+peer review
+technical peer review
+-1
+Adobe InDesign 
+Adobe InDesign
+-1
+Watershed management
+-1
+industry classification
+final product
+-1
+artifact
+test case
+-1
+software development process 
+software configuration management
+software development methodology
+software verification and validation
+software development process
+waterfall model
+software prototyping
+rapid prototyping
+spiral model
+iterative and incremental development
+Q3859853
+Q3859878
+MBASE
+-1
+business informatics
+customer relationship management 
+-1
+Customer data
+-1
+iteration
+-1
+project
+project management 
+project 
+-1
+Project-based learning
+Project-based learning 
+-1
+record label
+Warner Music Group
+EMI
+United Naxal Records
+BAM international
+netlabel
+budget label
+independent record label
+major label
+vanity label
+talent agency
+open-source record label
+Q18484301
+Q18484305
+self-released
+Trinity Eclipse
+BNC productions
+video label
+Christian record label
+electronic music label
+Bongo BD
+Peloomiq Music Publishing
+-1
+estimation process
+cost estimate 
+-1
+NATO phonetic alphabet 
+NATO phonetic alphabet
+-1
+DARPA
+Information Processing Techniques Office
+-1
+Whole Atmosphere Community Climate Model
+Whole Atmosphere Community Climate Model 
+-1
+biogas
+biogas 
+-1
+computer programming
+agile software development
+-1
+heptad
+day
+-1
+Bubble bump football
+-1
+commercial law
+ownership
+-1
+Oahu
+-1
+oOoOO 
+oOoOO
+-1
+cultural region
+Oahu
+-1
+Design sprint 
+Design sprint
+-1
+banking system
+interest
+-1
+comparative advantage
+comparative advantage 
+-1
+software requirements specification
+user story 
+software requirements specification 
+-1
+social learning tools
+-1
+professional
+businessperson
+-1
+technical peer review
+-1
+computer language
+domain-specific language
+-1
+Program management
+project management 
+-1
+extreme ultraviolet lithography
+extreme ultraviolet lithography 
+-1
+customer relationship management
+customer relationship management 
+-1
+biocombustible
+biogas 
+-1
+occupation
+customer relationship management 
+-1
+Model-Glue 
+Model-Glue
+-1
+activities of daily living
+activities of daily living 
+-1
+knowledge
+Spagyric
+Magnum opus
+vitriol
+shipbuilding
+boat building
+mathematical geography
+sheet in
+Open sea
+piloting
+a posteriori knowledge
+a priori knowledge
+Apport
+Asport
+wisdom
+alchemy
+humanities
+navigation
+experience
+A priori and a posteriori
+occult
+skill
+exotericism
+gnosis
+technoscience
+notion
+expertise
+tacit knowledge
+specialty
+common knowledge
+Q1186078
+explicit knowledge
+Q1350087
+traditional knowledge
+Libre knowledge
+certainty
+self-knowledge
+regional studies
+commonsense knowledge base
+general knowledge
+Normative science
+Route knowledge
+medical knowledge
+sign
+public awareness of science
+Wissenschaft
+scientific knowledge
+knowledge transmission
+latent knowledge
+mutual knowledge
+homeland research
+trade secrets
+Local and Indigenous Knowledge
+-1
+domain model 
+domain model
+-1
+Q2823685
+Action at a distance 
+-1
+institution
+High dependency unit
+-1
+Johnny Rebel
+-1
+electronic business
+customer relationship management 
+-1
+Project-based learning 
+Project-based learning
+-1
+entity component system
+-1
+E-learning (theory)
+E-learning (theory) 
+-1
+Whole Foods Market
+Q1809448946
+-1
+political ecology
+zero waste 
+-1
+test-driven development
+test automation
+Acceptance test-driven development
+Continuous test-driven development
+-1
+Big Design Up Front
+-1
+user story
+user story 
+-1
+AirPort
+AirPort 
+-1
+DuckTales 
+Super DuckTales
+DuckTales: Treasure of the Golden Suns
+DuckTales
+-1
+architecture
+spatial planning
+architectural engineering
+row construction
+pediment
+zoo architecture
+constructing
+architectural element
+urban geography
+design (of buildings)
+architectural structure
+carport
+domestic roof construction
+Q1596446
+Q1741946
+Zvonnitsa
+architectural acoustics
+Q2359584
+Cob
+Hashti
+Kbach
+Pend
+gazon
+Sikra
+Ang
+栱
+Vasko
+morphology
+Italian Neoclassical interior design
+Zeitvertrag
+Zwangsmischer
+Absäuern
+Building biology
+Auf Putz
+Q759840
+construction management
+construction law
+thermal insulation
+wooden structure
+Q1654906
+real estate economics
+engineering construction
+metal construction
+Pureau
+building services engineering
+concoction
+earthwork
+pipeline construction
+wimperg
+Brick Gothic
+Manueline
+International Gothic
+Brabantine Gothic
+Sondergotik
+Flamboyant
+Spire light
+Q2319039
+Isabelline
+Spanish Gothic architecture
+Rayonnant
+Meridional Gothic
+Portuguese Gothic architecture
+Polish Gothic architecture
+Venetian Gothic architecture
+late Gothic
+Czech Gothic architecture
+Gothic architecture in Romania
+Gothic architecture in Lithuania
+Early Gothic
+Q72553961
+gelosia
+architecture of Angola
+Teugue
+Hospital de Sant Pau
+WikiHouse
+Razi style
+Q5681265
+Persian column
+zakomar
+ancient Greek architecture
+Dharahara
+Q9255690
+Zombeck Tower
+architecture of Macau
+Algerian architecture
+educational architecture
+domestic architecture
+architecture of the United Arab Emirates
+Q66100261
+19th-century architecture
+Integration architecture
+The Hungarian folk style
+nano-architecture
+Q97924156
+Neoeclectic architecture in Hungary
+landscape architecture
+Neoclassical architecture
+architecture of India
+Dravidian architecture
+Gothic architecture
+architecture of Argentina
+Islamic architecture
+architecture of Africa
+novelty architecture
+Q635138
+Q635238
+Q635244
+Q635250
+architecture of Eastern Germany
+arcology
+architecture of Iceland
+vernacular architecture
+Chinese architecture
+Q1103658
+Vastu shastra
+naval architecture
+Art Nouveau architecture
+Neolithic architecture
+open architecture
+interior architecture
+industrial architecture
+Iranian architecture
+Architecture of Bosnia and Herzegovina
+architecture of Italy
+Q1738204
+Mycenaan grave architecture
+architecture in Tibet
+architecture of the United States
+Architecture of Azerbaijan
+architecture of Portugal
+Architecture of Singapore
+Spa architecture
+architecture in Friesland
+architecture of Spain
+architecture of Switzerland
+church architecture
+architecture of Thailand
+architecture of the California missions
+Vijayanagara architecture
+Opensource Architecture
+Q3822623
+architecture of Austria
+Architecture of the Czech Republic
+classical architecture
+wooden architecture
+Architectural geometry
+architectural technology
+architecture of Denmark
+Architecture of Ethiopia
+Architecture of Kathmandu
+architecture of Kerala
+Battle of the Styles
+Dutch Colonial architecture
+Q5705233
+architectural design
+Q6756656
+phallic architecture
+Social architecture
+prehistoric architecture
+Military architecture in Abruzzo
+Q9630246
+Neocolonial architecture
+Q11854707
+Q11978496
+modular architecture
+Architecture of Belarus
+architecture of Madrid
+architecture of Slovakia
+rock-cut architecture
+Architecture of Mesopotamia
+architecture of England
+Nabataean architecture
+Q17995705
+Pre-war architecture
+Q18485274
+Q18485300
+Q19713053
+indigenous architecture
+Q21082119
+Avant-garde architecture
+Etruscan architecture
+Q25449337
+Q26156374
+military architecture
+water architecture
+Q30927480
+brick building
+Q42279232
+architecture in the Dutch East Indies
+Q47406287
+architectonics
+-1
+General responsibility assignment software patterns 
+General responsibility assignment software patterns
+-1
+activity
+project 
+-1
+E-learning (theory) 
+E-learning (theory)
+-1
+requirement
+activation energy
+quorum
+voter registration
+specification
+Q2324553
+Q2541888
+non-functional requirement
+functional requirement
+FIFA eligibility rules
+software requirements
+Compliance requirements
+occupational licensing
+inclusion criteria
+visa requirement
+access
+-1
+art
+music
+-1
+High-performance teams
+-1
+General responsibility assignment software patterns
+General responsibility assignment software patterns 
+-1
+businessperson
+entrepreneur
+broker
+merchant
+general contractor
+treasurer
+shipowner
+fiduciary
+investor
+banker
+business magnate
+millionaire
+comprador
+hotel manager
+importer
+Q1737039
+marketer
+financier
+recruiter
+medical representative
+serial entrepreneur
+promoter
+trader
+NEPman
+cadre
+Commodity broker
+industrialist
+Shanxi merchants
+studio executive
+Q11960402
+retailer
+property caretaker
+Q14761334
+contractor
+venture capitalist
+Q18242306
+broker-dealer
+circus director
+car dealer
+nightclub owner
+newspaper proprietor
+mine owner
+business or financial occupation
+coin dealer
+restaurant owner
+sex shop owner
+Q69871109
+Q69885527
+factory owner
+exporter
+tapestry dealer
+Q79254513
+Q97355933
+-1
+Hawaiian Islands
+Oahu
+-1
+phonological history of English
+Phonological history of English consonant clusters
+-1
+Scrum
+burn down chart
+Sprint
+product backlog
+sprint backlog
+Product Owner
+Development Team
+Scrum Master
+-1
+High dependency unit
+-1
+Q208004626467
+Difficult People
+-1
+Model-Glue
+Model-Glue 
+-1
+informal sector
+informal sector 
+-1
+Business value
+-1
+aircraft
+Curtiss P-40 Warhawk variants 
+-1
+Go-oo 
+Go-oo
+-1
+project 
+deliverable
+Q4130658
+Q5789108
+Q5789111
+Q5789113
+Q5789116
+Tortona–Genoa high-speed railway
+project management
+proband
+bringer of preliminary proceedings
+police line-up
+investigative experiment
+Art Looting Investigation Unit (ALIU) Reports Name Index
+Supplement dated 15 January 1946 to the Consolidated Interrogation Report
+project
+working group
+Trans-European Transport Networks
+Program management
+Greenfield project
+pilot experiment
+science project
+Q1345700
+Q1714096
+criminal investigation
+megaproject
+residential project
+side project
+Climarice
+community project
+driver development program
+solo project
+Two-hander
+voter suppression
+ship project
+Q17310701
+urban project
+Web project
+abandoned project
+Q23656850
+architectural project
+Soviet/Russian armament programme
+military project
+OSS Art Looting Investigation Unit Reports, 1945-46
+Eclipse Foundation Project
+Linux Foundation Project
+Apache Foundation Project
+cultural project
+Q51585688
+tagging project
+Greenbelt town
+Q56400394
+Horizon lending program
+database project
+digital humanities project
+software project
+video game project
+Wikipedia BUNGAKU
+FnF.FM Radio
+Emacs Lisp Package Archive
+local hub
+archaeological project
+crowdfunded project
+Samian Research
+Linked COVID-19 Data
+-1
+learning 
+learning
+education
+e-learning
+classical conditioning
+practice
+informal learning
+language acquisition
+operant conditioning
+motor learning
+training
+implicit learning
+sensitization
+coaching
+observational learning
+Experiential learning
+organizational learning
+second-language acquisition
+active learning
+Hermeneutic circle
+service learning
+conditioning
+study
+learning style
+fear conditioning
+Informal education
+Q3333578
+nonformal learning
+Dialogic learning
+Discrimination learning
+Entrepreneurship education
+Heritage language learning
+Learning-by-doing
+generalization
+POGIL
+perceptual learning
+Preparedness
+vocabulary development
+Cle
+sensorimotor learning
+accomodation
+assimillation
+associative learning
+intergenerational learning
+Deeper Learning
+nonassociative learning
+reflective learning
+relational learning
+computer-assisted learning
+Memory and retention in learning
+Verbal Learning
+instant aging
+Just-in-time learning
+skill acquisition
+educational stage
+curriculum
+ARCS-Modell
+seminar
+homework
+reading education
+Q1595669
+language teaching
+SASPAS
+educational organization
+G-seat
+internship
+J-QAF
+studies
+female education
+tutoring
+education in country or region
+evaluation (education)
+Q96205161
+educational intervention
+Zettelkasten
+note
+Flashcard
+Training workshop
+recognition
+learning strategy
+learning activity
+virtual classroom
+pronoun reversal
+Baza
+-1
+User interface specification
+-1
+life cycle
+software release life cycle 
+-1
+Formation 
+Formation
+-1
+neural tube defect
+spina bifida
+Rachischisis
+Meningohydroencephalocoele
+parietal foramina
+amyelia
+cephalocele
+malformation of the neurenteric canal, spinal cord and column
+neural tube defects, X-linked
+neural tube defects, folate-sensitive
+neural tube closure defect
+-1
+software engineer
+game programmer
+-1
+comparative advantage 
+comparative advantage
+economies of scale
+-1
+activities of daily living 
+activities of daily living
+-1
+image segmentation
+-1
+Scrum Sprint
+Scrum Sprint 
+-1
+human activity
+activities of daily living 
+-1
+Go-oo
+Go-oo 
+-1
+focus group
+focus group 
+-1
+learning
+learning 
+-1
+rail transport modelling
+Third rail
+Two-rail system
+Supern
+Q9634609
+Brazilian Society of Railway Modelling
+Model railroad layout
+garden railway
+Q1942263
+live steam
+PRO Z
+Backyard railroad
+rail transport modelling in Brazil
+-1
+improvement
+continual improvement process
+-1
+system lifecycle
+systems development life-cycle
+-1
+creativity
+character device
+work of art
+design
+decoration
+stedenmaagd
+idyll
+computer graphics
+Art Aia - La Dolce Berlin
+compromise
+AI diagnostics
+art
+problem solving
+thinking outside the box
+-1
+interest
+Zwischenzins
+compound interest
+Q1404721
+Q1566742
+accrued interest
+Reference rate
+swap rate
+Q2559506
+Q2689736
+Q2794679
+Q18060847
+Q21005112
+Q21011814
+Q23001819
+Q43373375
+simple interest
+-1
+genetic nervous system disorder
+neural tube defect
+-1
+best practice 
+best practice
+ITIL
+good agricultural practice
+Good Clinical Practice
+Knowledge-Centered Support
+-1
+history of software engineering
+history of software engineering 
+-1
+graphics
+schematic
+-1
+Adobe InDesign
+Adobe InDesign 
+-1
+repetition
+iteration
+-1
+AEC industry
+architecture
+-1
+present
+Q3151694
+presence
+present day
+-1
+sound
+music
+-1
+12 Basic Principles of Animation
+-1
+domain model
+domain model 
+-1
+iterative and incremental development
+iterative and incremental development 
+-1
+A New Kind of Science 
+A New Kind of Science
+-1
+procedure
+best practice 
+-1
+informal sector 
+informal sector
+grey market
+-1
+health care structure
+High dependency unit
+-1
+Really Simple Systems
+Really Simple Systems 
+-1
+Difficult People
+Q208004626467
+-1
+technology
+biotechnology
+nanotechnology
+information technology
+nuclear power
+radio-frequency identification
+emerging technologies
+anti-lock braking system
+signal processing
+space technology
+pneumatics
+Machine to machine
+Roman technology
+waste treatment technologies
+military technology
+radiant heating
+Science and technology of the Song dynasty
+history of technology
+high tech
+appropriate technology
+electronic stability control
+powertrain technology
+Q633079
+low technology
+biofilter
+nuclear reactor technology
+cinematic technique
+passive optical network
+advanced driver-assistance systems
+educational technology
+knowledge market
+Clean technology
+patent classification
+push technology
+technology of television
+hierarchical storage management
+Pull technology
+health technology
+directional boring
+software-defined networking
+membrane technology
+thin-film deposition
+communication technology
+media technology
+free-space optical communication
+quantum technology
+Q2312877
+electronic government
+Industrial arts
+Brazilian science and technology
+medieval technology
+alternative technology
+Q3516929
+biomedical technology
+Q4347841
+Ancient Greek technology
+ancient technology
+architectural technology
+low floor technology
+Information and Communications Technology
+Electrical engineering technology
+automobile technology
+lip sync
+marine technology
+mobile technology
+music instrument technology
+Web Platform
+prehistoric technology
+Renaissance technology
+reproductive technology
+Semantic technology
+Bleeding edge technology
+Q10858759
+Industrial technology
+gas power
+Q12825931
+aspect-oriented software development
+trailer tail
+Financial technology
+hypothetical technology
+civic technology
+isothermal technology
+vehicle safety technology
+sound recording and reproduction
+Technics
+Legal technology
+extended reality
+Q25508044
+Q25705899
+Q28008761
+medical laboratory technology
+solar energy conversion
+display technology
+sound reproduction
+Pedestrian crash avoidance mitigation
+goGermline Technology
+Q65211100
+energy conservation technology
+overclocking technology
+speed trap
+genetic engineering
+synthetic biology
+bioorthogonal chemistry
+molecular diagnostics
+medical biotechnology
+area of biotecnology
+technological change
+digital dividend after digital television transition
+digital television transition
+technique
+Technosignature
+Digital dividend II
+dental technology
+nanoware
+software engineering
+cell reference
+neuroscience
+access time
+IT infrastructure
+ripping
+data acquisition
+BINIT
+KGX
+Input/output completion port
+TGCC
+UIDD
+missile defense
+ЦВК
+history of transport
+technical monument
+history of the telescope
+history of hearing aids
+paperfuge
+FTTP
+Internet television
+SSAVI
+A-MAC
+medical device
+medical equipment
+Remote data transmission
+PUC
+GMLC
+ORFS
+Q90887341
+animal technology
+Q96782619
+-1
+administration
+customer relationship management 
+empowerment
+-1
+schematic
+pinout
+-1
+model building
+rail transport modelling
+-1
+week
+day
+-1
+business rule
+requirement
+-1
+ownership
+shareholder
+Q1520500
+equity
+Fractional ownership
+collective ownership
+freehold
+beneficial ownership
+gun ownership
+owner-occupancy
+-1
+computer memory
+ECC memory 
+-1
+A New Kind of Science
+A New Kind of Science 
+-1
+analysis
+user story 
+methodology
+-1
+congenital vertebral anomaly
+neural tube defect
+-1
+Cartesian coordinate system
+cartesian coordinate axis
+Cartesian coordinate
+easting
+northing
+easting and northing
+grid reference
+Q13430767
+-1
+extreme programming 
+extreme programming
+-1
+organization
+public administration
+citizenship
+head of state
+Q1048165
+Budget law
+ideological State Apparatus (part of the state)
+embassy
+county
+Cross River State Library
+Henry Carr Library
+Herbert Macaulay Library
+High Court Library of Lagos State
+Lagos State e-learning Centre
+Imo State Library Board
+Anambra State Library Board, central library
+African Heritage ResearcAnambra State Library Board, central library
+Ejeckam library Isulo Anambra state
+Dr Olusola Saraki library
+Interests Section
+repressive State apparatus
+prayer
+reincarnation
+religious experience
+asceticism
+cult following
+Judgement of Osiris
+anathem
+invocation
+building sacrifice
+Mountain god
+religious symbolism
+place of worship
+religious organization
+worship
+Astrolatry
+Folk Catholicism
+Tukik
+Aluna
+Tesir
+Cemi
+Nusa
+Yooka
+religious denomination
+Folk Christianity
+religious object
+religious concept
+Zeitungsbuch
+daily comic strip
+Teaser (Press)
+letter to the editor
+online magazine
+Spadea
+advertising supplement
+colour supplement
+play
+political transformism
+theatre criticism
+list of theatre terms
+Guitto
+Jest
+Keren
+theatrical genre
+theatre
+Q23891671
+centerfold
+cover
+hierarchy
+organizational unit
+department
+technostructure
+organizational subdivision
+treasury
+office
+organizations subject to surveillance under the Subversive Activities Prevention Act
+chapter
+camp commandant staff
+guard troop
+abbey church
+refectory
+Dormitorium
+monastic cell
+cellarium
+Basilica of the Visitation
+Provisorij van de Abdij van Villers te Schoten
+Q54670212
+runway
+aerodrome reference point
+apron
+taxiway
+airport infrastructure
+airport lighting
+airbase annex
+business oligarch
+festival edition
+Zeichnungsgewinn
+subscription form
+Q1229864
+Ekart
+Securities account
+Q2877143
+archdeacon
+canon
+Penitentiary canon
+dean
+Paborde
+Q5799405
+chantre
+Q50494258
+Q50494318
+Prefect of ceremonies
+Q50494449
+Q50494481
+Q50494513
+canon ad efectum
+Q50497399
+Q50497814
+Q50497869
+Q50497948
+Q50498010
+Q50498085
+Q50498163
+Q50498197
+canon ad honorem
+Q73185885
+dissolution
+Indian Ordnance Factories Service (IOFS)
+Q67582165
+Friedrich II von Graben
+Johannes III. Grünwalder
+Berthold VII, Count of Henneberg-Schleusingen
+Berthold V. von Neuffen
+Heinrich von Zipplingen
+Georg von Tschernembl
+Hugo von Werdenberg
+Hartung von Klux
+Georg II. von Volkersdorf
+Stephan of Modrusch, Veglia and Zengg
+Wolfgang V. von Walsee
+Reinprecht V. von Walsee
+Hans Herr und Graf von Stubenberg
+Konrad von Gundelfingen
+Luther Quad
+Velsecker Leonhard
+Busso III. von Vitzthum
+Witowetz Jan
+Wolfenreuter Wolfgang
+Andreas I. von Weißpriach
+Georg von Pottendorf
+Rudolf von Dürnstein
+Bernhard von Dachenstein
+Heidenreich Truchseß von Grub
+Jacob I. von Waldburg
+Hans II. von Parsberg
+Wilhelm von Grünenberg
+Hans IV. von Neidegg
+Heinrich the older Nothaft of Wernberg
+Sigmund von Niedertor
+Ulrich zu Oettingen
+Heinrich the Preysing
+Leutold von Stubenberg
+Albrecht von Pottendorf
+Hans Ungnad zu Sonneg
+Ulrich IV. Seckler
+Weißenegg Jörg
+Hermann of Haltenberg
+Q97031999
+Q97032231
+Q97301847
+Hans V. of Haag and Massenhausen
+Q97320133
+Q97323979
+Q97324309
+Gelthaus Johann
+Q97352583
+Q97352697
+Q97384451
+Ulrich von Grafenegg
+Anton von Hollenegg
+Jan Holubář
+Wolfgang Kadan
+Georg Kainach
+Johann Steinberg
+Bernhard Karlinger
+Heinrich Streun von Schwarzenau
+Johann von Keller
+Andreas Krabatz von Lappitz
+Bernhard Krabatsdorf
+Andreas von Kraig
+Konrad von Kraig
+Q97773526
+Sigmund Kreuzer
+Q98084681
+Heinrich of Gumppenberg
+marketing
+factory
+legal name
+invoice
+division
+innovation management
+branch
+state
+religion
+newspaper
+theater
+magazine
+monastery
+aerodrome
+oligarchy
+transmission system operator
+festival
+resistance movement
+juridical person
+think tank
+nonprofit organization
+harem
+meritocracy
+institution
+exchange
+central securities depository
+order
+consortium
+amusement park
+certificate authority
+Oberpostdirektion
+video game developer
+shop
+Unification Church
+public-private partnership
+breeder organisation
+Q228353
+Q230717
+cathedral works
+secret society
+Betriebssportgemeinschaft
+team
+Triad
+aid agency
+roadside assistance
+formal organization
+Q396010
+advocacy group
+alternative trading system
+regional Internet registry
+Socrates programme
+international organization
+special economic zone
+self-regulatory organization
+community health center
+ward
+colla castellera
+Government Delegation
+nation
+Workers' Samaritan Foundation
+Arbeitskreis
+labor organisation
+informal organization
+financial institution
+sociocracy
+collection agency
+syndicate
+key distribution center
+Retinue
+Artel
+artist-in-residence
+contract research organization
+company
+emergency service
+Judenrat
+domain
+political campaign
+library association
+summer camp
+Seniorat
+alliance
+organ
+executive board
+diplomatic corps
+club
+Guildhalls of Venice
+fraternal organization
+national trust
+Q1020406
+Campionese masters
+hackerspace
+computer manufacturer
+Q1102753
+continuing airworthiness management organisation
+science shop
+electoral college
+umbrella organization
+Hungarian Pioneer Association
+delegation
+credit bureau
+parliamentary opposition
+dispositif
+Q1230116
+research group
+lay movement
+Verschönerungsverein
+road manager
+Railway divisions in Germany
+Technical testing organization
+learning organization
+standards organization
+consumer organization
+cultural center
+Emergency Service Unit
+ruling party
+bicycle-sharing system
+virtual airline
+European Grouping of Territorial Cooperation
+fab lab
+Q1391497
+fact-finding mission
+Q1414768
+Q1436061
+design studio
+women's association
+Q1454131
+Project team
+front organization
+Q1487973
+Japan Association of Athletics Federations
+Landesbetrieb
+high IQ society
+Q1516258
+Geschichtskommission
+Gesellenverein
+Q1538288
+manorialism
+art colony
+mission complex
+youth organization
+troika
+Landesvertretung
+arbitration board
+Kolleg
+Heraldry Society
+heterarchy
+humane society
+lineage
+IG Autorinnen Autoren
+Q1666231
+Unfallkasse
+youth group
+Christian ministry
+youth council
+assembly
+kommunaler Spitzenverband
+Korporationsverband
+environmental organization
+criminal organization
+Q1792936
+artist's house
+Q1865653
+age groups in Scouting and Guiding
+aircraft fleet
+conservation organization
+Q1908247
+pediatric institute
+Zhukovsky Air Force Engineering Academy
+defense contractor
+Q1981731
+knowledge-intensive organisation
+kirch
+Q1993562
+Q2007377
+Q2015533
+Q2051396
+day activity center
+publisher
+language regulator
+Q2101749
+Q2107715
+press office
+Q2118782
+Q2125301
+trusted third party
+Q2150972
+Q2160262
+children's home
+Q2192370
+faculty organization
+Q2212223
+Q2234680
+student council
+Q2285254
+social movement organization
+social insurance carrier
+Q2346856
+Q2358296
+local service center
+hierarchical organization
+Q2400074
+expedition
+Q2404496
+platform
+virtual organization
+Club UNESCO
+rescue squad
+Q2511760
+Q2514437
+Q2521186
+Q2568552
+Uji
+Q2607794
+Q2609298
+Q2614446
+Q2619666
+government organization
+Q2667889
+cabinet
+elizate
+religious community
+national research and education network
+Q2756275
+birth region association
+Youthhouse
+hacker group
+Q2820266
+air navigation service provider
+health insurance organisation in Belgium
+neighborhood association
+center for development disorders
+documentation centre
+Q2945345
+Q2945474
+Q2948132
+Q2948459
+Q2955972
+Q2985307
+Q2985439
+Q2993760
+Quarters councils in France
+Q2994474
+Q2994540
+social rental office
+specialized directorates of fiscal control
+Q3029536
+Exercitiegenootschap
+Venezuelan Federation of Chambers of Commerce
+Fonds régional d'art contemporain
+Military House
+Support group
+Q3118016
+Ronda Campesina
+Q3129871
+Q3153618
+cathedral chapter
+Q3190900
+Network Information Center
+Q3204702
+Q3356147
+Service d'inspection
+Professional corporation
+organizational life cycle
+Q3541499
+Q3550605
+public utility establishment
+Q3591550
+Q3591573
+albergo
+Q3664809
+destination marketing organisation
+Community association
+administration
+Q3883882
+computing center
+Scout troop
+Universitas
+budget institution
+Hromada
+investment fund
+medical organization
+Q4298458
+shared services center
+council
+citizen media
+social organization
+sports organization
+patient organisation
+AIDS service organization
+Alternative trading organization
+Alzheimer's disease organizations
+Animal rescue group
+Arc Aid and Arc Kenya
+artist cooperative
+Association with lucrative purpose
+business
+Q4843561
+Bird rarities committee
+boat sharing
+Building Preservation Trust
+card association
+caving organization
+Clinical commissioning group
+conservation authority
+contract manufacturing organization
+cultural institution
+Curatorial platform as organization
+development corporation
+educational organization
+examination board
+Fire authority
+good government organizations
+confederación hidrográfica
+Q5869455
+fund
+housing society
+information centre
+inspectorate
+National Antarctic Program
+railway workshop
+Q6174684
+LGBTI+ rights organization
+land trust
+fire department
+local government
+law commission
+law enforcement organisation
+Student welfare organisation
+Q6559050
+Q6623894
+Local councils of the Boy Scouts of America
+Local federation
+mass movement
+membership organization
+metropolitan planning organization
+Or Movement
+Mission-based organization
+enterprise
+modality
+motor club
+NCI-designated Cancer Center
+naval militia
+navigation authority
+nonsectarian
+pacifist organisation
+peace commission
+Performing arts presenting organization
+political organisation
+preservationist
+primary ticket outlet
+professional services network
+Rape crisis center
+Residence hall association
+Sigma Delta Tau
+Sustainability organizations
+tenant management organisation
+UN fact-finding mission
+Unincorporated entity
+housing association
+Casa de Ganaderos de Zaragoza
+honor society
+Socrates-Erasmus
+Associate Laboratory
+revolutionary movement
+Q10536415
+municipal association
+Q10547757
+national federation
+steering group
+WordCamp
+Association without rights
+University system
+department directly under the CPC Central Committee
+reform school
+Q11267590
+mercantile agency
+Q11307379
+Q11308402
+haiku organization
+public policy school
+Q11404512
+Regional Area Forecast Centre
+外郭団体
+school council
+tokoro
+Japan Children’s Book Artists Society
+Q11507286
+association under the French law of 1901
+Q11610625
+Q11643867
+curatorial department of the Louvre
+Economic Chamber
+civil service
+public institution
+Q11799108
+theatre company
+Q11850143
+Esbart dansaire
+Q11949911
+lifestance organisation
+Q12033857
+společenství vlastníků jednotek
+svěřenský fond
+Q12082827
+polling organization
+Verbund
+Q12777887
+Q13028765
+Q13137592
+water board
+certification services provider
+collective
+traffic and transport organisation
+Opera del Duomo
+Q14622927
+magical organization
+Holacracy
+broadcaster
+organization established by the United Nations
+établissement public
+Esperanto organization
+intendance
+racecar constructor
+working group
+European Research Infrastructure Consortium
+AIDS reference center
+Q15875507
+association
+Microregion
+Q16537080
+Q16629007
+agricultural organization
+Machneh Israel
+genootschap
+armed organization
+federation of agricultural cooperative associations
+fusion museum
+Scientific Council
+Q17678851
+Catapult centres
+Bands of Mercy
+medical research center
+Nahverkehrsverbund
+Massive online open course provider
+opera company
+Q20921398
+aircraft program
+Q21008908
+Q21011945
+Q21013996
+Q21042952
+Q21428095
+organization related to nonviolence
+correspondents' association
+collective head of state
+cidery
+waste disposal organization
+Gene Ontology Consortium
+certification organization
+editing board
+Kiev Archaeographic Commission
+artistic association
+Q25616629
+hiking center
+Q26720885
+peace organization
+yoga studio
+Q27642463
+meteorological service
+SS main office
+organizations based in Belarus
+yeast bank
+university research group
+Organ of the Paris Commune
+fundación bancaria
+Q30006408
+charter school network
+health care structure
+food safety organisation
+Digital Science
+Q30754291
+Q31839066
+Q31883598
+Q32053225
+music organization
+exile organization
+meta-organization
+Q37321848
+anti-doping organization
+public funding agency
+audit institution
+game studio
+scientific organisation
+Estonian society
+disability organization
+International cultural organization
+Pashtun Tahafuz Movement
+Q48747280
+human resource management
+administrative centre
+Telhis
+group (fire department)
+Q70899162
+Zivilstandsamt
+Q854140
+Jugendamt in Germany
+Landratsamt
+Code enforcement
+Council Information System
+city council
+comarcal council
+local police
+Q11149346
+Receiver General
+Nordhausen Public Library
+City Archives of Nordhausen
+municipal executive board
+local council
+Wellington City Archives
+comarcal council of Catalonia
+mountain comarcal council
+observer status
+member
+public office
+official act
+officialdom
+Reichsbahndirektion Königsberg
+bicycle-sharing station
+Liberal Judaism
+Q11381593
+Q12050483
+curtense economy
+mission church
+consigliere
+Caporegime
+crime boss
+Soldato
+underboss
+Q12029047
+grade of an order
+bronze medal of the order
+silver medal of the order
+gold medal of the order
+spraypark
+amusement park show
+amusement park playground
+Ecclesiastical dignitary
+Q3655520
+Q12044663
+special purpose entity
+Arion
+member state
+member city of Eurotowns
+Clinical research associate
+Koziol
+political advertising
+get out the vote
+announcement of candidacy
+phone banking
+chairman of the executive board
+ambassador
+C3D2
+constituency
+elector
+shop floor
+women in business
+offer
+polder
+member of the supreme collegiate body of executive power
+subcommittee of a technical committee
+Q69449849
+SaxFDM
+Bais Rivka
+Bais Chana Women International
+KonsortSWD
+NFDI4BioDiversity
+NFDI4Cat
+NFDI4Health
+NFDI4Ing
+bioinformatics organisation
+Anti-Human Trafficking Organizations in Nigeria
+Cluster of Excellence
+general consistory
+Q52224508
+company (Italian legal concept)
+Q53348519
+Q53369874
+Q54943642
+Q55022401
+defunct organization
+BISFA
+Q55444925
+technical committee
+Q55597159
+teal organisation
+sewing circle
+regulatory authority
+Q56177191
+Q56199177
+Q56218841
+Q56257459
+Q56296184
+Yeshiva of the Students of Paris
+butter house
+Q58465309
+funding scheme
+baronía
+Q58895992
+Sokol County
+Q58952621
+Religious Missions
+appreciation society
+Q59202257
+Casa de Ganaderos de Tauste
+Ligallo de Calatayud
+Q59604944
+Cofradía de Pastores de Letux
+Ligallo de Teruel
+Q60036028
+MyData local hub
+equestrian theatre company
+national research data infrastructure
+Chinuch Office
+anarchist organisation
+men's organization
+local heritage association in Sweden
+Heimatortsgemeinschaft
+civic tech organization
+transport operator
+subsidiary entity
+Q63148123
+folk group
+Q63477924
+print syndicate
+Träger der politischen Bildung
+Q64699505
+Cycling organization
+Q65177617
+Q65274067
+RDM service point
+Q65726480
+Q65956712
+Jenischer Bund in Deutschland
+music studio
+Établissement public (Luxembourg)
+cooperativism
+China Cultural Center
+copyright holder's organisation
+police oversight organization
+BSDLab
+Q79447684
+troll farm
+NHS board
+manufactory
+Q84568189
+accrediting body
+moral subject of administrative law in France
+Common Initiative Group
+Q87813471
+Q87824683
+Q88199136
+Q88870218
+Q88871682
+organization recognized of public utility in France
+spy ring
+fact-checking organisation
+philatelic organization
+state (former and current)
+tourism agency
+NFDI4Chem
+Internship program
+Q96983545
+Q98108424
+NFDI4Objects
+NFDI4Memory
+Text+
+NFDI4Culture
+DataPlant
+GHGA
+Project team
+-1
+Sprint
+Stand-up meeting
+-1
+cyclic process
+Stand-up meeting
+-1
+personality trait
+creativity
+-1
+Application 
+Application
+-1
+systems development life-cycle
+-1
+Planning poker 
+Planning poker
+-1
+United States Special Operations Command
+United States Naval Special Warfare Development Group
+-1
+Carmela Soprano
+-1
+psychology terminology
+creativity
+-1
+skill
+soft skills 
+-1
+best practice
+best practice 
+-1
+2020 FIA Formula One World Championship
+2020 Spanish Grand Prix
+2020 Austrian Grand Prix
+2020 British Grand Prix
+2020 Hungarian Grand Prix
+2020 Belgian Grand Prix
+2020 Italian Grand Prix
+2020 Russian Grand Prix
+2020 Styrian Grand Prix
+70th Anniversary Grand Prix
+2020 Tuscan Grand Prix
+2020 Eifel Grand Prix
+2020 Grand Prix of Emilia-Romagna
+2020 Portuguese Grand Prix
+-1
+blowback
+blowback 
+-1
+software release life cycle
+software release life cycle 
+-1
+music organization
+record label
+-1
+artificial entity
+machine learning
+-1
+Lean Six Sigma
+Lean Six Sigma 
+-1
+iterative and incremental development 
+iterative and incremental development
+-1
+measurable set
+present
+-1
+customer experience
+-1
+OO
+-1
+hydraulic press
+record press
+-1
+NATO phonetic alphabet
+NATO phonetic alphabet 
+-1
+The Disney Afternoon
+DuckTales 
+-1
+Application
+Application 
+-1
+ECC memory
+ECC memory 
+-1
+software quality
+-1
+scientific terminology
+creativity
+-1
+list of computing and IT abbreviations
+-1
+business
+customer relationship management 
+-1
+soft skills 
+soft skills
+-1
+Integrated product team
+-1
+new product development
+software release life cycle 
+software development 
+requirements analysis
+-1
+manufacturing
+final product
+-1
+mental process
+creativity
+-1
+empowerment
+Broad-Based Black Economic Empowerment
+women's empowerment
+-1
+list of Camp Lazlo episodes
+-1
+test suite
+test case
+-1
+Circumstance
+-1
+data model
+domain model 
+-1
+factor of production
+factor of production 
+-1
+firearm action
+blowback 
+-1
+test case
+use case
+all-pairs testing
+-1
+AirPort 
+AirPort
+-1
+pervasive developmental disorder
+autism spectrum
+-1
+stylistic device
+metaphor 
+-1
+Curtiss P-40 Warhawk variants 
+Curtiss P-40 Warhawk variants
+-1
+Q676448
+initial public offering
+-1
+communication
+nonviolent communication
+-1
+Incorporation 
+Incorporation
+-1
+organ theft
+Organ harvesting from Falun Gong practitioners in China
+-1
+depictions of Muhammad
+Q19605870
+-1
+Good manufacturing practice
+-1
+Action at a distance 
+Action at a distance
+-1
+intention
+goal
+-1
+astrological aspect
+aspect in Hindu astrology
+-1
+renewable energy
+biogas 
+-1
+artificial intelligence
+machine learning
+machine learning
+-1
+human sexual activity
+vanilla sex
+-1
+systems engineering
+requirements analysis
+-1
+rare genetic developmental defect during embryogenesis
+neural tube defect
+-1
+Planning poker
+Planning poker 
+-1
+project management 
+Technical feasibility
+task management
+pilot experiment
+Project Cycle Management
+Q2112393
+Q2112407
+Q2112409
+project planning
+capacity management
+Project management triangle
+Q3412296
+XLPM
+Lessons Learned
+Process management
+Risk management plan
+Project risk analysis
+SAIV
+project management
+Project risk management
+software project management
+Cone of Uncertainty
+Project portfolio management
+critical path drag
+-1
+list of AMD Athlon XP microprocessors
+-1
+Xbox 360 technical problems
+-1
+construction
+architecture
+-1
+law of obligations (Germany)
+ownership
+-1
+The devil is in the detail
+The devil is in the detail 
+-1
+nonviolence
+nonviolent communication
+-1
+Lean Six Sigma 
+Lean Six Sigma
+-1
+orthogonal coordinates
+Cartesian coordinate system
+-1
+commercial law in Germany
+ownership
+-1
+Melayu Kingdom
+Melayu Kingdom 
+-1
+medical facility
+High dependency unit
+-1
+requirements engineering
+requirements analysis
+-1
+requirements analysis
+business requirements
+-1
+Stand-up meeting
+-1
+Joint Special Operations Command
+United States Naval Special Warfare Development Group
+-1
+Null 
+Null
+-1
+economic value
+Business value
+-1
+Lee Pace
+-1
+DuckTales
+DuckTales 
+-1
+Microsoft Teams
+Microsoft Teams 
+-1
+role
+gender stereotype
+social position
+Team Role
+dominant
+legal status
+gender role
+submissive
+Head of municipality
+position
+followership
+priesthood
+Product Owner
+guest
+host
+escort
+substitute
+Registration Authority
+Stahlroßreiter
+professional role
+Q91347402
+-1
+computer science
+machine learning
+machine learning
+-1
+Scrum Sprint 
+Scrum Sprint
+-1
+philosophical movement
+nonviolent communication
+-1
+product lifecycle management
+software release life cycle 
+-1
+final product
+intermediate product
+-1
+Next Jump
+-1
+academic discipline
+customer relationship management 
+-1
+initial public offering
+ASBA
+-1
+algorithm
+machine learning
+-1
+rule
+requirement
+-1
+rectilinear coordinate system
+Cartesian coordinate system
+-1
+time
+present
+-1
+emergency service
+High dependency unit
+-1
