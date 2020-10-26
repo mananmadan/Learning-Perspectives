@@ -1,7 +1,6 @@
-
 # Learning-Perspectives
 
- **A project to identify and group students with different learning perspective in a classroom using Clustering Techniques**
+**A project to identify and group students with different learning perspective in a classroom using Clustering Techniques**
 
 ## Main Idea:
 
@@ -36,3 +35,6 @@
 
 - One Hot Encode the data
 - cluster according to the score in one-hot encoding
+- Hello
+- [link-working?](www.google.com)
+
